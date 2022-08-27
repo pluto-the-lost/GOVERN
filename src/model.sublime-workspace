@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"colon"
+			],
+			[
+				"Pseu",
+				"PseudoTime2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control:",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.800003052,
+		"history":
+		[
+			"echo 123",
+			"123"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/anaconda3/envs/torch_geo/Lib/site-packages/scvelo/read_load.py",
+		"/C/Users/gao/AppData/Local/Temp/scp29752/home/yinqijin/WorkSpace/17.GraphImpute/gao/Sage2.py",
+		"/C/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/include/cudnn.h",
+		"/G/anaconda3/envs/torch/Lib/site-packages/torch/optim/lr_scheduler.py",
+		"/C/Users/gao/AppData/Local/Temp/scp08496/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEval/computeAUC.py",
+		"/C/Users/gao/AppData/Local/Temp/scp07171/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEval/computeSpearman.py",
+		"/C/Users/gao/AppData/Local/Temp/scp07525/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEval/computeSignedEPrec.py",
+		"/C/Users/gao/AppData/Local/Temp/scp07624/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEval/computePathStats.py",
+		"/C/Users/gao/AppData/Local/Temp/scp06533/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEval/computeNetMotifs.py",
+		"/C/Users/gao/AppData/Local/Temp/scp03337/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRunner.py",
+		"/C/Users/gao/AppData/Local/Temp/scp50597/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRun/genie3Runner.py",
+		"/C/Users/gao/AppData/Local/Temp/scp36135/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEval/computeEarlyPrec.py",
+		"/C/Users/gao/AppData/Local/Temp/scp08397/home/public/ghx/GCNN_velocity/software/Beeline-master/config-files/config_adj.yaml",
+		"/C/Users/gao/AppData/Local/Temp/scp50278/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRun/__init__.py",
+		"/C/Users/gao/AppData/Local/Temp/scp07304/home/public/ghx/GCNN_velocity/software/Beeline-master/config-files/config.yaml",
+		"/C/Users/gao/AppData/Local/Temp/scp17179/home/public/ghx/software/my_seurat.r",
+		"/C/Users/gao/AppData/Local/Temp/scp16747/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRunner.py",
+		"/C/Users/gao/AppData/Local/Temp/scp25942/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRun/grnvbemRunner.py",
+		"/C/Users/gao/AppData/Local/Temp/scp23778/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRun/genie3Runner.py",
+		"/C/Users/gao/Downloads/dotplot.r",
+		"/C/Users/gao/AppData/Local/Temp/scp05375/home/public/ghx/software/LR_analysis.r",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa856.45492/grnboost2_TF.py",
+		"/E/Github/Beeline-master/setupAnacondaVENV.sh",
+		"/C/Users/gao/Downloads/GeneMANIA.txt",
+		"/C/Users/gao/AppData/Local/Temp/scp23154/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRun/__init__.py",
+		"/C/Users/gao/AppData/Local/Temp/scp25876/home/public/ghx/GCNN_velocity/software/Beeline-master/BLRun/pidcRunner.py",
+		"/C/Users/gao/AppData/Local/Temp/scp27397/home/public/ghx/GCNN_velocity/software/Beeline-master/config-files/config.yaml",
+		"/C/Users/gao/AppData/Local/Temp/scp38470/home/public/ghx/GCNN_velocity/software/Beeline-master/initialize.sh",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa36124.6971/9606.protein.links.v11.5.txt.gz.inproc",
+		"/C/Users/gao/AppData/Local/Temp/scp45739/home/public/ghx/GCNN_velocity/software/Beeline-master/Algorithms/PIDC/Dockerfile",
+		"/C/Users/gao/AppData/Local/Temp/scp20097/home/public/ghx/GCNN_velocity/software/Beeline-master/BLEvaluator.py",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa24172.14122/DeepSEM_cell_type_specific_GRN_model.py",
+		"/C/Users/gao/Downloads/HumanInteractome.cx",
+		"/C/Users/gao/Downloads/BIND.cx",
+		"/C/Users/gao/Downloads/BioPlex_interactionList_v4a.tsv",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa24172.36796/500_ChIP-seq_hESC_demo_output.tsv",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa24172.32872/grnboost2_TF.py",
+		"/C/Users/gao/AppData/Local/Temp/scp05098/home/public/ghx/GCNN_velocity/software/Network_Evaluation_Tools/Data/HumanInteractome_Symbol.sif",
+		"/C/Users/gao/Downloads/gwas_catalog_v1.0.2-associations_e104_r2021-09-23.tsv",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DRa32144.26101/befree_gene_disease_associations.tsv",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa21304.21422/PathwayCommons.8.bind.BINARY_SIF.hgnc.txt.sif",
+		"/C/Users/gao/Downloads/reactome.homo_sapiens.interactions.psi-mitab.txt",
+		"/C/Users/gao/AppData/Local/Temp/scp04389/home/public/ghx/software/LR_analysis.r",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa22540.3969/run.owas.R",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa22540.9618/pre.sc.R",
+		"/E/Github/awesome-genesets/GO_hs/GOBP_hs.gmt",
+		"/C/Users/gao/AppData/Local/Temp/scp16657/home/public/ghx/software/my_seurat.r",
+		"/C/Users/gao/Downloads/cl.owl",
+		"/S/我的资料库/for_share/servers/port_mapping.sh",
+		"/S/我的资料库/for_share/servers/server_ip.sh",
+		"/S/我的资料库/for_share/servers/other_server.sh",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DRa24592.39588/temp.txt",
+		"/E/Github/GCNGRN/Sage2.py",
+		"/G/anaconda3/envs/torch/Lib/site-packages/torch_geometric/nn/conv/message_passing.py",
+		"/E/Github/hECA/ACTB.json",
+		"/E/Github/WuLab/software/my_seurat.r",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa6968.20174/Vascular endothelial cell.json",
+		"/G/anaconda3/envs/torch/Lib/site-packages/umap/layouts.py",
+		"/E/software/nps/conf/nps.conf",
+		"/E/software/nps/conf/hosts.json",
+		"/C/Users/gao/.ipython/profile_default/ipython_config.py",
+		"/C/Users/gao/AppData/Local/Temp/scp13387/home/eca_data/json_celltype_portrait/dim_reduction/Acinar cell/Acinar cell_umap.json",
+		"/E/Github/GeneCard/geneInfo/geneInfo/settings.py",
+		"/C/Users/gao/AppData/Local/Temp/scp33843/data1/gaohx/GeneCard/genecard.py",
+		"/E/Github/GeneCard/geneInfo/geneInfo/test.py",
+		"/E/Github/GeneCard/geneInfo/geneInfo/main.py",
+		"/E/Github/GeneCard/geneInfo/geneInfo/spiders/gene.py",
+		"/E/Github/GeneCard/RPS18.html",
+		"/E/Github/GeneCard/SPON2.html",
+		"/C/Users/gao/AppData/Local/Temp/scp22123/stor/huakui/research/VB/ghx/joint-vae/src/training.py",
+		"/E/Github/GeneCard/ACE2.html",
+		"/E/Github/GeneCard/geneInfo/geneInfo/pipelines.py",
+		"/E/Github/GeneCard/geneInfo/geneInfo/gene.py",
+		"/E/Github/GeneCard/geneInfo/geneInfo/items.py",
+		"/E/Github/GeneCard/genecard.ipynb",
+		"/E/Github/GeneCard/hw.py",
+		"/C/Users/gao/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/gao/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/gao/AppData/Roaming/Sublime Text 3/Packages/User/python.sublime-build",
+		"/C/Users/gao/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python.sublime-build",
+		"/C/Users/gao/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/gao/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+		"/S/我的资料库/mydata/HCA-d/20210513_攻关/20210615_重新设计画像/ACE2.html",
+		"/E/Github/awesome-genesets/GO_hs/go.obo",
+		"/E/Github/awesome-genesets/README.md",
+		"/E/Github/awesome-genesets/GO_hs/goa_human.gaf",
+		"/C/Users/gao/AppData/Local/Temp/scp25318/home/huakui/research/VB/ghx/joint-vae/src/loss_functions.py",
+		"/E/software/pathvisio/wikipathway_hs/Hs_Glutathione_metabolism_WP100_107114.gpml",
+		"/E/Github/hECA/uHAFtree_0601.txt",
+		"/C/Users/gao/Downloads/br08901.keg",
+		"/E/Github/hECA/test.json",
+		"/C/Users/gao/Downloads/br08001.keg",
+		"/E/Github/hECA/uHAFtree_0601.json",
+		"/C/Users/gao/Downloads/123.py",
+		"/F/tencent/WeChat Files/wxid_guwwl0l1jj9x22/FileStorage/File/2021-05/test.json",
+		"/E/software/pathvisio/wikipathway_hs/Hs_1q21.1_copy_number_variation_syndrome_WP4905_115772.gpml",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DRa11452.4498/Hs_Nicotine_Activity_on_Chromaffin_Cells_WP1603_106160.gpml",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DRa23632.10092/Hs_1q21.1_copy_number_variation_syndrome_WP4905_115772.gpml",
+		"/E/software/pathvisio/pathvisio-3.3.0/pathvisio.sh",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DRa11452.31141/Hs_1q21.1_copy_number_variation_syndrome_WP4905_115772.gpml",
+		"/C/Users/gao/Downloads/linkdb.ttl",
+		"/C/Users/gao/Downloads/linkdb (1).ttl",
+		"/C/Users/gao/AppData/Local/Temp/scp34112/home/public/ghx/wuLab/Bladder/20210511_RNA/script/fastqc.sh",
+		"/C/Users/gao/AppData/Local/Temp/scp51294/opt/www/eca/js/jquery.js",
+		"/C/Users/gao/AppData/Local/Temp/scp49893/opt/www/eca/js/echarts.min.js",
+		"/C/Users/gao/AppData/Local/Temp/scp51862/opt/www/eca/js/d3.v4.min.js",
+		"/C/Users/gao/AppData/Local/Temp/scp50548/opt/www/eca/js/ztree/js/jquery.ztree.core.min.js",
+		"/C/Users/gao/AppData/Local/Temp/scp49592/opt/www/eca/js/common.js",
+		"/S/我的资料库/202105_ECA进度/supp_0518/Supplementary file 1 UHAF_macro_ontology.owl",
+		"/S/我的资料库/202105_ECA进度/supp_0518/Supplementary file 2 UHAF_micro_ontology.owl",
+		"/E/Github/tsinghua-human-front/pages/index.vue",
+		"/E/Github/tsinghua-human-front/pages/organExplorer.vue",
+		"/C/Users/gao/AppData/Local/Temp/scp21407/opt/www/eca/js/jquery.js",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa20972.43540/Expr_Acinar cell.json",
+		"/C/Users/gao/AppData/Local/Temp/Rar$DIa20972.38178/Expr_Adipocyte.json",
+		"/E/Github/tsinghua-human-front/pages/cellTypeDetails.vue",
+		"/E/Github/tsinghua-human-front/pages/organDetails.vue",
+		"/E/Github/tsinghua-human-front/layouts/error.vue",
+		"/E/Github/tsinghua-human-front/layouts/default.vue",
+		"/F/tencent/WeChat Files/wxid_guwwl0l1jj9x22/FileStorage/File/2021-05/Expr_Acinar cell.json",
+		"/C/Users/gao/AppData/Local/Temp/scp48081/home/huakui/research/VB/ghx/joint-vae/src/training.py",
+		"/E/Github/tools/ipynb_to_scipt.bat",
+		"/E/Github/tools/ipynb_to_scipt.py",
+		"/E/Github/tools/test.bat",
+		"/E/Github/tools/ipynb_to_script.bat",
+		"/E/0512_explainability.r",
+		"/E/0512_explainability.rst",
+		"/E/0512_explainability.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "model.sublime-project",
+	"replace":
+	{
+		"height": 52.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
