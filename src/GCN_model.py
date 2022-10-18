@@ -28,10 +28,8 @@ from torch_geometric.utils import add_remaining_self_loops
 from torch_scatter import scatter_softmax
 device = 'cuda' if t.cuda.is_available() else 'cpu'
 
-if __name__ == "__main__":
-    from GCN_utils import *
-else:
-    from src.GCN_utils import *
+
+from .GCN_utils import *
 
 
 def uniform(size, tensor):
@@ -82,7 +80,6 @@ class SAGEConv_v2(MessagePassing):
         uniform(self.in_channels,self.self_weight)
 
     def forward(self, x, edge_index, edge_weight=None, size=None):
-
         out  =  torch.matmul(x,self.self_weight )
         x = torch.matmul(x,self.weight)
         out2 = self.propagate(edge_index, size=size, x=x,
@@ -149,7 +146,7 @@ class CosineAnnealingWarmRestarts(_LRScheduler):
         if T_0 <= 0 or not isinstance(T_0, int):
             raise ValueError("Expected positive integer T_0, but got {}".format(T_0))
         if T_mult < 1 or not isinstance(T_mult, int):
-            raise ValueError("Expected integer T_mul >= 1, but got {}".format(T_mul))
+            raise ValueError("Expected integer T_mul >= 1, but got {}".format(T_mult))
         self.T_0 = T_0
         self.T_i = T_0
         self.T_mult = T_mult
@@ -311,6 +308,124 @@ class DeepNet_MLP_v1(nn.Module):
         x = self.act1(self.conv1(x, edge_index,edge_weight=edge_weight))
         # x = self.act2(self.conv2(x,edge_index,edge_weight=edge_weight))
         x = self.conv2(x,edge_index,edge_weight=edge_weight)
+        # x = self.conv1(x,edge_index,edge_weight=edge_weight)
+        
+        return t.squeeze(x,dim=-1)
+
+class DeepNet_MLP_sc(nn.Module):
+    def __init__(self,in_channel=1,mid_channel=8,out_channel=2,num_nodes=2207,edge_num=151215,
+                use_nodes_for_output_list=None,graph_conv=SAGEConv_v2,**args):
+        super().__init__()
+        # print('DeepNet_MLP_v1 GNN+MLP v2-2 SAGE*1 + weighted-edge-softmax + concate')
+        # self.max_pool_dim = 100 
+
+        self.mid_channel = mid_channel
+        self.dropout_ratio = args.get('dropout_ratio',0.3)
+        self.activate_cls = args.get('activate_cls',nn.ReLU)
+        # print('model dropout raito:',self.dropout_ratio)
+        # print('model activation function:',self.activate_cls)
+        
+        self.conv1 = graph_conv(in_channel, mid_channel, )
+        self.conv1.reset_parameters()
+        self.bn1 = torch.nn.LayerNorm((num_nodes,mid_channel))
+        self.act1 = nn.ReLU()
+        
+        self.conv2 = graph_conv(mid_channel, 1, )
+        self.conv2.reset_parameters()
+        self.act2 = nn.ReLU()
+        
+        self.edge_num = edge_num
+        
+        self.weight_edge_flag = True  
+        # print('trainalbe edges :',self.weight_edge_flag)
+        if self.weight_edge_flag:
+            # self.edge_weight = nn.Parameter(t.rand(edge_num).float()*0.01)
+            # self.edge_weight = nn.Parameter(t.ones((edge_num)).float())
+            # self.edge_weight = nn.Parameter(t.ones((num_nodes, num_nodes)).float())
+            # print(self.edge_weight.shape)
+            # print(self.edge_weight[:10])
+            self.edge_MLP = torch.nn.Sequential(torch.nn.Linear(500,128),
+                                                 torch.nn.ReLU(),
+                                                 torch.nn.Linear(128,edge_num),
+                                                 torch.nn.Tanh())
+        else:
+            self.edge_weight = None
+    
+        self.reset_parameters()
+        # self.
+        # 对特定边初始化
+    
+    def reset_parameters(self,):
+        self.conv1.apply(init_weights)
+        pass
+
+    def get_gcn_weight_penalty(self,mode='L2'):
+
+        if mode == 'L1':
+            func = lambda x:  t.sum(t.abs(x))
+        elif mode =='L2':
+            func  = lambda x: t.sqrt(t.sum(x**2))
+
+        loss = 0 
+
+        tmp = getattr(self.conv1,'weight',None)
+        if tmp is not None: 
+            loss += func(tmp)
+
+        tmp = getattr(self.conv1,'self_weight',None)
+        if tmp is not None: 
+            loss += 1* func(tmp)
+
+        tmp = getattr(self.global_conv1,'weight',None)
+        if tmp is not None: 
+            loss += func(tmp)
+        tmp = getattr(self.global_conv2,'weight',None)
+        if tmp is not None: 
+            loss += func(tmp)
+
+        return loss 
+
+    def get_gcn_weight_penalty_org(self,mode='L2'):
+
+        if mode == 'L1':
+            func = lambda x:  t.sum(t.abs(x))
+        elif mode =='L2':
+            func  = lambda x: t.sqrt(t.sum(x**2))
+
+        loss = 0 
+
+        tmp = getattr(self.conv1,'weight',None)
+        if tmp is not None: 
+            loss += func(tmp)
+
+        tmp = getattr(self.conv1,'self_weight',None)
+        if tmp is not None: 
+            loss += 5* func(tmp)
+        tmp = getattr(self.conv1,'bias',None)
+        if tmp is not None: 
+            loss += func(tmp)
+
+        return loss 
+
+    def forward(self,data,get_latent_varaible=False):
+        x, edge_index, batch = data.x, data.edge_index, data.batch
+  
+        if self.weight_edge_flag:
+            # one_graph_edge_weight = torch.sigmoid(self.edge_weight)#*self.edge_num
+            # one_graph_edge_weight = scatter_softmax(self.edge_weight, edge_index[1])
+            # one_graph_edge_weight = F.softmax(self.edge_weight, dim = 1)
+            # one_graph_edge_weight = self.edge_weight / t.sum(self.edge_weight, dim=1)
+            # edge_weight = one_graph_edge_weight.view(-1)
+            # edge_weight = self.edge_weight
+            edge_weight = self.edge_MLP(x.T)
+        else:
+            edge_weight = None 
+
+        x = self.act1(self.conv1(x, edge_index,edge_weight=edge_weight))
+        # x = self.act2(self.conv2(x,edge_index,edge_weight=edge_weight))
+        x = self.conv2(x,edge_index,edge_weight=edge_weight)
+        # x = self.conv1(x,edge_index,edge_weight=edge_weight)
+        self.edge_weight = edge_weight
         
         return t.squeeze(x,dim=-1)
 
