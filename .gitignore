@@ -1,1 +1,6 @@
 **pycache**
+wheel/
+tmp_files/
+*.ipynb
+.ipynb_checkpoints/
+data/

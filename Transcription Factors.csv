@@ -1,0 +1,1640 @@
+﻿Gene,ID,DBD,Motif status (Feb 2018),IUPAC consensus
+AC008770.3,ENSG00000267179,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [1],
+AC023509.3,ENSG00000267281,bZIP,Known motif – from protein with 100% identical DBD – in vitro [2],RTGACGTCAY
+AC092835.1,ENSG00000233757,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [3],
+AC138696.1,ENSG00000264668,C2H2 ZF,Known motif – from protein with 100% identical DBD – in vitro [4],RYGGAGAGTTAGC
+ADNP,ENSG00000101126,Homeodomain,Likely sequence specific TF according to literature or domain structure – No motif [5],
+ADNP2,ENSG00000101544,Homeodomain,Likely sequence specific TF according to literature or domain structure – No motif [6],
+AEBP1,ENSG00000106624,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [7],
+AEBP2,ENSG00000139154,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [8],
+AHCTF1,ENSG00000153207,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [9],
+AHDC1,ENSG00000126705,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [10],
+AHR,ENSG00000106546,bHLH,Known motif – In vivo/Misc source [11],BKNGCGTGHV
+AHRR,ENSG00000063438,bHLH,Inferred motif from similar protein – In vivo/Misc source [12],BKNGCGTGHV
+AIRE,ENSG00000160224,SAND,Known motif – In vivo/Misc source [13],HNNGGWWNWDWWGGDBDH
+AKAP8,ENSG00000105127,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [14],
+AKAP8L,ENSG00000011243,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [15],
+AKNA,ENSG00000106948,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [16],
+ALX1,ENSG00000180318,Homeodomain,Known motif – High-throughput in vitro [17],TAATYTAATTA
+ALX3,ENSG00000156150,Homeodomain,Known motif – High-throughput in vitro [18],TAATTR
+ALX4,ENSG00000052850,Homeodomain,Known motif – High-throughput in vitro [19],TAATYNRRTTA
+ANHX,ENSG00000227059,Homeodomain,Known motif – High-throughput in vitro [20],KTKACAWG
+ANKZF1,ENSG00000163516,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [21],
+AR,ENSG00000169083,Nuclear receptor,Known motif – High-throughput in vitro [22],RGGWACRHBDYGTWCYH
+ARGFX,ENSG00000186103,Homeodomain,Known motif – High-throughput in vitro [23],DYTAATTAR
+ARHGAP35,ENSG00000160007,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [24],
+ARID2,ENSG00000189079,ARID/BRIGHT; RFX,Likely sequence specific TF according to literature or domain structure – No motif [25],
+ARID3A,ENSG00000116017,ARID/BRIGHT,Known motif – from protein with 100% identical DBD – in vitro [26],DATHAAD
+ARID3B,ENSG00000179361,ARID/BRIGHT,Inferred motif from similar protein – High-throughput in vitro [27],WWTTAATH
+ARID3C,ENSG00000205143,ARID/BRIGHT,Inferred motif from similar protein – High-throughput in vitro [28],DATHAAD
+ARID5A,ENSG00000196843,ARID/BRIGHT,Known motif – from protein with 100% identical DBD – in vitro [29],HAATATTD
+ARID5B,ENSG00000150347,ARID/BRIGHT,Known motif – from protein with 100% identical DBD – in vitro [30],DATWH
+ARNT,ENSG00000143437,bHLH,Known motif – from protein with 100% identical DBD – in vitro [31],KCACGTGM
+ARNT2,ENSG00000172379,bHLH,Known motif – High-throughput in vitro [32],RDCACGTGM
+ARNTL,ENSG00000133794,bHLH,Known motif – High-throughput in vitro [33],GTCACGTGAC
+ARNTL2,ENSG00000029153,bHLH,Inferred motif from similar protein – High-throughput in vitro [34],CACGTGAY
+ARX,ENSG00000004848,Homeodomain,Known motif – High-throughput in vitro [35],TAATYNRATTA
+ASCL1,ENSG00000139352,bHLH,Known motif – High-throughput in vitro [36],RCASSTGY
+ASCL2,ENSG00000183734,bHLH,Known motif – High-throughput in vitro [37],RCAGCTGY
+ASCL3,ENSG00000176009,bHLH,Inferred motif from similar protein – High-throughput in vitro [38],RCASSTGY
+ASCL4,ENSG00000187855,bHLH,Inferred motif from similar protein – High-throughput in vitro [39],RCASSTGY
+ASCL5,ENSG00000232237,bHLH,Inferred motif from similar protein – High-throughput in vitro [40],RCASSTGY
+ASH1L,ENSG00000116539,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [41],
+ATF1,ENSG00000123268,bZIP,Known motif – In vivo/Misc source [42],VTGACGTSAV
+ATF2,ENSG00000115966,bZIP,Known motif – High-throughput in vitro [43],VTKACGTMAB
+ATF3,ENSG00000162772,bZIP,Known motif – High-throughput in vitro [44],RTGACGTCAY
+ATF4,ENSG00000128272,bZIP,Known motif – High-throughput in vitro [45],RKATGACGTCATMY
+ATF5,ENSG00000169136,bZIP,Known motif – In vivo/Misc source [46],WAAGGRAGARR
+ATF6,ENSG00000118217,bZIP,Known motif – High-throughput in vitro [47],YKRTGACGTGGCA
+ATF6B,ENSG00000213676,bZIP,Known motif – High-throughput in vitro [48],RTGACGTGGCR
+ATF7,ENSG00000170653,bZIP,Known motif – High-throughput in vitro [49],DRTGACGTCAT
+ATMIN,ENSG00000166454,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [50],
+ATOH1,ENSG00000172238,bHLH,Known motif – High-throughput in vitro [51],RACAGCTGYY
+ATOH7,ENSG00000179774,bHLH,Known motif – High-throughput in vitro [52],RVCATATGBT
+ATOH8,ENSG00000168874,bHLH,Inferred motif from similar protein – High-throughput in vitro [53],AAWTANNNBRMCATATGKY
+BACH1,ENSG00000156273,bZIP,Known motif – In vivo/Misc source [54],RTGACTCAGCANWWH
+BACH2,ENSG00000112182,bZIP,Known motif – High-throughput in vitro [55],WDNSATGASTCATGNWW
+BARHL1,ENSG00000125492,Homeodomain,Known motif – High-throughput in vitro [56],TAAWYG
+BARHL2,ENSG00000143032,Homeodomain,Known motif – High-throughput in vitro [57],TAAWBG
+BARX1,ENSG00000131668,Homeodomain,Known motif – High-throughput in vitro [58],TAATBGNWWWTTAATBR
+BARX2,ENSG00000043039,Homeodomain,Known motif – High-throughput in vitro [59],TAAYKRTTWW
+BATF,ENSG00000156127,bZIP,Known motif – High-throughput in vitro [60],VVYGMCAC
+BATF2,ENSG00000168062,bZIP,Likely sequence specific TF according to literature or domain structure – No motif [61],
+BATF3,ENSG00000123685,bZIP,Known motif – High-throughput in vitro [62],VTGACGTCAYV
+BAZ2A,ENSG00000076108,MBD; AT hook,Likely sequence specific TF according to literature or domain structure – No motif [63],
+BAZ2B,ENSG00000123636,MBD,Likely sequence specific TF according to literature or domain structure – No motif [64],
+BBX,ENSG00000114439,HMG/Sox,Known motif – High-throughput in vitro [65],TGAWCDNYGWTCA
+BCL11A,ENSG00000119866,C2H2 ZF,Known motif – In vivo/Misc source [66],DDRRGGAASTGARAV
+BCL11B,ENSG00000127152,C2H2 ZF,Known motif – High-throughput in vitro [67],GTGAACGBNDNNVCTACAC
+BCL6,ENSG00000113916,C2H2 ZF,Known motif – High-throughput in vitro [68],YGCTTTCKAGGAAH
+BCL6B,ENSG00000161940,C2H2 ZF,Known motif – High-throughput in vitro [69],GCTTTCKAGGAAH
+BHLHA15,ENSG00000180535,bHLH,Known motif – High-throughput in vitro [70],VCATATGB
+BHLHA9,ENSG00000205899,bHLH,Likely sequence specific TF according to literature or domain structure – No motif [71],
+BHLHE22,ENSG00000180828,bHLH,Known motif – High-throughput in vitro [72],AVCATATGBT
+BHLHE23,ENSG00000125533,bHLH,Known motif – High-throughput in vitro [73],AVCATATGBY
+BHLHE40,ENSG00000134107,bHLH,Known motif – High-throughput in vitro [74],DKCACGTGM
+BHLHE41,ENSG00000123095,bHLH,Known motif – High-throughput in vitro [75],RKCACGTGAY
+BNC1,ENSG00000169594,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [76],CCRCCWTCA
+BNC2,ENSG00000173068,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [77],CCRCCWTCA
+BORCS8-MEF2B,ENSG00000064489,MADS box,Known motif – from protein with 100% identical DBD – in vitro [78],CCDWWWHNRG
+BPTF,ENSG00000171634,Unknown,Known motif – In vivo/Misc source [79],KKKNTTGTKKNV
+BRF2,ENSG00000104221,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [80],
+BSX,ENSG00000188909,Homeodomain,Known motif – High-throughput in vitro [81],TAATBR
+C11orf95,ENSG00000188070,BED ZF,Likely sequence specific TF according to literature or domain structure – No motif [82],
+CAMTA1,ENSG00000171735,CG-1,Likely sequence specific TF according to literature or domain structure – No motif [83],
+CAMTA2,ENSG00000108509,CG-1,Likely sequence specific TF according to literature or domain structure – No motif [84],
+CARF,ENSG00000138380,Unknown,Known motif – In vivo/Misc source [85],GCCTCGTTYTSR
+CASZ1,ENSG00000130940,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [86],
+CBX2,ENSG00000173894,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [87],
+CC2D1A,ENSG00000132024,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [88],
+CCDC169-SOHLH2,ENSG00000250709,bHLH,Known motif – from protein with 100% identical DBD – in vitro [89],BCACGTGC
+CCDC17,ENSG00000159588,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [90],
+CDC5L,ENSG00000096401,Myb/SANT,Known motif – In vivo/Misc source [91],VBGWKDTAAYRWAWB
+CDX1,ENSG00000113722,Homeodomain,Known motif – High-throughput in vitro [92],TTTATKRB
+CDX2,ENSG00000165556,Homeodomain,Known motif – High-throughput in vitro [93],DWWATKRB
+CDX4,ENSG00000131264,Homeodomain,Known motif – High-throughput in vitro [94],VKTTTATKRCH
+CEBPA,ENSG00000245848,bZIP,Known motif – from protein with 100% identical DBD – in vitro [95],TTGCGHAA
+CEBPB,ENSG00000172216,bZIP,Known motif – High-throughput in vitro [96],VTTRCGCAAY
+CEBPD,ENSG00000221869,bZIP,Known motif – High-throughput in vitro [97],VTTRCGCAAY
+CEBPE,ENSG00000092067,bZIP,Known motif – High-throughput in vitro [98],VTTRCGCAAY
+CEBPG,ENSG00000153879,bZIP,Known motif – High-throughput in vitro [99],RTTRCGCAAY
+CEBPZ,ENSG00000115816,Unknown,Known motif – In vivo/Misc source [100],DSTSATTGGCT
+CENPA,ENSG00000115163,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [101],
+CENPB,ENSG00000125817,CENPB,Known motif – High-throughput in vitro [102],TWCGYNNNAHRCGGG
+CENPBD1,ENSG00000177946,CENPB,Known motif – High-throughput in vitro [103],WNYGWAD
+CENPS,ENSG00000175279,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [104],
+CENPT,ENSG00000102901,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [105],
+CENPX,ENSG00000169689,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [106],
+CGGBP1,ENSG00000163320,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [107],
+CHAMP1,ENSG00000198824,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [108],
+CHCHD3,ENSG00000106554,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [109],
+CIC,ENSG00000079432,HMG/Sox,Known motif – from protein with 100% identical DBD – in vitro [110],VTCAGCA
+CLOCK,ENSG00000134852,bHLH,Known motif – High-throughput in vitro [111],DACACGTGYH
+CPEB1,ENSG00000214575,Unknown,Known motif – High-throughput in vitro [112],HTTTTATH
+CPXCR1,ENSG00000147183,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [113],
+CREB1,ENSG00000118260,bZIP,Known motif – High-throughput in vitro [114],VTKACGTMA
+CREB3,ENSG00000107175,bZIP,Known motif – High-throughput in vitro [115],RTGACGTGKH
+CREB3L1,ENSG00000157613,bZIP,Known motif – High-throughput in vitro [116],TGCCACGTGGCR
+CREB3L2,ENSG00000182158,bZIP,Known motif – from protein with 100% identical DBD – in vitro [117],HCACGTGKM
+CREB3L3,ENSG00000060566,bZIP,Likely sequence specific TF according to literature or domain structure – No motif [118],
+CREB3L4,ENSG00000143578,bZIP,Known motif – High-throughput in vitro [119],VTGACGTGGM
+CREB5,ENSG00000146592,bZIP,Known motif – High-throughput in vitro [120],VTKACRTMAB
+CREBL2,ENSG00000111269,bZIP,Inferred motif from similar protein – High-throughput in vitro [121],ATKACGTMAY
+CREBZF,ENSG00000137504,bZIP,Inferred motif from similar protein – High-throughput in vitro [122],WWACGTWD
+CREM,ENSG00000095794,bZIP,Known motif – High-throughput in vitro [123],VVTBACGTVAB
+CRX,ENSG00000105392,Homeodomain,Known motif – High-throughput in vitro [124],TAATCC
+CSRNP1,ENSG00000144655,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [125],
+CSRNP2,ENSG00000110925,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [126],
+CSRNP3,ENSG00000178662,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [127],
+CTCF,ENSG00000102974,C2H2 ZF,Known motif – High-throughput in vitro [128],CCDSBAGGKGGCGCB
+CTCFL,ENSG00000124092,C2H2 ZF,Known motif – In vivo/Misc source [129],CCNSYAGGGGGCGCY
+CUX1,ENSG00000257923,CUT; Homeodomain,Known motif – High-throughput in vitro [130],ATYGATHA
+CUX2,ENSG00000111249,CUT; Homeodomain,Known motif – High-throughput in vitro [131],DDATYGATYA
+CXXC1,ENSG00000154832,CxxC,Known motif – High-throughput in vitro [132],BCG
+CXXC4,ENSG00000168772,CxxC,Likely sequence specific TF according to literature or domain structure – No motif [133],
+CXXC5,ENSG00000171604,CxxC,Known motif – High-throughput in vitro [134],DCK
+DACH1,ENSG00000276644,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [135],
+DACH2,ENSG00000126733,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [136],
+DBP,ENSG00000105516,bZIP,Known motif – High-throughput in vitro [137],RTTAYRTAAB
+DBX1,ENSG00000109851,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [138],WTTAATTA
+DBX2,ENSG00000185610,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [139],AH
+DDIT3,ENSG00000175197,bZIP,Known motif – In vivo/Misc source [140],RVVKATTGCANNB
+DEAF1,ENSG00000177030,SAND,Inferred motif from similar protein – In vivo/Misc source [141],VCRBNYYCGKGDRYTTCCGDVDNNB
+DLX1,ENSG00000144355,Homeodomain,Known motif – High-throughput in vitro [142],TAATTR
+DLX2,ENSG00000115844,Homeodomain,Known motif – High-throughput in vitro [143],TAATTR
+DLX3,ENSG00000064195,Homeodomain,Known motif – High-throughput in vitro [144],TAATTR
+DLX4,ENSG00000108813,Homeodomain,Known motif – High-throughput in vitro [145],TAATTR
+DLX5,ENSG00000105880,Homeodomain,Known motif – High-throughput in vitro [146],TAATTR
+DLX6,ENSG00000006377,Homeodomain,Known motif – High-throughput in vitro [147],TAATTR
+DMBX1,ENSG00000197587,Homeodomain,Known motif – High-throughput in vitro [148],HTAATCCB
+DMRT1,ENSG00000137090,DM,Known motif – High-throughput in vitro [149],GHWACWH
+DMRT2,ENSG00000173253,DM,Known motif – High-throughput in vitro [150],DATAMATT
+DMRT3,ENSG00000064218,DM,Known motif – High-throughput in vitro [151],DWWTTGWTACAWT
+DMRTA1,ENSG00000176399,DM,Known motif – High-throughput in vitro [152],DDWTGHTACAW
+DMRTA2,ENSG00000142700,DM,Known motif – High-throughput in vitro [153],DHBGHWACADB
+DMRTB1,ENSG00000143006,DM,Likely sequence specific TF according to literature or domain structure – No motif [154],
+DMRTC2,ENSG00000142025,DM,Known motif – High-throughput in vitro [155],WWTTGHTACAW
+DMTF1,ENSG00000135164,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [156],
+DNMT1,ENSG00000130816,CxxC,Known motif – High-throughput in vitro [157],CGG
+DNTTIP1,ENSG00000101457,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [158],
+DOT1L,ENSG00000104885,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [159],
+DPF1,ENSG00000011332,C2H2 ZF,Known motif – High-throughput in vitro [160],KMTATAGGBG
+DPF3,ENSG00000205683,C2H2 ZF,Inferred motif from similar protein – High-throughput in vitro [161],KMTATAGGBG
+DPRX,ENSG00000204595,Homeodomain,Known motif – High-throughput in vitro [162],RGMTAATCY
+DR1,ENSG00000117505,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [163],
+DRAP1,ENSG00000175550,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [164],
+DRGX,ENSG00000165606,Homeodomain,Known motif – High-throughput in vitro [165],TAATYNAATTA
+DUX1,DUX1_HUMAN,Homeodomain,Known motif – In vivo/Misc source [166],ATAATCTGATTAT
+DUX3,DUX3_HUMAN,Homeodomain,Known motif – In vivo/Misc source [167],TTAATTAAATTAA
+DUX4,ENSG00000260596,Homeodomain,Known motif – In vivo/Misc source [168],TGATTRRRTTA
+DUXA,ENSG00000258873,Homeodomain,Known motif – High-throughput in vitro [169],TGATTRVRTYD
+DZIP1,ENSG00000134874,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [170],
+E2F1,ENSG00000101412,E2F,Known motif – High-throughput in vitro [171],WTTGGCGCCHWW
+E2F2,ENSG00000007968,E2F,Known motif – High-throughput in vitro [172],WDWWGGCGCCHWWH
+E2F3,ENSG00000112242,E2F,Known motif – High-throughput in vitro [173],TTTTGGCGCCMTTTTY
+E2F4,ENSG00000205250,E2F,Known motif – High-throughput in vitro [174],TTTGGCGCCAAA
+E2F5,ENSG00000133740,E2F,Known motif – In vivo/Misc source [175],TTTSGCGC
+E2F6,ENSG00000169016,E2F,Known motif – In vivo/Misc source [176],DGGMGGGARV
+E2F7,ENSG00000165891,E2F,Known motif – High-throughput in vitro [177],WTTTGGCGGGAAAH
+E2F8,ENSG00000129173,E2F,Known motif – High-throughput in vitro [178],TTTGGCGGGAAA
+E4F1,ENSG00000167967,C2H2 ZF,Known motif – In vivo/Misc source [179],RTGACGTARS
+EBF1,ENSG00000164330,EBF1,Known motif – High-throughput in vitro [180],ANTCCCHWGGGAHH
+EBF2,ENSG00000221818,EBF1,Known motif – In vivo/Misc source [181],VTGMAACCCCCWWTHVK
+EBF3,ENSG00000108001,EBF1,Known motif – In vivo/Misc source [182],BTCCCYWGRGD
+EBF4,ENSG00000088881,EBF1,Known motif – In vivo/Misc source [183],CGSATAACCMTTGTTATCAB
+EEA1,ENSG00000102189,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [184],
+EGR1,ENSG00000120738,C2H2 ZF,Known motif – High-throughput in vitro [185],MCGCCCMCGCA
+EGR2,ENSG00000122877,C2H2 ZF,Known motif – High-throughput in vitro [186],MCGCCCACGCD
+EGR3,ENSG00000179388,C2H2 ZF,Known motif – High-throughput in vitro [187],HMCGCCCMCGCAH
+EGR4,ENSG00000135625,C2H2 ZF,Known motif – High-throughput in vitro [188],HMCGCCCACGCAH
+EHF,ENSG00000135373,Ets,Known motif – High-throughput in vitro [189],ACCCGGAAGTD
+ELF1,ENSG00000120690,Ets,Known motif – High-throughput in vitro [190],WHSCGGAAGY
+ELF2,ENSG00000109381,Ets,Known motif – High-throughput in vitro [191],AMCCGGAAGTV
+ELF3,ENSG00000163435,Ets; AT hook,Known motif – High-throughput in vitro [192],WACCCGGAAGTR
+ELF4,ENSG00000102034,Ets,Known motif – High-throughput in vitro [193],ABSCGGAAGTR
+ELF5,ENSG00000135374,Ets,Known motif – High-throughput in vitro [194],WNVMGGAARY
+ELK1,ENSG00000126767,Ets,Known motif – High-throughput in vitro [195],RCCGGAAGT
+ELK3,ENSG00000111145,Ets,Known motif – High-throughput in vitro [196],RCCGGAAGT
+ELK4,ENSG00000158711,Ets,Known motif – High-throughput in vitro [197],ACCGGAARY
+EMX1,ENSG00000135638,Homeodomain,Known motif – High-throughput in vitro [198],BTAATTR
+EMX2,ENSG00000170370,Homeodomain,Known motif – High-throughput in vitro [199],BTAATTA
+EN1,ENSG00000163064,Homeodomain,Known motif – High-throughput in vitro [200],TAATTRVB
+EN2,ENSG00000164778,Homeodomain,Known motif – High-throughput in vitro [201],TAATTR
+EOMES,ENSG00000163508,T-box,Known motif – High-throughput in vitro [202],WTCACACCTH
+EPAS1,ENSG00000116016,bHLH,Known motif – In vivo/Misc source [203],VDACGTGHH
+ERF,ENSG00000105722,Ets,Known motif – High-throughput in vitro [204],ACCGGAARTV
+ERG,ENSG00000157554,Ets,Known motif – High-throughput in vitro [205],ACCGGAARY
+ESR1,ENSG00000091831,Nuclear receptor,Known motif – High-throughput in vitro [206],AGGTCAYSRTGACCT
+ESR2,ENSG00000140009,Nuclear receptor,Known motif – from protein with 100% identical DBD – in vitro [207],RGGTCAH
+ESRRA,ENSG00000173153,Nuclear receptor,Known motif – High-throughput in vitro [208],SAAGGTCA
+ESRRB,ENSG00000119715,Nuclear receptor,Known motif – High-throughput in vitro [209],TCAAGGTCAWH
+ESRRG,ENSG00000196482,Nuclear receptor,Known motif – High-throughput in vitro [210],SAAGGTCR
+ESX1,ENSG00000123576,Homeodomain,Known motif – High-throughput in vitro [211],TAATTR
+ETS1,ENSG00000134954,Ets,Known motif – High-throughput in vitro [212],RCCGGAWRYRYWTCCGSH
+ETS2,ENSG00000157557,Ets,Known motif – High-throughput in vitro [213],ACCGGAWGYRCWTCCGGT
+ETV1,ENSG00000006468,Ets,Known motif – High-throughput in vitro [214],RCCGGAWRY
+ETV2,ENSG00000105672,Ets,Known motif – High-throughput in vitro [215],DACCGGAARYD
+ETV3,ENSG00000117036,Ets,Known motif – High-throughput in vitro [216],AHCGGAWWTCCGNT
+ETV3L,ENSG00000253831,Ets,Known motif – from protein with 100% identical DBD – in vitro [217],VGGAWR
+ETV4,ENSG00000175832,Ets,Known motif – High-throughput in vitro [218],RCCGGAWGY
+ETV5,ENSG00000244405,Ets,Known motif – High-throughput in vitro [219],DVCGGAWRY
+ETV6,ENSG00000139083,Ets,Known motif – High-throughput in vitro [220],SCGGAASCGGAAGYR
+ETV7,ENSG00000010030,Ets,Known motif – High-throughput in vitro [221],VVGGAAGYRCTTCCBB
+EVX1,ENSG00000106038,Homeodomain,Known motif – High-throughput in vitro [222],TAATBRB
+EVX2,ENSG00000174279,Homeodomain,Known motif – High-throughput in vitro [223],TAATBRB
+FAM170A,ENSG00000164334,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [224],
+FAM200B,ENSG00000237765,BED ZF,Likely sequence specific TF according to literature or domain structure – No motif [225],
+FBXL19,ENSG00000099364,CxxC,Likely sequence specific TF according to literature or domain structure – No motif [226],
+FERD3L,ENSG00000146618,bHLH,Known motif – High-throughput in vitro [227],GYRMCAGCTGTBRC
+FEV,ENSG00000163497,Ets,Known motif – High-throughput in vitro [228],ACCGGAART
+FEZF1,ENSG00000128610,C2H2 ZF,Known motif – High-throughput in vitro [229],AAAARRRCAV
+FEZF2,ENSG00000153266,C2H2 ZF,Inferred motif from similar protein – High-throughput in vitro [230],AAAWGAGCAATCA
+FIGLA,ENSG00000183733,bHLH,Known motif – High-throughput in vitro [231],MCAGGTGKD
+FIZ1,ENSG00000179943,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [232],
+FLI1,ENSG00000151702,Ets,Known motif – High-throughput in vitro [233],RCCGGAWRY
+FLYWCH1,ENSG00000059122,FLYWCH,Likely sequence specific TF according to literature or domain structure – No motif [234],
+FOS,ENSG00000170345,bZIP,Known motif – High-throughput in vitro [235],BRTGACGTCAYV
+FOSB,ENSG00000125740,bZIP,Known motif – High-throughput in vitro [236],RTGACGTCAY
+FOSL1,ENSG00000175592,bZIP,Known motif – High-throughput in vitro [237],DRTGAYRCR
+FOSL2,ENSG00000075426,bZIP,Known motif – High-throughput in vitro [238],TKANTCAYNRTGACGTCAY
+FOXA1,ENSG00000129514,Forkhead,Known motif – High-throughput in vitro [239],BVYTAWGTAAACAAW
+FOXA2,ENSG00000125798,Forkhead,Known motif – High-throughput in vitro [240],HNNGTMAATATTKRYNBD
+FOXA3,ENSG00000170608,Forkhead,Known motif – High-throughput in vitro [241],BVYTAWGTAAACAAA
+FOXB1,ENSG00000171956,Forkhead,Known motif – High-throughput in vitro [242],WRWGTMAATATTKACWYW
+FOXB2,ENSG00000204612,Forkhead,Inferred motif from similar protein – High-throughput in vitro [243],HWRWGYMAATATTKRCHYW
+FOXC1,ENSG00000054598,Forkhead,Known motif – High-throughput in vitro [244],WRWRTMAAYAW
+FOXC2,ENSG00000176692,Forkhead,Known motif – High-throughput in vitro [245],WAHRTMAAYAWW
+FOXD1,ENSG00000251493,Forkhead,Known motif – from protein with 100% identical DBD – in vitro [246],HWASAATAAYAWW
+FOXD2,ENSG00000186564,Forkhead,Known motif – High-throughput in vitro [247],RTAAAYA
+FOXD3,ENSG00000187140,Forkhead,Known motif – High-throughput in vitro [248],RTAAAYA
+FOXD4,ENSG00000170122,Forkhead,Inferred motif from similar protein – In vivo/Misc source [249],GTTAAAGCVAKTTTAA
+FOXD4L1,ENSG00000184492,Forkhead,Inferred motif from similar protein – In vivo/Misc source [250],GTTAAAGCVAKTTTAA
+FOXD4L3,ENSG00000187559,Forkhead,Inferred motif from similar protein – In vivo/Misc source [251],MGGTAAATCMAGGGWWT
+FOXD4L4,ENSG00000184659,Forkhead,Known motif – In vivo/Misc source [252],MGGTAAATCMAGGGWWT
+FOXD4L5,ENSG00000204779,Forkhead,Inferred motif from similar protein – In vivo/Misc source [253],MGGTAAATCMAGGGWWT
+FOXD4L6,ENSG00000273514,Forkhead,Inferred motif from similar protein – In vivo/Misc source [254],MGGTAAATCMAGGGWWT
+FOXE1,ENSG00000178919,Forkhead,Known motif – High-throughput in vitro [255],BVYTAWRYAAACAD
+FOXE3,ENSG00000186790,Forkhead,Inferred motif from similar protein – High-throughput in vitro [256],BVYTAWRYAAACAD
+FOXF1,ENSG00000103241,Forkhead,Known motif – In vivo/Misc source [257],YRHATAAACAHNB
+FOXF2,ENSG00000137273,Forkhead,Known motif – In vivo/Misc source [258],BNHNBRTAAACAHNV
+FOXG1,ENSG00000176165,Forkhead,Known motif – High-throughput in vitro [259],RTAAACAH
+FOXH1,ENSG00000160973,Forkhead,Known motif – In vivo/Misc source [260],BNSAATMCACA
+FOXI1,ENSG00000168269,Forkhead,Known motif – High-throughput in vitro [261],RTMAACA
+FOXI2,ENSG00000186766,Forkhead,Inferred motif from similar protein – High-throughput in vitro [262],RTMAACA
+FOXI3,ENSG00000214336,Forkhead,Inferred motif from similar protein – High-throughput in vitro [263],RTMAACA
+FOXJ1,ENSG00000129654,Forkhead,Known motif – from protein with 100% identical DBD – in vitro [264],HAAACAAA
+FOXJ2,ENSG00000065970,Forkhead,Known motif – High-throughput in vitro [265],GTAAACAWMAACA
+FOXJ3,ENSG00000198815,Forkhead,Known motif – High-throughput in vitro [266],RTAAACAW
+FOXK1,ENSG00000164916,Forkhead,Known motif – High-throughput in vitro [267],RWMMAYA
+FOXK2,ENSG00000141568,Forkhead,Inferred motif from similar protein – High-throughput in vitro [268],RWMAACAA
+FOXL1,ENSG00000176678,Forkhead,Known motif – High-throughput in vitro [269],RTAAACA
+FOXL2,ENSG00000183770,Forkhead,Known motif – High-throughput in vitro [270],VBGHMAACAH
+FOXM1,ENSG00000111206,Forkhead,Known motif – from protein with 100% identical DBD – in vitro [271],RWHR
+FOXN1,ENSG00000109101,Forkhead,Known motif – In vivo/Misc source [272],WVBSACGCB
+FOXN2,ENSG00000170802,Forkhead,Known motif – High-throughput in vitro [273],GCGTSNNNNNSACGC
+FOXN3,ENSG00000053254,Forkhead,Known motif – High-throughput in vitro [274],GTAAACAA
+FOXN4,ENSG00000139445,Forkhead,Known motif – In vivo/Misc source [275],WHNWRRNGACGCYATNHM
+FOXO1,ENSG00000150907,Forkhead,Known motif – High-throughput in vitro [276],RTAAACATGTTTAC
+FOXO3,ENSG00000118689,Forkhead,Known motif – High-throughput in vitro [277],GTAAACAW
+FOXO4,ENSG00000184481,Forkhead,Known motif – High-throughput in vitro [278],GTAAACA
+FOXO6,ENSG00000204060,Forkhead,Known motif – High-throughput in vitro [279],GTAAACATGTTTAC
+FOXP1,ENSG00000114861,Forkhead,Known motif – High-throughput in vitro [280],TGTTTRYNRTNNNNNNBNAYRVWMAACA
+FOXP2,ENSG00000128573,Forkhead,Known motif – High-throughput in vitro [281],RTAAAYAW
+FOXP3,ENSG00000049768,Forkhead,Known motif – High-throughput in vitro [282],RTAAACA
+FOXP4,ENSG00000137166,Forkhead,Inferred motif from similar protein – High-throughput in vitro [283],RTMAAYA
+FOXQ1,ENSG00000164379,Forkhead,Known motif – High-throughput in vitro [284],YWRHRTAAACWD
+FOXR1,ENSG00000176302,Forkhead,Known motif – High-throughput in vitro [285],CAADY
+FOXR2,ENSG00000189299,Forkhead,Known motif – High-throughput in vitro [286],RYRTAWACATAAAWRHH
+FOXS1,ENSG00000179772,Forkhead,Inferred motif from similar protein – High-throughput in vitro [287],HNNRHMAAYA
+GABPA,ENSG00000154727,Ets,Known motif – High-throughput in vitro [288],RSCGGAWRY
+GATA1,ENSG00000102145,GATA,Known motif – High-throughput in vitro [289],GATWASMH
+GATA2,ENSG00000179348,GATA,Known motif – High-throughput in vitro [290],VHGATAHSV
+GATA3,ENSG00000107485,GATA,Known motif – High-throughput in vitro [291],HGATAAVV
+GATA4,ENSG00000136574,GATA,Known motif – High-throughput in vitro [292],HGATAAVV
+GATA5,ENSG00000130700,GATA,Known motif – High-throughput in vitro [293],HGATAASV
+GATA6,ENSG00000141448,GATA,Known motif – High-throughput in vitro [294],HGATAABVATCD
+GATAD2A,ENSG00000167491,GATA,Likely sequence specific TF according to literature or domain structure – No motif [295],
+GATAD2B,ENSG00000143614,GATA,Likely sequence specific TF according to literature or domain structure – No motif [296],
+GBX1,ENSG00000164900,Homeodomain,Known motif – High-throughput in vitro [297],BTAATTRSB
+GBX2,ENSG00000168505,Homeodomain,Known motif – High-throughput in vitro [298],TAATTR
+GCM1,ENSG00000137270,GCM,Known motif – High-throughput in vitro [299],BATGCGGGTRS
+GCM2,ENSG00000124827,GCM,Known motif – High-throughput in vitro [300],HRCCCGCAT
+GFI1,ENSG00000162676,C2H2 ZF,Known motif – High-throughput in vitro [301],BMAATCACDGCNHBBCACTM
+GFI1B,ENSG00000165702,C2H2 ZF,Known motif – High-throughput in vitro [302],MAATCASDGCNNBBCACT
+GLI1,ENSG00000111087,C2H2 ZF,Known motif – In vivo/Misc source [303],SMCCHCCCA
+GLI2,ENSG00000074047,C2H2 ZF,Known motif – High-throughput in vitro [304],GMCCACMCANVNHB
+GLI3,ENSG00000106571,C2H2 ZF,Known motif – High-throughput in vitro [305],VGACCACCCACVNHG
+GLI4,ENSG00000250571,C2H2 ZF,Known motif – In vivo/Misc source [306],RRGCCTTGAATGCCANGNYMA
+GLIS1,ENSG00000174332,C2H2 ZF,Known motif – High-throughput in vitro [307],MGACCCCCCACGWHG
+GLIS2,ENSG00000126603,C2H2 ZF,Known motif – High-throughput in vitro [308],KACCCCCCRCRDHG
+GLIS3,ENSG00000107249,C2H2 ZF,Known motif – High-throughput in vitro [309],KACCCCCCACRAAG
+GLMP,ENSG00000198715,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [310],
+GLYR1,ENSG00000140632,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [311],
+GMEB1,ENSG00000162419,SAND,Known motif – High-throughput in vitro [312],KTACGTAMNKTACGTMM
+GMEB2,ENSG00000101216,SAND,Known motif – High-throughput in vitro [313],YBACGYAM
+GPBP1,ENSG00000062194,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [314],
+GPBP1L1,ENSG00000159592,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [315],
+GRHL1,ENSG00000134317,Grainyhead,Known motif – High-throughput in vitro [316],DAACCGGTTH
+GRHL2,ENSG00000083307,Grainyhead,Known motif – In vivo/Misc source [317],RAACHDGHHHDDCHDGTTY
+GRHL3,ENSG00000158055,Grainyhead,Likely sequence specific TF according to literature or domain structure – No motif [318],
+GSC,ENSG00000133937,Homeodomain,Known motif – High-throughput in vitro [319],HTAATCC
+GSC2,ENSG00000063515,Homeodomain,Known motif – High-throughput in vitro [320],HTAATCCBH
+GSX1,ENSG00000169840,Homeodomain,Known motif – High-throughput in vitro [321],TAATKR
+GSX2,ENSG00000180613,Homeodomain,Known motif – High-throughput in vitro [322],TAATKR
+GTF2B,ENSG00000137947,Unknown,Known motif – In vivo/Misc source [323],STYWYAKASTS
+GTF2I,ENSG00000263001,GTF2I-like,Known motif – In vivo/Misc source [324],VAGVDVKTSH
+GTF2IRD1,ENSG00000006704,GTF2I-like,Known motif – In vivo/Misc source [325],TRTCGCWG
+GTF2IRD2,ENSG00000196275,GTF2I-like,Likely sequence specific TF according to literature or domain structure – No motif [326],
+GTF2IRD2B,ENSG00000174428,GTF2I-like,Likely sequence specific TF according to literature or domain structure – No motif [327],
+GTF3A,ENSG00000122034,C2H2 ZF,Known motif – High-throughput in vitro [328],GGATGGGAG
+GZF1,ENSG00000125812,C2H2 ZF,Known motif – In vivo/Misc source [329],TATAKAVGCGCA
+HAND1,ENSG00000113196,bHLH,Known motif – In vivo/Misc source [330],DBRTCTGGHWDH
+HAND2,ENSG00000164107,bHLH,Known motif – High-throughput in vitro [331],HVCAGGTGTK
+HBP1,ENSG00000105856,HMG/Sox,Known motif – from protein with 100% identical DBD – in vitro [332],DD
+HDX,ENSG00000165259,Homeodomain,Known motif – High-throughput in vitro [333],H
+HELT,ENSG00000187821,bHLH,Inferred motif from similar protein – High-throughput in vitro [334],BBCACGTGY
+HES1,ENSG00000114315,bHLH,Known motif – High-throughput in vitro [335],KDCRCGTGBB
+HES2,ENSG00000069812,bHLH,Known motif – High-throughput in vitro [336],VRCACGTGCC
+HES3,ENSG00000173673,bHLH,Inferred motif from similar protein – High-throughput in vitro [337],KDCRCGTGBB
+HES4,ENSG00000188290,bHLH,Inferred motif from similar protein – High-throughput in vitro [338],KDCRCGTGBB
+HES5,ENSG00000197921,bHLH,Known motif – High-throughput in vitro [339],HGGCACGTGYCR
+HES6,ENSG00000144485,bHLH,Known motif – High-throughput in vitro [340],DACACGTGCC
+HES7,ENSG00000179111,bHLH,Known motif – High-throughput in vitro [341],YGGCACGTGCCR
+HESX1,ENSG00000163666,Homeodomain,Known motif – High-throughput in vitro [342],HTAATTRVH
+HEY1,ENSG00000164683,bHLH,Known motif – High-throughput in vitro [343],BBCRCGYGY
+HEY2,ENSG00000135547,bHLH,Known motif – High-throughput in vitro [344],BCACGTGB
+HEYL,ENSG00000163909,bHLH,Inferred motif from similar protein – High-throughput in vitro [345],BCACGTGB
+HHEX,ENSG00000152804,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [346],ATND
+HIC1,ENSG00000177374,C2H2 ZF,Known motif – High-throughput in vitro [347],RTGCCMMC
+HIC2,ENSG00000169635,C2H2 ZF,Known motif – High-throughput in vitro [348],BKGGCAY
+HIF1A,ENSG00000100644,bHLH,Known motif – In vivo/Misc source [349],VVNGCACGTMBNS
+HIF3A,ENSG00000124440,bHLH,Inferred motif from similar protein – In vivo/Misc source [350],RWAWWTMATAWCST
+HINFP,ENSG00000172273,C2H2 ZF,Known motif – High-throughput in vitro [351],GCGGACGYTRSRRCGTCCGC
+HIVEP1,ENSG00000095951,C2H2 ZF,Known motif – In vivo/Misc source [352],KGRRRARTCCCB
+HIVEP2,ENSG00000010818,C2H2 ZF,Known motif – In vivo/Misc source [353],KBYDNGGHAABNSS
+HIVEP3,ENSG00000127124,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [354],KBYDNGGHAABNSS
+HKR1,ENSG00000181666,C2H2 ZF,Known motif – High-throughput in vitro [355],VBKVRVNRDGGAGGRBVNVR
+HLF,ENSG00000108924,bZIP,Known motif – High-throughput in vitro [356],VTTAYRTAAY
+HLX,ENSG00000136630,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [357],AWND
+HMBOX1,ENSG00000147421,Homeodomain,Known motif – High-throughput in vitro [358],VYTAGTTAMV
+HMG20A,ENSG00000140382,HMG/Sox,Likely sequence specific TF according to literature or domain structure – No motif [359],
+HMG20B,ENSG00000064961,HMG/Sox,Inferred motif from similar protein – High-throughput in vitro [360],WDWATAAT
+HMGA1,ENSG00000137309,AT hook,Known motif – In vivo/Misc source [361],WATTWW
+HMGA2,ENSG00000149948,AT hook,Known motif – In vivo/Misc source [362],ATATTSSSSDWWAWT
+HMGN3,ENSG00000118418,HMG/Sox,Likely sequence specific TF according to literature or domain structure – No motif [363],
+HMX1,ENSG00000215612,Homeodomain,Known motif – High-throughput in vitro [364],TTAAKTGNY
+HMX2,ENSG00000188816,Homeodomain,Known motif – High-throughput in vitro [365],TTAAKTG
+HMX3,ENSG00000188620,Homeodomain,Known motif – High-throughput in vitro [366],TAAKTG
+HNF1A,ENSG00000135100,Homeodomain,Known motif – High-throughput in vitro [367],GTTAATNATTAAY
+HNF1B,ENSG00000275410,Homeodomain,Known motif – High-throughput in vitro [368],GTTAATNATTAAY
+HNF4A,ENSG00000101076,Nuclear receptor,Known motif – High-throughput in vitro [369],VRGGTCAAAGTCCA
+HNF4G,ENSG00000164749,Nuclear receptor,Known motif – In vivo/Misc source [370],GDNCAAAGKYCA
+HOMEZ,ENSG00000215271,Homeodomain,Known motif – High-throughput in vitro [371],WWWAATCGTTTW
+HOXA1,ENSG00000105991,Homeodomain,Known motif – High-throughput in vitro [372],TAATTR
+HOXA10,ENSG00000253293,Homeodomain,Known motif – High-throughput in vitro [373],TTWAYGAY
+HOXA11,ENSG00000005073,Homeodomain,Known motif – High-throughput in vitro [374],DWTTTACGACB
+HOXA13,ENSG00000106031,Homeodomain,Known motif – High-throughput in vitro [375],DTTTTATKRS
+HOXA2,ENSG00000105996,Homeodomain,Known motif – High-throughput in vitro [376],BTAATKR
+HOXA3,ENSG00000105997,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [377],TAATKR
+HOXA4,ENSG00000197576,Homeodomain,Known motif – High-throughput in vitro [378],TAATKRY
+HOXA5,ENSG00000106004,Homeodomain,Known motif – High-throughput in vitro [379],STAATKRS
+HOXA6,ENSG00000106006,Homeodomain,Known motif – High-throughput in vitro [380],TAATKRV
+HOXA7,ENSG00000122592,Homeodomain,Known motif – High-throughput in vitro [381],TAATKRV
+HOXA9,ENSG00000078399,Homeodomain,Known motif – High-throughput in vitro [382],DTTWAYGAY
+HOXB1,ENSG00000120094,Homeodomain,Known motif – High-throughput in vitro [383],STAATTA
+HOXB13,ENSG00000159184,Homeodomain,Known motif – High-throughput in vitro [384],TTWAYDD
+HOXB2,ENSG00000173917,Homeodomain,Known motif – High-throughput in vitro [385],TAATKR
+HOXB3,ENSG00000120093,Homeodomain,Known motif – High-throughput in vitro [386],BTAATKR
+HOXB4,ENSG00000182742,Homeodomain,Known motif – High-throughput in vitro [387],YTAATKAY
+HOXB5,ENSG00000120075,Homeodomain,Known motif – High-throughput in vitro [388],TAATKRV
+HOXB6,ENSG00000108511,Homeodomain,Known motif – High-throughput in vitro [389],TAATKRY
+HOXB7,ENSG00000260027,Homeodomain,Known motif – High-throughput in vitro [390],BTAATKRV
+HOXB8,ENSG00000120068,Homeodomain,Known motif – High-throughput in vitro [391],TAATKRM
+HOXB9,ENSG00000170689,Homeodomain,Known motif – High-throughput in vitro [392],WTTTAYGAY
+HOXC10,ENSG00000180818,Homeodomain,Known motif – High-throughput in vitro [393],WTTWAYGAB
+HOXC11,ENSG00000123388,Homeodomain,Known motif – High-throughput in vitro [394],WTTWAYGAYH
+HOXC12,ENSG00000123407,Homeodomain,Known motif – High-throughput in vitro [395],DTTTTACGAYY
+HOXC13,ENSG00000123364,Homeodomain,Known motif – High-throughput in vitro [396],CTCGTAAAAH
+HOXC4,ENSG00000198353,Homeodomain,Known motif – High-throughput in vitro [397],TAATKR
+HOXC5,ENSG00000172789,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [398],WRATND
+HOXC6,ENSG00000197757,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [399],TTAATTAB
+HOXC8,ENSG00000037965,Homeodomain,Known motif – High-throughput in vitro [400],YAATTR
+HOXC9,ENSG00000180806,Homeodomain,Known motif – High-throughput in vitro [401],TTTTACGAC
+HOXD1,ENSG00000128645,Homeodomain,Known motif – High-throughput in vitro [402],BTAATTAV
+HOXD10,ENSG00000128710,Homeodomain,Known motif – High-throughput in vitro [403],DTTTTACGACY
+HOXD11,ENSG00000128713,Homeodomain,Known motif – High-throughput in vitro [404],DWTTTACGAY
+HOXD12,ENSG00000170178,Homeodomain,Known motif – High-throughput in vitro [405],DTTTACGAY
+HOXD13,ENSG00000128714,Homeodomain,Known motif – High-throughput in vitro [406],BCTCGTAAAAH
+HOXD3,ENSG00000128652,Homeodomain,Known motif – High-throughput in vitro [407],CTAATTAS
+HOXD4,ENSG00000170166,Homeodomain,Known motif – High-throughput in vitro [408],TMATKRV
+HOXD8,ENSG00000175879,Homeodomain,Known motif – High-throughput in vitro [409],HWMATTWDB
+HOXD9,ENSG00000128709,Homeodomain,Known motif – High-throughput in vitro [410],TTTTATKRC
+HSF1,ENSG00000185122,HSF,Known motif – High-throughput in vitro [411],VGAABVTTCBVGAW
+HSF2,ENSG00000025156,HSF,Known motif – High-throughput in vitro [412],VGAANNTTCBVGAA
+HSF4,ENSG00000102878,HSF,Known motif – High-throughput in vitro [413],GAANNTTCBVGAA
+HSF5,ENSG00000176160,HSF,Known motif – High-throughput in vitro [414],RCGTTCTAGAAYGY
+HSFX1,ENSG00000171116,HSF,Likely sequence specific TF according to literature or domain structure – No motif [415],
+HSFX2,ENSG00000268738,HSF,Likely sequence specific TF according to literature or domain structure – No motif [416],
+HSFY1,ENSG00000172468,HSF,Known motif – High-throughput in vitro [417],DTVGAAYGWTTCGAAYGB
+HSFY2,ENSG00000169953,HSF,Known motif – High-throughput in vitro [418],DTCGAAHSNWTCGAW
+IKZF1,ENSG00000185811,C2H2 ZF,Known motif – In vivo/Misc source [419],BTGGGARD
+IKZF2,ENSG00000030419,C2H2 ZF,Known motif – In vivo/Misc source [420],HDWHGGGADD
+IKZF3,ENSG00000161405,C2H2 ZF,Known motif – High-throughput in vitro [421],VSNNGGGAA
+IKZF4,ENSG00000123411,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [422],HDWHGGGADD
+IKZF5,ENSG00000095574,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [423],MYYATGCAGRGT
+INSM1,ENSG00000173404,C2H2 ZF,Known motif – In vivo/Misc source [424],YRMCCCCWKRCA
+INSM2,ENSG00000168348,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [425],
+IRF1,ENSG00000125347,IRF,Known motif – In vivo/Misc source [426],GAAASTGAAASY
+IRF2,ENSG00000168310,IRF,Known motif – High-throughput in vitro [427],GAAAVYGAAAS
+IRF3,ENSG00000126456,IRF,Known motif – High-throughput in vitro [428],HSGAAAVBGAAACYGAAAC
+IRF4,ENSG00000137265,IRF,Known motif – High-throughput in vitro [429],HCGAAACCGAAACYW
+IRF5,ENSG00000128604,IRF,Known motif – High-throughput in vitro [430],CGAAACCGAWACH
+IRF6,ENSG00000117595,IRF,Known motif – High-throughput in vitro [431],RGTWTCRNNNNNNCGAWACY
+IRF7,ENSG00000185507,IRF,Known motif – High-throughput in vitro [432],CGAAAVYGAAANY
+IRF8,ENSG00000140968,IRF,Known motif – High-throughput in vitro [433],CGAAACYGAAACY
+IRF9,ENSG00000213928,IRF,Known motif – High-throughput in vitro [434],AWCGAAACCGAAACY
+IRX1,ENSG00000170549,Homeodomain,Known motif – High-throughput in vitro [435],DDCRHNNNNNNNNDYGHH
+IRX2,ENSG00000170561,Homeodomain,Known motif – High-throughput in vitro [436],DTGTYRTGTH
+IRX3,ENSG00000177508,Homeodomain,Known motif – High-throughput in vitro [437],DACAHGNWWWWNCDTGTH
+IRX4,ENSG00000113430,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [438],DAMAH
+IRX5,ENSG00000176842,Homeodomain,Known motif – High-throughput in vitro [439],DTGTYRTGTH
+IRX6,ENSG00000159387,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [440],DAMAH
+ISL1,ENSG00000016082,Homeodomain,Known motif – High-throughput in vitro [441],BTAAKTGS
+ISL2,ENSG00000159556,Homeodomain,Known motif – High-throughput in vitro [442],YTAAKTGB
+ISX,ENSG00000175329,Homeodomain,Known motif – High-throughput in vitro [443],CYAATTAV
+JAZF1,ENSG00000153814,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [444],
+JDP2,ENSG00000140044,bZIP,Known motif – High-throughput in vitro [445],RTKACRTMAY
+JRK,ENSG00000234616,CENPB,Likely sequence specific TF according to literature or domain structure – No motif [446],
+JRKL,ENSG00000183340,CENPB,Inferred motif from similar protein – High-throughput in vitro [447],RCGGWWR
+JUN,ENSG00000177606,bZIP,Known motif – High-throughput in vitro [448],DATGACGTMAHNV
+JUNB,ENSG00000171223,bZIP,Known motif – High-throughput in vitro [449],RTKACGTMAY
+JUND,ENSG00000130522,bZIP,Known motif – High-throughput in vitro [450],VTGACGTMA
+KAT7,ENSG00000136504,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [451],
+KCMF1,ENSG00000176407,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [452],
+KCNIP3,ENSG00000115041,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [453],
+KDM2A,ENSG00000173120,CxxC,Likely sequence specific TF according to literature or domain structure – No motif [454],
+KDM2B,ENSG00000089094,CxxC,Known motif – High-throughput in vitro [455],CG
+KDM5B,ENSG00000117139,ARID/BRIGHT,Likely sequence specific TF according to literature or domain structure – No motif [456],
+KIN,ENSG00000151657,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [457],
+KLF1,ENSG00000105610,C2H2 ZF,Known motif – High-throughput in vitro [458],CMCGCCCM
+KLF10,ENSG00000155090,C2H2 ZF,Known motif – High-throughput in vitro [459],RMCACRCCCMYVHCACRCCCMC
+KLF11,ENSG00000172059,C2H2 ZF,Known motif – High-throughput in vitro [460],VMCMCRCCCMYNMCACGCCCMC
+KLF12,ENSG00000118922,C2H2 ZF,Known motif – High-throughput in vitro [461],DRCCACGCCCH
+KLF13,ENSG00000169926,C2H2 ZF,Known motif – High-throughput in vitro [462],RCCACRCCCMC
+KLF14,ENSG00000266265,C2H2 ZF,Known motif – High-throughput in vitro [463],DRHCACGCCCMYYH
+KLF15,ENSG00000163884,C2H2 ZF,Known motif – High-throughput in vitro [464],VHCMCVCCCMY
+KLF16,ENSG00000129911,C2H2 ZF,Known motif – High-throughput in vitro [465],VMCMCDCCCMC
+KLF17,ENSG00000171872,C2H2 ZF,Known motif – High-throughput in vitro [466],MMCCACVCWCCCMTY
+KLF2,ENSG00000127528,C2H2 ZF,Known motif – High-throughput in vitro [467],VCCMCRCCCH
+KLF3,ENSG00000109787,C2H2 ZF,Known motif – High-throughput in vitro [468],RRCCRCGCCCH
+KLF4,ENSG00000136826,C2H2 ZF,Known motif – High-throughput in vitro [469],VCCACRCCCH
+KLF5,ENSG00000102554,C2H2 ZF,Known motif – High-throughput in vitro [470],MCACRCCCH
+KLF6,ENSG00000067082,C2H2 ZF,Known motif – High-throughput in vitro [471],VMCACRCCCH
+KLF7,ENSG00000118263,C2H2 ZF,Known motif – from protein with 100% identical DBD – in vitro [472],HHMCRCCCH
+KLF8,ENSG00000102349,C2H2 ZF,Known motif – from protein with 100% identical DBD – in vitro [473],MCRCCY
+KLF9,ENSG00000119138,C2H2 ZF,Known motif – from protein with 100% identical DBD – in vitro [474],TAACGG
+KMT2A,ENSG00000118058,CxxC; AT hook,Known motif – High-throughput in vitro [475],HNCGNB
+KMT2B,ENSG00000272333,CxxC; AT hook,Likely sequence specific TF according to literature or domain structure – No motif [476],
+L3MBTL1,ENSG00000185513,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [477],
+L3MBTL3,ENSG00000198945,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [478],
+L3MBTL4,ENSG00000154655,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [479],
+LBX1,ENSG00000138136,Homeodomain,Known motif – High-throughput in vitro [480],TAAYTRG
+LBX2,ENSG00000179528,Homeodomain,Known motif – High-throughput in vitro [481],TAATTRV
+LCOR,ENSG00000196233,Pipsqueak,Known motif – from protein with 100% identical DBD – in vitro [482],YNAAW
+LCORL,ENSG00000178177,Pipsqueak,Known motif – High-throughput in vitro [483],HYNAAWH
+LEF1,ENSG00000138795,HMG/Sox,Known motif – High-throughput in vitro [484],SATCAAAS
+LEUTX,ENSG00000213921,Homeodomain,Likely sequence specific TF according to literature or domain structure – No motif [485],
+LHX1,ENSG00000273706,Homeodomain,Known motif – High-throughput in vitro [486],TRATBR
+LHX2,ENSG00000106689,Homeodomain,Known motif – High-throughput in vitro [487],HHDTTR
+LHX3,ENSG00000107187,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [488],YAATHW
+LHX4,ENSG00000121454,Homeodomain,Known motif – High-throughput in vitro [489],BYRATTRV
+LHX5,ENSG00000089116,Homeodomain,Known motif – High-throughput in vitro [490],TAATTRS
+LHX6,ENSG00000106852,Homeodomain,Known motif – High-throughput in vitro [491],TRATTR
+LHX8,ENSG00000162624,Homeodomain,Known motif – High-throughput in vitro [492],STAATTA
+LHX9,ENSG00000143355,Homeodomain,Known motif – High-throughput in vitro [493],TAATTRG
+LIN28A,ENSG00000131914,CSD,Inferred motif from similar protein – High-throughput in vitro [494],CGCHGYYHYWYCGCG
+LIN28B,ENSG00000187772,CSD,Known motif – High-throughput in vitro [495],CGCHGYYHYWYCGCG
+LIN54,ENSG00000189308,TCR/CxC,Inferred motif from similar protein – High-throughput in vitro [496],RTTYAAAH
+LMX1A,ENSG00000162761,Homeodomain,Known motif – High-throughput in vitro [497],BTAATTA
+LMX1B,ENSG00000136944,Homeodomain,Known motif – High-throughput in vitro [498],TWATTR
+LTF,ENSG00000012223,Unknown,Known motif – In vivo/Misc source [499],GKVACTKB
+LYL1,ENSG00000104903,bHLH,Inferred motif from similar protein – In vivo/Misc source [500],RNCAGVTGGH
+MAF,ENSG00000178573,bZIP,Known motif – High-throughput in vitro [501],TGCTGACDHDRCR
+MAFA,ENSG00000182759,bZIP,Known motif – High-throughput in vitro [502],WWWNTGCTGACD
+MAFB,ENSG00000204103,bZIP,Known motif – from protein with 100% identical DBD – in vitro [503],TGCTGAC
+MAFF,ENSG00000185022,bZIP,Known motif – High-throughput in vitro [504],YGCTGASTCAGCR
+MAFG,ENSG00000197063,bZIP,Known motif – High-throughput in vitro [505],YGCTGABNDNGCR
+MAFK,ENSG00000198517,bZIP,Known motif – High-throughput in vitro [506],DNNYGCTKAVTCAGCRNNH
+MAX,ENSG00000125952,bHLH,Known motif – High-throughput in vitro [507],CACGTG
+MAZ,ENSG00000103495,C2H2 ZF,Known motif – High-throughput in vitro [508],GGGMGGGGS
+MBD1,ENSG00000141644,MBD; CxxC ZF,Likely sequence specific TF according to literature or domain structure – No motif [509],
+MBD2,ENSG00000134046,MBD,Known motif – In vivo/Misc source [510],VSGKCCGGMKR
+MBD3,ENSG00000071655,MBD,Likely sequence specific TF according to literature or domain structure – No motif [511],
+MBD4,ENSG00000129071,MBD,Likely sequence specific TF according to literature or domain structure – No motif [512],
+MBD6,ENSG00000166987,MBD,Likely sequence specific TF according to literature or domain structure – No motif [513],
+MBNL2,ENSG00000139793,CCCH ZF,Likely sequence specific TF according to literature or domain structure – High-throughput in vitro [514],YGCYTYGCYTH
+MECOM,ENSG00000085276,C2H2 ZF,Known motif – In vivo/Misc source [515],WGAYAAGATAANAND
+MECP2,ENSG00000169057,MBD; AT hook,Known motif – from protein with 100% identical DBD – in vitro [516],DTD
+MEF2A,ENSG00000068305,MADS box,Known motif – High-throughput in vitro [517],KCTAWAAATAGM
+MEF2B,ENSG00000213999,MADS box,Known motif – High-throughput in vitro [518],TGTTACCATAWHBGG
+MEF2C,ENSG00000081189,MADS box,Known motif – High-throughput in vitro [519],TWCTAWAAATAG
+MEF2D,ENSG00000116604,MADS box,Known motif – High-throughput in vitro [520],DCTAWAAATAGM
+MEIS1,ENSG00000143995,Homeodomain,Known motif – High-throughput in vitro [521],TGACA
+MEIS2,ENSG00000134138,Homeodomain,Known motif – High-throughput in vitro [522],TGACASSTGTC
+MEIS3,ENSG00000105419,Homeodomain,Known motif – High-throughput in vitro [523],TGACAGSTGTCA
+MEOX1,ENSG00000005102,Homeodomain,Known motif – High-throughput in vitro [524],STAATTA
+MEOX2,ENSG00000106511,Homeodomain,Known motif – High-throughput in vitro [525],STMATYA
+MESP1,ENSG00000166823,bHLH,Known motif – High-throughput in vitro [526],HVCACCTGB
+MESP2,ENSG00000188095,bHLH,Known motif – High-throughput in vitro [527],AMCATATGKYR
+MGA,ENSG00000174197,T-box,Known motif – High-throughput in vitro [528],AGGTGTKAHDTMACACCT
+MITF,ENSG00000187098,bHLH,Known motif – from protein with 100% identical DBD – in vitro [529],RTCACGHG
+MIXL1,ENSG00000185155,Homeodomain,Known motif – High-throughput in vitro [530],TAATTR
+MKX,ENSG00000150051,Homeodomain,Likely sequence specific TF according to literature or domain structure – No motif [531],
+MLX,ENSG00000108788,bHLH,Known motif – High-throughput in vitro [532],VCACGTGVY
+MLXIP,ENSG00000175727,bHLH,Inferred motif from similar protein – High-throughput in vitro [533],HCACGTGV
+MLXIPL,ENSG00000009950,bHLH,Known motif – High-throughput in vitro [534],DDCACGTGNH
+MNT,ENSG00000070444,bHLH,Known motif – High-throughput in vitro [535],DNCACGTGB
+MNX1,ENSG00000130675,Homeodomain,Known motif – High-throughput in vitro [536],HTAATTRNH
+MSANTD1,ENSG00000188981,MADF,Likely sequence specific TF according to literature or domain structure – No motif [537],
+MSANTD3,ENSG00000066697,MADF,Known motif – High-throughput in vitro [538],SBNCACTCAM
+MSANTD4,ENSG00000170903,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [539],
+MSC,ENSG00000178860,bHLH,Known motif – High-throughput in vitro [540],RMCAGCTGBYV
+MSGN1,ENSG00000151379,bHLH,Known motif – High-throughput in vitro [541],VMCAWWTGGY
+MSX1,ENSG00000163132,Homeodomain,Known motif – High-throughput in vitro [542],TAATTR
+MSX2,ENSG00000120149,Homeodomain,Known motif – High-throughput in vitro [543],TAATTGB
+MTERF1,ENSG00000127989,mTERF,Known motif – In vivo/Misc source [544],TGGTAVWRKTYGGT
+MTERF2,ENSG00000120832,mTERF,Likely sequence specific TF according to literature or domain structure – No motif [545],
+MTERF3,ENSG00000156469,mTERF,Likely sequence specific TF according to literature or domain structure – No motif [546],
+MTERF4,ENSG00000122085,mTERF,Likely sequence specific TF according to literature or domain structure – No motif [547],
+MTF1,ENSG00000188786,C2H2 ZF,Known motif – High-throughput in vitro [548],TTTGCACACGGCAC
+MTF2,ENSG00000143033,Unknown,Known motif – High-throughput in vitro [549],
+MXD1,ENSG00000059728,bHLH,Inferred motif from similar protein – In vivo/Misc source [550],CACGTGAY
+MXD3,ENSG00000213347,bHLH,Inferred motif from similar protein – In vivo/Misc source [551],CACGTGAY
+MXD4,ENSG00000123933,bHLH,Inferred motif from similar protein – In vivo/Misc source [552],CACGTGAY
+MXI1,ENSG00000119950,bHLH,Known motif – In vivo/Misc source [553],CCACGTGG
+MYB,ENSG00000118513,Myb/SANT,Known motif – In vivo/Misc source [554],BAACKGNH
+MYBL1,ENSG00000185697,Myb/SANT,Known motif – High-throughput in vitro [555],HRACCGTTW
+MYBL2,ENSG00000101057,Myb/SANT,Known motif – High-throughput in vitro [556],WAACGGTY
+MYC,ENSG00000136997,bHLH,Known motif – In vivo/Misc source [557],RCCACGTGSB
+MYCL,ENSG00000116990,bHLH,Inferred motif from similar protein – In vivo/Misc source [558],RCCACGTG
+MYCN,ENSG00000134323,bHLH,Known motif – High-throughput in vitro [559],VCACGTG
+MYF5,ENSG00000111049,bHLH,Known motif – In vivo/Misc source [560],VCWSCASSTGYCW
+MYF6,ENSG00000111046,bHLH,Known motif – High-throughput in vitro [561],RACASSTGWYV
+MYNN,ENSG00000085274,C2H2 ZF,Known motif – High-throughput in vitro [562],AAAWTAARAGYC
+MYOD1,ENSG00000129152,bHLH,Known motif – High-throughput in vitro [563],YGHCAGSTGKYV
+MYOG,ENSG00000122180,bHLH,Known motif – High-throughput in vitro [564],RACARCTGWCR
+MYPOP,ENSG00000176182,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [565],
+MYRF,ENSG00000124920,Ndt80/PhoG,Known motif – High-throughput in vitro [566],TGGTACCA
+MYRFL,ENSG00000166268,Ndt80/PhoG,Likely sequence specific TF according to literature or domain structure – No motif [567],
+MYSM1,ENSG00000162601,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [568],
+MYT1,ENSG00000196132,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [569],
+MYT1L,ENSG00000186487,C2H2 ZF,Inferred motif from similar protein – High-throughput in vitro [570],VAAGTTT
+MZF1,ENSG00000099326,C2H2 ZF,Known motif – In vivo/Misc source [571],DRDGGGGAD
+NACC2,ENSG00000148411,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [572],
+NAIF1,ENSG00000171169,MADF,Inferred motif from similar protein – High-throughput in vitro [573],TACGYH
+NANOG,ENSG00000111704,Homeodomain,Known motif – High-throughput in vitro [574],YRABBVB
+NANOGNB,ENSG00000205857,Homeodomain,Likely sequence specific TF according to literature or domain structure – No motif [575],
+NANOGP8,ENSG00000255192,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [576],YRABBVB
+NCOA1,ENSG00000084676,bHLH,Likely sequence specific TF according to literature or domain structure – No motif [577],
+NCOA2,ENSG00000140396,bHLH,Likely sequence specific TF according to literature or domain structure – No motif [578],
+NCOA3,ENSG00000124151,bHLH,Likely sequence specific TF according to literature or domain structure – No motif [579],
+NEUROD1,ENSG00000162992,bHLH,Known motif – High-throughput in vitro [580],AAWTANNNBRMCATATGKY
+NEUROD2,ENSG00000171532,bHLH,Known motif – High-throughput in vitro [581],RMCATATGBY
+NEUROD4,ENSG00000123307,bHLH,Inferred motif from similar protein – High-throughput in vitro [582],AAWTANNNBRMCATATGKY
+NEUROD6,ENSG00000164600,bHLH,Inferred motif from similar protein – High-throughput in vitro [583],AAWTANNNBRMCATATGKY
+NEUROG1,ENSG00000181965,bHLH,Known motif – High-throughput in vitro [584],RVCATATGBY
+NEUROG2,ENSG00000178403,bHLH,Known motif – High-throughput in vitro [585],RVCATATGBY
+NEUROG3,ENSG00000122859,bHLH,Inferred motif from similar protein – High-throughput in vitro [586],RVCATATGBY
+NFAT5,ENSG00000102908,Rel,Known motif – High-throughput in vitro [587],RTGGAAAWKTACH
+NFATC1,ENSG00000131196,Rel,Known motif – High-throughput in vitro [588],RTGGAAAHW
+NFATC2,ENSG00000101096,Rel,Known motif – High-throughput in vitro [589],DYGGAAANW
+NFATC3,ENSG00000072736,Rel,Known motif – High-throughput in vitro [590],YGGAAANH
+NFATC4,ENSG00000100968,Rel,Known motif – High-throughput in vitro [591],YRBWWW
+NFE2,ENSG00000123405,bZIP,Known motif – High-throughput in vitro [592],VATGACTCATB
+NFE2L1,ENSG00000082641,bZIP,Known motif – In vivo/Misc source [593],ATGAYD
+NFE2L2,ENSG00000116044,bZIP,Known motif – In vivo/Misc source [594],VVTGACTMAGCA
+NFE2L3,ENSG00000050344,bZIP,Known motif – In vivo/Misc source [595],TATTWSCAAGGA
+NFE4,ENSG00000230257,Unknown,Known motif – In vivo/Misc source [596],VHCCCKMKCCWS
+NFIA,ENSG00000162599,SMAD,Known motif – High-throughput in vitro [597],YTGGCANNNTGCCAA
+NFIB,ENSG00000147862,SMAD,Known motif – High-throughput in vitro [598],TTGGCANNNTGCCAR
+NFIC,ENSG00000141905,SMAD,Known motif – High-throughput in vitro [599],YTGGCANNNNGCCAA
+NFIL3,ENSG00000165030,bZIP,Known motif – High-throughput in vitro [600],VTTACRTAAY
+NFIX,ENSG00000008441,SMAD,Known motif – High-throughput in vitro [601],TTGGCANNNTGCCAR
+NFKB1,ENSG00000109320,Rel,Known motif – High-throughput in vitro [602],AGGGGAWTCCCCK
+NFKB2,ENSG00000077150,Rel,Known motif – High-throughput in vitro [603],VGGGGAWTCCCC
+NFX1,ENSG00000086102,NFX,Likely sequence specific TF according to literature or domain structure – No motif [604],
+NFXL1,ENSG00000170448,NFX,Likely sequence specific TF according to literature or domain structure – No motif [605],
+NFYA,ENSG00000001167,CBF/NF-Y,Known motif – In vivo/Misc source [606],HBSYSATTGGYYV
+NFYB,ENSG00000120837,Unknown,Known motif – In vivo/Misc source [607],CTSATTGGYYVVNNB
+NFYC,ENSG00000066136,Unknown,Known motif – In vivo/Misc source [608],BSTSATTGGYYR
+NHLH1,ENSG00000171786,bHLH,Known motif – High-throughput in vitro [609],DKGRCGCAGCTGMKNCH
+NHLH2,ENSG00000177551,bHLH,Known motif – High-throughput in vitro [610],DDGNMGCAGCTGCGYCMH
+NKRF,ENSG00000186416,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [611],
+NKX1-1,ENSG00000235608,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [612],TAATND
+NKX1-2,ENSG00000229544,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [613],TAAWND
+NKX2-1,ENSG00000136352,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [614],RAGDR
+NKX2-2,ENSG00000125820,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [615],RAGDR
+NKX2-3,ENSG00000119919,Homeodomain,Known motif – High-throughput in vitro [616],VCACTTV
+NKX2-4,ENSG00000125816,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [617],RAGDR
+NKX2-5,ENSG00000183072,Homeodomain,Known motif – High-throughput in vitro [618],VCACTTRDV
+NKX2-6,ENSG00000180053,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [619],HYAAGTRB
+NKX2-8,ENSG00000136327,Homeodomain,Known motif – High-throughput in vitro [620],BTSRAGTGB
+NKX3-1,ENSG00000167034,Homeodomain,Known motif – High-throughput in vitro [621],TAAGTGS
+NKX3-2,ENSG00000109705,Homeodomain,Known motif – High-throughput in vitro [622],TAAGTGS
+NKX6-1,ENSG00000163623,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [623],DTDATNR
+NKX6-2,ENSG00000148826,Homeodomain,Known motif – High-throughput in vitro [624],DTAATTR
+NKX6-3,ENSG00000165066,Homeodomain,Known motif – High-throughput in vitro [625],WTAATGRB
+NME2,ENSG00000243678,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [626],
+NOBOX,ENSG00000106410,Homeodomain,Known motif – High-throughput in vitro [627],HDATDR
+NOTO,ENSG00000214513,Homeodomain,Known motif – High-throughput in vitro [628],YWMATTA
+NPAS1,ENSG00000130751,bHLH,Inferred motif from similar protein – In vivo/Misc source [629],VVNGCACGTMBNS
+NPAS2,ENSG00000170485,bHLH,Known motif – High-throughput in vitro [630],DMCACGTGY
+NPAS3,ENSG00000151322,bHLH,Inferred motif from similar protein – In vivo/Misc source [631],VVNGCACGTMBNS
+NPAS4,ENSG00000174576,bHLH,Inferred motif from similar protein – High-throughput in vitro [632],
+NR0B1,ENSG00000169297,Unknown,Known motif – In vivo/Misc source [633],YBTYCCMCKS
+NR1D1,ENSG00000126368,Nuclear receptor,Known motif – High-throughput in vitro [634],TGACCYASTRACCYANWW
+NR1D2,ENSG00000174738,Nuclear receptor,Known motif – High-throughput in vitro [635],YRACMYANTRACMYMNWWH
+NR1H2,ENSG00000131408,Nuclear receptor,Known motif – In vivo/Misc source [636],TAAAGGTCAAAGGTCAASK
+NR1H3,ENSG00000025434,Nuclear receptor,Inferred motif from similar protein – In vivo/Misc source [637],TAAAGGTCAAAGGTCAASK
+NR1H4,ENSG00000012504,Nuclear receptor,Known motif – High-throughput in vitro [638],RGKTCRTTGACCYBNNRGGTBADRGKKBNDRGKTCAHHKD
+NR1I2,ENSG00000144852,Nuclear receptor,Known motif – High-throughput in vitro [639],YGMMCYBNNYGMMCY
+NR1I3,ENSG00000143257,Nuclear receptor,Known motif – High-throughput in vitro [640],RGKDYRNNNNRGKKYR
+NR2C1,ENSG00000120798,Nuclear receptor,Known motif – High-throughput in vitro [641],RGKKCRYGAMMY
+NR2C2,ENSG00000177463,Nuclear receptor,Known motif – High-throughput in vitro [642],VRGGTCAAAGGTCA
+NR2E1,ENSG00000112333,Nuclear receptor,Known motif – High-throughput in vitro [643],AAGTCA
+NR2E3,ENSG00000278570,Nuclear receptor,Known motif – High-throughput in vitro [644],RAGATCAM
+NR2F1,ENSG00000175745,Nuclear receptor,Known motif – High-throughput in vitro [645],RRGGTCAAAGGTCA
+NR2F2,ENSG00000185551,Nuclear receptor,Known motif – from protein with 100% identical DBD – in vitro [646],RRGGTCA
+NR2F6,ENSG00000160113,Nuclear receptor,Known motif – High-throughput in vitro [647],RGGTCAAAGGTCA
+NR3C1,ENSG00000113580,Nuclear receptor,Known motif – High-throughput in vitro [648],RGWACAYNRTGTWCYH
+NR3C2,ENSG00000151623,Nuclear receptor,Known motif – High-throughput in vitro [649],RGDACAHDRTGTHCY
+NR4A1,ENSG00000123358,Nuclear receptor,Known motif – High-throughput in vitro [650],AAAGGTCA
+NR4A2,ENSG00000153234,Nuclear receptor,Known motif – High-throughput in vitro [651],BTAAAGGTCA
+NR4A3,ENSG00000119508,Nuclear receptor,Known motif – In vivo/Misc source [652],CAAAGGTCAS
+NR5A1,ENSG00000136931,Nuclear receptor,Known motif – High-throughput in vitro [653],CAAGGYCR
+NR5A2,ENSG00000116833,Nuclear receptor,Known motif – High-throughput in vitro [654],YCAAGGTCAH
+NR6A1,ENSG00000148200,Nuclear receptor,Known motif – High-throughput in vitro [655],SAAGKTCAAGKKYR
+NRF1,ENSG00000106459,Unknown,Known motif – High-throughput in vitro [656],YRCGCATGCGC
+NRL,ENSG00000129535,bZIP,Known motif – High-throughput in vitro [657],DWHNYGCTGAC
+OLIG1,ENSG00000184221,bHLH,Known motif – High-throughput in vitro [658],AVCATATGKT
+OLIG2,ENSG00000205927,bHLH,Known motif – High-throughput in vitro [659],AMCATATGKY
+OLIG3,ENSG00000177468,bHLH,Known motif – High-throughput in vitro [660],RSCATATGKY
+ONECUT1,ENSG00000169856,CUT; Homeodomain,Known motif – High-throughput in vitro [661],DDTATCGATYD
+ONECUT2,ENSG00000119547,CUT; Homeodomain,Known motif – High-throughput in vitro [662],DTATCGATCS
+ONECUT3,ENSG00000205922,CUT; Homeodomain,Known motif – High-throughput in vitro [663],DWTATYGATTTTY
+OSR1,ENSG00000143867,C2H2 ZF,Known motif – High-throughput in vitro [664],HACRGTAGC
+OSR2,ENSG00000164920,C2H2 ZF,Known motif – High-throughput in vitro [665],HVCRGTAGC
+OTP,ENSG00000171540,Homeodomain,Known motif – from protein with 100% identical DBD – in vitro [666],HAATND
+OTX1,ENSG00000115507,Homeodomain,Known motif – High-throughput in vitro [667],TAATCSB
+OTX2,ENSG00000165588,Homeodomain,Known motif – High-throughput in vitro [668],HTAATCCB
+OVOL1,ENSG00000172818,C2H2 ZF,Known motif – High-throughput in vitro [669],RNRTAACGGTHH
+OVOL2,ENSG00000125850,C2H2 ZF,Known motif – High-throughput in vitro [670],DNNTARCGGD
+OVOL3,ENSG00000105261,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [671],
+PA2G4,ENSG00000170515,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [672],
+PATZ1,ENSG00000100105,C2H2 ZF; AT hook,Known motif – In vivo/Misc source [673],GGGHGGGG
+PAX1,ENSG00000125813,Paired box,Known motif – High-throughput in vitro [674],SGTCACGCWTSANTGVH
+PAX2,ENSG00000075891,Homeodomain; Paired box,Known motif – High-throughput in vitro [675],SGTCACGCWTSRNTGVNY
+PAX3,ENSG00000135903,Homeodomain; Paired box,Known motif – High-throughput in vitro [676],TAATCRATTA
+PAX4,ENSG00000106331,Homeodomain; Paired box,Known motif – High-throughput in vitro [677],HKAATTAR
+PAX5,ENSG00000196092,Paired box,Known motif – High-throughput in vitro [678],GTYACGSWTSRNTRVNY
+PAX6,ENSG00000007372,Homeodomain; Paired box,Known motif – High-throughput in vitro [679],YACGCHYSRNYRMNY
+PAX7,ENSG00000009709,Homeodomain; Paired box,Known motif – High-throughput in vitro [680],TAATYRATTW
+PAX8,ENSG00000125618,Paired box,Known motif – High-throughput in vitro [681],RNBYRNYSRWGCGTGACS
+PAX9,ENSG00000198807,Paired box,Known motif – High-throughput in vitro [682],SGTCACGCWTSANTGM
+PBX1,ENSG00000185630,Homeodomain,Known motif – High-throughput in vitro [683],TGATKGAYR
+PBX2,ENSG00000204304,Homeodomain,Known motif – In vivo/Misc source [684],KRVHKTGATTGAWK
+PBX3,ENSG00000167081,Homeodomain,Known motif – In vivo/Misc source [685],BBBTGATTGRYND
+PBX4,ENSG00000105717,Homeodomain,Known motif – High-throughput in vitro [686],HDWHH
+PCGF2,ENSG00000277258,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [687],
+PCGF6,ENSG00000156374,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [688],
+PDX1,ENSG00000139515,Homeodomain,Known motif – High-throughput in vitro [689],BTAATKR
+PEG3,ENSG00000198300,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [690],
+PGR,ENSG00000082175,Nuclear receptor,Known motif – High-throughput in vitro [691],RGNACRNNNTGTNCH
+PHF1,ENSG00000112511,Unknown,Known motif – High-throughput in vitro [692],
+PHF19,ENSG00000119403,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [693],
+PHF20,ENSG00000025293,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [694],
+PHF21A,ENSG00000135365,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [695],
+PHOX2A,ENSG00000165462,Homeodomain,Known motif – High-throughput in vitro [696],TAATTRVRTTA
+PHOX2B,ENSG00000109132,Homeodomain,Known motif – High-throughput in vitro [697],TAATTRVRTTA
+PIN1,ENSG00000127445,MBD,Likely sequence specific TF according to literature or domain structure – No motif [698],
+PITX1,ENSG00000069011,Homeodomain,Known motif – High-throughput in vitro [699],HTAATCC
+PITX2,ENSG00000164093,Homeodomain,Known motif – High-throughput in vitro [700],TAAKCC
+PITX3,ENSG00000107859,Homeodomain,Known motif – High-throughput in vitro [701],HTAATCC
+PKNOX1,ENSG00000160199,Homeodomain,Known motif – High-throughput in vitro [702],TGACAGCTGTCA
+PKNOX2,ENSG00000165495,Homeodomain,Known motif – High-throughput in vitro [703],TGACAGSTGTCA
+PLAG1,ENSG00000181690,C2H2 ZF,Known motif – High-throughput in vitro [704],GGGGCCHWMGGGGG
+PLAGL1,ENSG00000118495,C2H2 ZF,Known motif – In vivo/Misc source [705],RGGCCCCCYB
+PLAGL2,ENSG00000126003,C2H2 ZF,Known motif – High-throughput in vitro [706],RGGGGCCC
+PLSCR1,ENSG00000188313,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [707],
+POGK,ENSG00000143157,Brinker,Likely sequence specific TF according to literature or domain structure – No motif [708],
+POU1F1,ENSG00000064835,Homeodomain; POU,Known motif – High-throughput in vitro [709],DWTATGCWAATKAD
+POU2AF1,ENSG00000110777,Unknown,Known motif – In vivo/Misc source [710],GATKTGCAKAT
+POU2F1,ENSG00000143190,Homeodomain; POU,Known motif – High-throughput in vitro [711],WTGMATATKYADD
+POU2F2,ENSG00000028277,Homeodomain; POU,Known motif – High-throughput in vitro [712],DTGMATATKYADD
+POU2F3,ENSG00000137709,Homeodomain; POU,Known motif – High-throughput in vitro [713],TATGYWAAT
+POU3F1,ENSG00000185668,Homeodomain; POU,Known motif – High-throughput in vitro [714],WTATGYWAATD
+POU3F2,ENSG00000184486,Homeodomain; POU,Known motif – High-throughput in vitro [715],WTATGYWAATKW
+POU3F3,ENSG00000198914,Homeodomain; POU,Known motif – High-throughput in vitro [716],WWDMWTAWKHAW
+POU3F4,ENSG00000196767,Homeodomain; POU,Known motif – High-throughput in vitro [717],WDAWTTATKCA
+POU4F1,ENSG00000152192,Homeodomain; POU,Known motif – High-throughput in vitro [718],TDMATWATKYA
+POU4F2,ENSG00000151615,Homeodomain; POU,Known motif – High-throughput in vitro [719],BTMATTAAWTATKCA
+POU4F3,ENSG00000091010,Homeodomain; POU,Known motif – High-throughput in vitro [720],RTNMATWATKYAT
+POU5F1,ENSG00000204531,Homeodomain; POU,Known motif – High-throughput in vitro [721],WTATGYWAATKWVB
+POU5F1B,ENSG00000212993,Homeodomain; POU,Known motif – High-throughput in vitro [722],TATGYWAAT
+POU5F2,ENSG00000248483,Homeodomain; POU,Likely sequence specific TF according to literature or domain structure – No motif [723],
+POU6F1,ENSG00000184271,Homeodomain; POU,Known motif – High-throughput in vitro [724],MTCATTAH
+POU6F2,ENSG00000106536,Homeodomain; POU,Known motif – High-throughput in vitro [725],DTAATKAGBH
+PPARA,ENSG00000186951,Nuclear receptor,Known motif – In vivo/Misc source [726],DAGGTCA
+PPARD,ENSG00000112033,Nuclear receptor,Known motif – High-throughput in vitro [727],RRGGTCAAAGGTCA
+PPARG,ENSG00000132170,Nuclear receptor,Known motif – from protein with 100% identical DBD – in vitro [728],VNTRMCCYANWDNRACCTWTNVCCYVNW
+PRDM1,ENSG00000057657,C2H2 ZF,Known motif – High-throughput in vitro [729],RAAAGTGAAAGTD
+PRDM10,ENSG00000170325,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [730],
+PRDM12,ENSG00000130711,C2H2 ZF,Known motif – In vivo/Misc source [731],GACAGNTKACC
+PRDM13,ENSG00000112238,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [732],
+PRDM14,ENSG00000147596,C2H2 ZF,Known motif – In vivo/Misc source [733],RSTTAGRGACCY
+PRDM15,ENSG00000141956,C2H2 ZF,Known motif – In vivo/Misc source [734],DTGGAAHTCCMA
+PRDM16,ENSG00000142611,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [735],DAGAYAAGATAANM
+PRDM2,ENSG00000116731,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [736],
+PRDM4,ENSG00000110851,C2H2 ZF,Known motif – High-throughput in vitro [737],TTTCAAGGCCCCC
+PRDM5,ENSG00000138738,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [738],
+PRDM6,ENSG00000061455,C2H2 ZF,Known motif – In vivo/Misc source [739],RVARDRRAAADDVWRRAAAA
+PRDM8,ENSG00000152784,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [740],
+PRDM9,ENSG00000164256,C2H2 ZF,Known motif – High-throughput in vitro [741],VGNGGBNRSGGDGGNNNNARVRRV
+PREB,ENSG00000138073,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [742],
+PRMT3,ENSG00000185238,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [743],
+PROP1,ENSG00000175325,Homeodomain,Known motif – High-throughput in vitro [744],TAAYYNMATTA
+PROX1,ENSG00000117707,Prospero,Known motif – High-throughput in vitro [745],BAAGACGYCTTV
+PROX2,ENSG00000119608,Prospero,Inferred motif from similar protein – High-throughput in vitro [746],BAMGRCGTCDTV
+PRR12,ENSG00000126464,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [747],
+PRRX1,ENSG00000116132,Homeodomain,Known motif – High-throughput in vitro [748],TAATTR
+PRRX2,ENSG00000167157,Homeodomain,Known motif – High-throughput in vitro [749],TAATTRV
+PTF1A,ENSG00000168267,bHLH,Known motif – High-throughput in vitro [750],VYGTCAGCTGTT
+PURA,ENSG00000185129,Unknown,Known motif – In vivo/Misc source [751],CYMBGSCHNCMMMBWCC
+PURB,ENSG00000146676,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [752],
+PURG,ENSG00000172733,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [753],
+RAG1,ENSG00000166349,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [754],
+RARA,ENSG00000131759,Nuclear receptor,Known motif – High-throughput in vitro [755],RRGGTCANV
+RARB,ENSG00000077092,Nuclear receptor,Known motif – High-throughput in vitro [756],TGACCYYTTGACCYY
+RARG,ENSG00000172819,Nuclear receptor,Known motif – High-throughput in vitro [757],VGGTCA
+RAX,ENSG00000134438,Homeodomain,Known motif – High-throughput in vitro [758],HTAATTR
+RAX2,ENSG00000173976,Homeodomain,Known motif – High-throughput in vitro [759],TAATTR
+RBAK,ENSG00000146587,C2H2 ZF,Known motif – High-throughput in vitro [760],VGDRASRARVRRSV
+RBCK1,ENSG00000125826,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [761],
+RBPJ,ENSG00000168214,CSL,Known motif – High-throughput in vitro [762],BTCHCA
+RBPJL,ENSG00000124232,CSL,Inferred motif from similar protein – In vivo/Misc source [763],DTTCCCABR
+RBSN,ENSG00000131381,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [764],
+REL,ENSG00000162924,Rel,Known motif – In vivo/Misc source [765],GGAAWNYCCV
+RELA,ENSG00000173039,Rel,Known motif – In vivo/Misc source [766],BKGGAAAKYCCCH
+RELB,ENSG00000104856,Rel,Known motif – In vivo/Misc source [767],DKSAAAKYCCCB
+REPIN1,ENSG00000214022,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [768],
+REST,ENSG00000084093,C2H2 ZF,Known motif – In vivo/Misc source [769],DTCAGSACCWYGGACAGCDSC
+REXO4,ENSG00000148300,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [770],
+RFX1,ENSG00000132005,RFX,Known motif – High-throughput in vitro [771],BGTTRYCATGRYAACV
+RFX2,ENSG00000087903,RFX,Known motif – High-throughput in vitro [772],BGTTRCCATGGYAACV
+RFX3,ENSG00000080298,RFX,Known motif – High-throughput in vitro [773],BGTTDCCATGGYAAC
+RFX4,ENSG00000111783,RFX,Known motif – High-throughput in vitro [774],GTWRYCATRGHWAC
+RFX5,ENSG00000143390,RFX,Known motif – High-throughput in vitro [775],BGTTGCYATGGYAACV
+RFX6,ENSG00000185002,RFX,Inferred motif from similar protein – High-throughput in vitro [776],GTHDYYNNS
+RFX7,ENSG00000181827,RFX,Known motif – High-throughput in vitro [777],BGTTRCYRY
+RFX8,ENSG00000196460,RFX,Likely sequence specific TF according to literature or domain structure – No motif [778],
+RHOXF1,ENSG00000101883,Homeodomain,Known motif – High-throughput in vitro [779],TRAKCCH
+RHOXF2,ENSG00000131721,Homeodomain,Known motif – High-throughput in vitro [780],TAATCC
+RHOXF2B,ENSG00000203989,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [781],TAATCC
+RLF,ENSG00000117000,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [782],
+RORA,ENSG00000069667,Nuclear receptor,Known motif – High-throughput in vitro [783],MRAGGTCAAVYYVAGGTCA
+RORB,ENSG00000198963,Nuclear receptor,Known motif – High-throughput in vitro [784],AWNBRGGTCA
+RORC,ENSG00000143365,Nuclear receptor,Known motif – High-throughput in vitro [785],TGMCCYANWTH
+RREB1,ENSG00000124782,C2H2 ZF,Known motif – In vivo/Misc source [786],MCMCMAMMCAMCMMCHMMSV
+RUNX1,ENSG00000159216,Runt,Known motif – In vivo/Misc source [787],VACCACAV
+RUNX2,ENSG00000124813,Runt,Known motif – High-throughput in vitro [788],HRACCRCADWAACCRCAV
+RUNX3,ENSG00000020633,Runt,Known motif – High-throughput in vitro [789],WAACCRCAR
+RXRA,ENSG00000186350,Nuclear receptor,Known motif – High-throughput in vitro [790],RRGGTCAAAGGTCA
+RXRB,ENSG00000204231,Nuclear receptor,Known motif – High-throughput in vitro [791],RRGGTCAAAGGTCA
+RXRG,ENSG00000143171,Nuclear receptor,Known motif – High-throughput in vitro [792],RRGGTCAAAGGTCA
+SAFB,ENSG00000160633,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [793],
+SAFB2,ENSG00000130254,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [794],
+SALL1,ENSG00000103449,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [795],RYYCAAAAB
+SALL2,ENSG00000165821,C2H2 ZF,Known motif – In vivo/Misc source [796],CCCACCC
+SALL3,ENSG00000256463,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [797],
+SALL4,ENSG00000101115,C2H2 ZF,Inferred motif from similar protein – In vivo/Misc source [798],GCTGATAACAGV
+SATB1,ENSG00000182568,CUT; Homeodomain,Known motif – In vivo/Misc source [799],WKWWWTAAHGRYMNWW
+SATB2,ENSG00000119042,CUT; Homeodomain,Inferred motif from similar protein – In vivo/Misc source [800],WKWWWTAAHGRYMNWW
+SCMH1,ENSG00000010803,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [801],
+SCML4,ENSG00000146285,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [802],
+SCRT1,ENSG00000261678,C2H2 ZF,Known motif – High-throughput in vitro [803],KCAACAGGTD
+SCRT2,ENSG00000215397,C2H2 ZF,Known motif – High-throughput in vitro [804],RHGCAACAGGTGB
+SCX,ENSG00000260428,bHLH,Inferred motif from similar protein – High-throughput in vitro [805],VCRKMYGB
+SEBOX,ENSG00000274529,Homeodomain,Inferred motif from similar protein – High-throughput in vitro [806],HTTAATTA
+SETBP1,ENSG00000152217,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [807],
+SETDB1,ENSG00000143379,MBD,Known motif – In vivo/Misc source [808],RACTHCMDYTCCCRKVRDGCHNYG
+SETDB2,ENSG00000136169,MBD,Likely sequence specific TF according to literature or domain structure – No motif [809],
+SGSM2,ENSG00000141258,BED ZF,Likely sequence specific TF according to literature or domain structure – No motif [810],
+SHOX,ENSG00000185960,Homeodomain,Known motif – High-throughput in vitro [811],TAATTR
+SHOX2,ENSG00000168779,Homeodomain,Known motif – High-throughput in vitro [812],BTAATTR
+SIM1,ENSG00000112246,bHLH,Inferred motif from similar protein – In vivo/Misc source [813],VVNGCACGTMBNS
+SIM2,ENSG00000159263,bHLH,Inferred motif from similar protein – In vivo/Misc source [814],VVNGCACGTMBNS
+SIX1,ENSG00000126778,Homeodomain,Known motif – High-throughput in vitro [815],VBGTATCR
+SIX2,ENSG00000170577,Homeodomain,Known motif – High-throughput in vitro [816],VSGTATCR
+SIX3,ENSG00000138083,Homeodomain,Known motif – High-throughput in vitro [817],VVTATCR
+SIX4,ENSG00000100625,Homeodomain,Known motif – High-throughput in vitro [818],VBGTATCRB
+SIX5,ENSG00000177045,Homeodomain,Known motif – In vivo/Misc source [819],GGAGTTGT
+SIX6,ENSG00000184302,Homeodomain,Known motif – High-throughput in vitro [820],VBSTATCR
+SKI,ENSG00000157933,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [821],
+SKIL,ENSG00000136603,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [822],
+SKOR1,ENSG00000188779,Unknown,Known motif – High-throughput in vitro [823],WNVKGTAATTAMB
+SKOR2,ENSG00000215474,SAND,Known motif – High-throughput in vitro [824],WNVKGTAATTAA
+SLC2A4RG,ENSG00000125520,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [825],
+SMAD1,ENSG00000170365,SMAD,Known motif – In vivo/Misc source [826],DRCAGASAGGSH
+SMAD3,ENSG00000166949,SMAD,Known motif – High-throughput in vitro [827],YGTCTAGACA
+SMAD4,ENSG00000141646,SMAD,Known motif – from protein with 100% identical DBD – in vitro [828],KCYAGACR
+SMAD5,ENSG00000113658,SMAD,Known motif – High-throughput in vitro [829],YGTCTAGACW
+SMAD9,ENSG00000120693,SMAD,Known motif – In vivo/Misc source [830],WGGTCTAGMCMT
+SMYD3,ENSG00000185420,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [831],
+SNAI1,ENSG00000124216,C2H2 ZF,Known motif – High-throughput in vitro [832],VCACCTGY
+SNAI2,ENSG00000019549,C2H2 ZF,Known motif – High-throughput in vitro [833],RRCAGGTGYR
+SNAI3,ENSG00000185669,C2H2 ZF,Known motif – High-throughput in vitro [834],DRCAGGTGYR
+SNAPC2,ENSG00000104976,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [835],
+SNAPC4,ENSG00000165684,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [836],
+SNAPC5,ENSG00000174446,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [837],
+SOHLH1,ENSG00000165643,bHLH,Likely sequence specific TF according to literature or domain structure – No motif [838],
+SOHLH2,ENSG00000120669,bHLH,Known motif – High-throughput in vitro [839],BCACGTGC
+SON,ENSG00000159140,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [840],
+SOX1,ENSG00000182968,HMG/Sox,Known motif – from protein with 100% identical DBD – in vitro [841],WBAAW
+SOX10,ENSG00000100146,HMG/Sox,Known motif – High-throughput in vitro [842],DAACAWWGVV
+SOX11,ENSG00000176887,HMG/Sox,Known motif – from protein with 100% identical DBD – in vitro [843],VACAAW
+SOX12,ENSG00000177732,HMG/Sox,Known motif – High-throughput in vitro [844],MCCGAACAAT
+SOX13,ENSG00000143842,HMG/Sox,Known motif – from protein with 100% identical DBD – in vitro [845],RAACAATW
+SOX14,ENSG00000168875,HMG/Sox,Known motif – High-throughput in vitro [846],WCAATR
+SOX15,ENSG00000129194,HMG/Sox,Known motif – High-throughput in vitro [847],ATCAATAMCATTGAT
+SOX17,ENSG00000164736,HMG/Sox,Known motif – High-throughput in vitro [848],DRACAATRV
+SOX18,ENSG00000203883,HMG/Sox,Known motif – High-throughput in vitro [849],ATCAATGHWATTGAT
+SOX2,ENSG00000181449,HMG/Sox,Known motif – High-throughput in vitro [850],HATCAATANCATTGATH
+SOX21,ENSG00000125285,HMG/Sox,Known motif – High-throughput in vitro [851],TCAMTRHCATTGA
+SOX3,ENSG00000134595,HMG/Sox,Known motif – High-throughput in vitro [852],SBNAMAATRB
+SOX30,ENSG00000039600,HMG/Sox,Known motif – High-throughput in vitro [853],RACAAT
+SOX4,ENSG00000124766,HMG/Sox,Known motif – High-throughput in vitro [854],AACAAWGR
+SOX5,ENSG00000134532,HMG/Sox,Known motif – High-throughput in vitro [855],DVACAATRV
+SOX6,ENSG00000110693,HMG/Sox,Known motif – High-throughput in vitro [856],DRACAATRV
+SOX7,ENSG00000171056,HMG/Sox,Known motif – High-throughput in vitro [857],DAACAATKDYAKTGTT
+SOX8,ENSG00000005513,HMG/Sox,Known motif – High-throughput in vitro [858],HATCAATTKCAGTGAT
+SOX9,ENSG00000125398,HMG/Sox,Known motif – High-throughput in vitro [859],DDACAATRV
+SP1,ENSG00000185591,C2H2 ZF,Known motif – High-throughput in vitro [860],RCCMCDCCCMH
+SP100,ENSG00000067066,SAND,Likely sequence specific TF according to literature or domain structure – No motif [861],
+SP110,ENSG00000135899,SAND,Likely sequence specific TF according to literature or domain structure – No motif [862],
+SP140,ENSG00000079263,SAND,Likely sequence specific TF according to literature or domain structure – No motif [863],
+SP140L,ENSG00000185404,SAND,Likely sequence specific TF according to literature or domain structure – No motif [864],
+SP2,ENSG00000167182,C2H2 ZF,Known motif – High-throughput in vitro [865],YWAGYCCCGCCCMCYH
+SP3,ENSG00000172845,C2H2 ZF,Known motif – High-throughput in vitro [866],VCCMCRCCCMY
+SP4,ENSG00000105866,C2H2 ZF,Known motif – High-throughput in vitro [867],WRGCCACGCCCMCHY
+SP5,ENSG00000204335,C2H2 ZF,Known motif – In vivo/Misc source [868],ACCVCGCCKCCSS
+SP6,ENSG00000189120,C2H2 ZF,Inferred motif from similar protein – High-throughput in vitro [869],HNGCCACGCCCARK
+SP7,ENSG00000170374,C2H2 ZF,Known motif – In vivo/Misc source [870],VBNSGGGGNGG
+SP8,ENSG00000164651,C2H2 ZF,Known motif – High-throughput in vitro [871],VMCACBCCCMCH
+SP9,ENSG00000217236,C2H2 ZF,Known motif – High-throughput in vitro [872],VMCMCGCCCMYH
+SPDEF,ENSG00000124664,Ets,Known motif – High-throughput in vitro [873],AMCCGGATRTD
+SPEN,ENSG00000065526,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [874],
+SPI1,ENSG00000066336,Ets,Known motif – High-throughput in vitro [875],RAAAAGMGGAAGTW
+SPIB,ENSG00000269404,Ets,Known motif – High-throughput in vitro [876],WWWRVGGAAST
+SPIC,ENSG00000166211,Ets,Known motif – High-throughput in vitro [877],RAAWSVGGAAGTM
+SPZ1,ENSG00000164299,Unknown,Known motif – In vivo/Misc source [878],GGSDGWWMCVBHBG
+SRCAP,ENSG00000080603,AT hook,Likely sequence specific TF according to literature or domain structure – No motif [879],
+SREBF1,ENSG00000072310,bHLH,Known motif – High-throughput in vitro [880],VHCACVCSAY
+SREBF2,ENSG00000198911,bHLH,Known motif – High-throughput in vitro [881],RTCACGTGAY
+SRF,ENSG00000112658,MADS box,Known motif – High-throughput in vitro [882],DCCWTATATGGT
+SRY,ENSG00000184895,HMG/Sox,Known motif – High-throughput in vitro [883],AACAATGNTATTGTT
+ST18,ENSG00000147488,C2H2 ZF,Inferred motif from similar protein – High-throughput in vitro [884],VAAGTTT
+STAT1,ENSG00000115415,STAT,Known motif – In vivo/Misc source [885],HTTCCYRGAAR
+STAT2,ENSG00000170581,STAT,Known motif – In vivo/Misc source [886],TNRGTTTCDNTTYC
+STAT3,ENSG00000168610,STAT,Known motif – In vivo/Misc source [887],HTTCCYRKMA
+STAT4,ENSG00000138378,STAT,Known motif – In vivo/Misc source [888],BDHTTCTBGKAAD
+STAT5A,ENSG00000126561,STAT,Known motif – In vivo/Misc source [889],YTTCYNRGAAHY
+STAT5B,ENSG00000173757,STAT,Known motif – In vivo/Misc source [890],ADTTCYHRGAAA
+STAT6,ENSG00000166888,STAT,Known motif – In vivo/Misc source [891],DWTTYCNDDGAA
+T,ENSG00000164458,T-box,Known motif – High-throughput in vitro [892],ANGTGYGAHWWNTVRCACCT
+TAL1,ENSG00000162367,bHLH,Known motif – In vivo/Misc source [893],RNCAGVTGGH
+TAL2,ENSG00000186051,bHLH,Inferred motif from similar protein – In vivo/Misc source [894],RNCAGVTGGH
+TBP,ENSG00000112592,TBP,Known motif – from protein with 100% identical DBD – in vitro [895],WWWWAW
+TBPL1,ENSG00000028839,TBP,Likely sequence specific TF according to literature or domain structure – No motif [896],
+TBPL2,ENSG00000182521,TBP,Inferred motif from similar protein – High-throughput in vitro [897],WWWWAW
+TBR1,ENSG00000136535,T-box,Known motif – High-throughput in vitro [898],TTCACACCT
+TBX1,ENSG00000184058,T-box,Known motif – High-throughput in vitro [899],TCACACCT
+TBX10,ENSG00000167800,T-box,Inferred motif from similar protein – High-throughput in vitro [900],BYTCACACCYHV
+TBX15,ENSG00000092607,T-box,Known motif – High-throughput in vitro [901],TCACACCT
+TBX18,ENSG00000112837,T-box,Known motif – High-throughput in vitro [902],BYTCACACCTHH
+TBX19,ENSG00000143178,T-box,Known motif – High-throughput in vitro [903],TMRCACNTABGTGYBAH
+TBX2,ENSG00000121068,T-box,Known motif – High-throughput in vitro [904],VRCRC
+TBX20,ENSG00000164532,T-box,Known motif – High-throughput in vitro [905],TCACRCBYTMACACCT
+TBX21,ENSG00000073861,T-box,Known motif – High-throughput in vitro [906],WTCACACCTH
+TBX22,ENSG00000122145,T-box,Known motif – In vivo/Misc source [907],AGGTGWSAAWTTCACACCT
+TBX3,ENSG00000135111,T-box,Known motif – High-throughput in vitro [908],YVACACSH
+TBX4,ENSG00000121075,T-box,Known motif – High-throughput in vitro [909],TVACACCT
+TBX5,ENSG00000089225,T-box,Known motif – High-throughput in vitro [910],TVACACCT
+TBX6,ENSG00000149922,T-box,Known motif – High-throughput in vitro [911],TVACACSY
+TCF12,ENSG00000140262,bHLH,Known motif – High-throughput in vitro [912],VCACSTGB
+TCF15,ENSG00000125878,bHLH,Inferred motif from similar protein – High-throughput in vitro [913],VCRKMYGB
+TCF20,ENSG00000100207,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [914],
+TCF21,ENSG00000118526,bHLH,Known motif – High-throughput in vitro [915],RVCAGCTGTTV
+TCF23,ENSG00000163792,bHLH,Inferred motif from similar protein – High-throughput in vitro [916],VCRKMYGB
+TCF24,ENSG00000261787,bHLH,Inferred motif from similar protein – High-throughput in vitro [917],RMCAKMTGK
+TCF3,ENSG00000071564,bHLH,Known motif – High-throughput in vitro [918],VCAGGTGB
+TCF4,ENSG00000196628,bHLH,Known motif – High-throughput in vitro [919],HRCACCTGB
+TCF7,ENSG00000081059,HMG/Sox,Known motif – High-throughput in vitro [920],DSATCAAWS
+TCF7L1,ENSG00000152284,HMG/Sox,Known motif – High-throughput in vitro [921],AAAGATCAAAGG
+TCF7L2,ENSG00000148737,HMG/Sox,Known motif – from protein with 100% identical DBD – in vitro [922],SWTCAAAV
+TCFL5,ENSG00000101190,bHLH,Known motif – High-throughput in vitro [923],KCRCGCGCHC
+TEAD1,ENSG00000187079,TEA,Known motif – High-throughput in vitro [924],RCATTCCDH
+TEAD2,ENSG00000074219,TEA,Known motif – High-throughput in vitro [925],YRCATTCCW
+TEAD3,ENSG00000007866,TEA,Known motif – High-throughput in vitro [926],RCATTCYDNDCATWCCD
+TEAD4,ENSG00000197905,TEA,Known motif – High-throughput in vitro [927],RMATTCYD
+TEF,ENSG00000167074,bZIP,Known motif – High-throughput in vitro [928],VTTACRTAAB
+TERB1,ENSG00000249961,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [929],
+TERF1,ENSG00000147601,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [930],
+TERF2,ENSG00000132604,Myb/SANT,Inferred motif from similar protein – High-throughput in vitro [931],AACCCTAV
+TET1,ENSG00000138336,CxxC,Known motif – High-throughput in vitro [932],HVCGH
+TET2,ENSG00000168769,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [933],
+TET3,ENSG00000187605,CxxC,Likely sequence specific TF according to literature or domain structure – No motif [934],
+TFAP2A,ENSG00000137203,AP-2,Known motif – High-throughput in vitro [935],HSCCYBVRGGCD
+TFAP2B,ENSG00000008196,AP-2,Known motif – High-throughput in vitro [936],SCCBNVGGS
+TFAP2C,ENSG00000087510,AP-2,Known motif – High-throughput in vitro [937],HGCCYBVRGGSD
+TFAP2D,ENSG00000008197,AP-2,Known motif – In vivo/Misc source [938],RCGNGCCBCRGVCB
+TFAP2E,ENSG00000116819,AP-2,Known motif – High-throughput in vitro [939],HSCCYSRGGSD
+TFAP4,ENSG00000090447,bHLH,Known motif – High-throughput in vitro [940],VWCAGCTGWB
+TFCP2,ENSG00000135457,Grainyhead,Known motif – High-throughput in vitro [941],WCCGGWWHDAWCYGGW
+TFCP2L1,ENSG00000115112,Grainyhead,Known motif – High-throughput in vitro [942],DCYRGHNNNDDCYRGH
+TFDP1,ENSG00000198176,E2F,Known motif – In vivo/Misc source [943],DYYTCSCGCYMWWY
+TFDP2,ENSG00000114126,E2F,Inferred motif from similar protein – In vivo/Misc source [944],DYYTCSCGCYMWWY
+TFDP3,ENSG00000183434,E2F,Inferred motif from similar protein – In vivo/Misc source [945],DYYTCSCGCYMWWY
+TFE3,ENSG00000068323,bHLH,Known motif – High-throughput in vitro [946],RKCACGTGNB
+TFEB,ENSG00000112561,bHLH,Known motif – High-throughput in vitro [947],RNCACGTGAY
+TFEC,ENSG00000105967,bHLH,Known motif – High-throughput in vitro [948],RNCACRTGAB
+TGIF1,ENSG00000177426,Homeodomain,Known motif – High-throughput in vitro [949],TGACAGCTGTCA
+TGIF2,ENSG00000118707,Homeodomain,Known motif – High-throughput in vitro [950],TGACABVTGTCA
+TGIF2LX,ENSG00000153779,Homeodomain,Known motif – High-throughput in vitro [951],TGACASSTGTCA
+TGIF2LY,ENSG00000176679,Homeodomain,Known motif – High-throughput in vitro [952],TGACABVTGTCA
+THAP1,ENSG00000131931,THAP finger,Known motif – In vivo/Misc source [953],BYYGCCMKNANYMAAVATGGCSV
+THAP10,ENSG00000129028,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [954],
+THAP11,ENSG00000168286,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [955],
+THAP12,ENSG00000137492,THAP finger,Known motif – High-throughput in vitro [956],YMBNNBGR
+THAP2,ENSG00000173451,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [957],
+THAP3,ENSG00000041988,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [958],
+THAP4,ENSG00000176946,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [959],
+THAP5,ENSG00000177683,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [960],
+THAP6,ENSG00000174796,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [961],
+THAP7,ENSG00000184436,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [962],
+THAP8,ENSG00000161277,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [963],
+THAP9,ENSG00000168152,THAP finger,Likely sequence specific TF according to literature or domain structure – No motif [964],
+THRA,ENSG00000126351,Nuclear receptor,Known motif – High-throughput in vitro [965],DTGACCTBATRAGGTCAH
+THRB,ENSG00000151090,Nuclear receptor,Known motif – High-throughput in vitro [966],TGWCCTBRNYVAGGWCA
+THYN1,ENSG00000151500,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [967],
+TIGD1,ENSG00000221944,CENPB,Known motif – High-throughput in vitro [968],SCGCAATA
+TIGD2,ENSG00000180346,CENPB,Inferred motif from similar protein – High-throughput in vitro [969],RCGGWWR
+TIGD3,ENSG00000173825,CENPB,Likely sequence specific TF according to literature or domain structure – No motif [970],
+TIGD4,ENSG00000169989,CENPB,Likely sequence specific TF according to literature or domain structure – No motif [971],
+TIGD5,ENSG00000179886,CENPB,Likely sequence specific TF according to literature or domain structure – No motif [972],
+TIGD6,ENSG00000164296,CENPB,Inferred motif from similar protein – High-throughput in vitro [973],WVCRWA
+TIGD7,ENSG00000140993,CENPB,Likely sequence specific TF according to literature or domain structure – No motif [974],
+TLX1,ENSG00000107807,Homeodomain,Known motif – In vivo/Misc source [975],VCHHVTTRVCV
+TLX2,ENSG00000115297,Homeodomain,Known motif – High-throughput in vitro [976],BTAATTR
+TLX3,ENSG00000164438,Homeodomain,Known motif – High-throughput in vitro [977],AATKGNNNNNNNNNNNNNCAATT
+TMF1,ENSG00000144747,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [978],
+TOPORS,ENSG00000197579,Unknown,Known motif – In vivo/Misc source [979],TCCCAGCTACTTTGGGA
+TP53,ENSG00000141510,p53,Known motif – In vivo/Misc source [980],DRCATGYYBRGRCATGYCY
+TP63,ENSG00000073282,p53,Known motif – High-throughput in vitro [981],DACATGTYVYRACATGTY
+TP73,ENSG00000078900,p53,Known motif – In vivo/Misc source [982],DRRCAWGYHCWGRCWTGYH
+TPRX1,ENSG00000178928,Homeodomain,Likely sequence specific TF according to literature or domain structure – No motif [983],
+TRAFD1,ENSG00000135148,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [984],
+TRERF1,ENSG00000124496,C2H2 ZF; Myb/SANT,Inferred motif from similar protein – In vivo/Misc source [985],AGACKTTAGTCA
+TRPS1,ENSG00000104447,GATA,Known motif – In vivo/Misc source [986],HWSRARATAGWDDMH
+TSC22D1,ENSG00000102804,Unknown,Likely sequence specific TF according to literature or domain structure – No motif [987],
+TSHZ1,ENSG00000179981,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [988],
+TSHZ2,ENSG00000182463,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [989],
+TSHZ3,ENSG00000121297,C2H2 ZF,Likely sequence specific TF according to literature or domain structure – No motif [990],
+TTF1,ENSG00000125482,Myb/SANT,Likely sequence specific TF according to literature or domain structure – No motif [991],
+TWIST1,ENSG00000122691,bHLH,Known motif – In vivo/Misc source [992],MHVCACHTGSD
+TWIST2,ENSG00000233608,bHLH,Known motif – from protein with 100% identical DBD – in vitro [993],MCATATGT
+UBP1,ENSG00000153560,Grainyhead,Known motif – High-throughput in vitro [994],DCYRGHNNNNDCYRGH
+UNCX,ENSG00000164853,Homeodomain,Known motif – High-throughput in vitro [995],TAATTR
+USF1,ENSG00000158773,bHLH,Known motif – High-throughput in vitro [996],RNCACGTGRY
+USF2,ENSG00000105698,bHLH,Known motif – High-throughput in vitro [997],VCACGTGVC
+USF3,ENSG00000176542,bHLH,Likely sequence specific TF according to literature or domain structure – No motif [998],
+VAX1,ENSG00000148704,Homeodomain,Known motif – High-throughput in vitro [999],YTAATKA
+VAX2,ENSG00000116035,Homeodomain,"Known motif – High-throughput in vitro [1,000]",YTAATKA
+VDR,ENSG00000111424,Nuclear receptor,"Known motif – High-throughput in vitro [1,001]",TGAACYCDRTGAACYC
+VENTX,ENSG00000151650,Homeodomain,"Known motif – High-throughput in vitro [1,002]",VNTAATBR
+VEZF1,ENSG00000136451,C2H2 ZF,"Known motif – High-throughput in vitro [1,003]",RKGGGGGG
+VSX1,ENSG00000100987,Homeodomain,"Known motif – High-throughput in vitro [1,004]",TAATTRS
+VSX2,ENSG00000119614,Homeodomain,"Known motif – High-throughput in vitro [1,005]",YTAATTA
+WIZ,ENSG00000011451,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,006]",
+WT1,ENSG00000184937,C2H2 ZF,"Known motif – High-throughput in vitro [1,007]",BGGGGGRG
+XBP1,ENSG00000100219,bZIP,"Known motif – High-throughput in vitro [1,008]",GVTGACGTGKCVHW
+XPA,ENSG00000136936,Unknown,"Known motif – High-throughput in vitro [1,009]",VCACCTCACMY
+YBX1,ENSG00000065978,CSD,"Known motif – High-throughput in vitro [1,010]",YGTWCCAYC
+YBX2,ENSG00000006047,CSD,"Inferred motif from similar protein – High-throughput in vitro [1,011]",YGTWCCAYC
+YBX3,ENSG00000060138,CSD,"Known motif – from protein with 100% identical DBD – in vitro [1,012]",YGTWCCAYC
+YY1,ENSG00000100811,C2H2 ZF,"Known motif – High-throughput in vitro [1,013]",HRWNATGGCB
+YY2,ENSG00000230797,C2H2 ZF,"Known motif – High-throughput in vitro [1,014]",DDNATGGCGG
+ZBED1,ENSG00000214717,BED ZF,"Known motif – High-throughput in vitro [1,015]",YATGTCGCGAYAD
+ZBED2,ENSG00000177494,BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,016]",
+ZBED3,ENSG00000132846,BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,017]",
+ZBED4,ENSG00000100426,BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,018]",
+ZBED5,ENSG00000236287,BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,019]",
+ZBED6,ENSG00000257315,BED ZF,"Inferred motif from similar protein – In vivo/Misc source [1,020]",VVRGCGAGCYYV
+ZBED9,ENSG00000232040,BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,021]",
+ZBTB1,ENSG00000126804,C2H2 ZF,"Known motif – from protein with 100% identical DBD – in vitro [1,022]",HMMCGCRH
+ZBTB10,ENSG00000205189,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,023]",
+ZBTB11,ENSG00000066422,C2H2 ZF,"Known motif – In vivo/Misc source [1,024]",GGGGKGCRCMCA
+ZBTB12,ENSG00000204366,C2H2 ZF,"Known motif – High-throughput in vitro [1,025]",CTAGAACMB
+ZBTB14,ENSG00000198081,C2H2 ZF,"Known motif – High-throughput in vitro [1,026]",VDCGTGCACGCGCRH
+ZBTB16,ENSG00000109906,C2H2 ZF,"Known motif – In vivo/Misc source [1,027]",BTVNWYBKVHKBTAAADYWKKRHYWRDKY
+ZBTB17,ENSG00000116809,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,028]",
+ZBTB18,ENSG00000179456,C2H2 ZF,"Known motif – High-throughput in vitro [1,029]",DKCCAGATGTK
+ZBTB2,ENSG00000181472,C2H2 ZF,"Known motif – High-throughput in vitro [1,030]",DKWACCGGRA
+ZBTB20,ENSG00000181722,C2H2 ZF,"Known motif – High-throughput in vitro [1,031]",VYATACRTYV
+ZBTB21,ENSG00000173276,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,032]",
+ZBTB22,ENSG00000236104,C2H2 ZF,"Known motif – High-throughput in vitro [1,033]",HKCACWAYNRTWGTGMD
+ZBTB24,ENSG00000112365,C2H2 ZF; AT hook,"Likely sequence specific TF according to literature or domain structure – No motif [1,034]",
+ZBTB25,ENSG00000089775,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,035]",
+ZBTB26,ENSG00000171448,C2H2 ZF,"Known motif – High-throughput in vitro [1,036]",DHTCYAGAAHR
+ZBTB3,ENSG00000185670,C2H2 ZF,"Known motif – from protein with 100% identical DBD – in vitro [1,037]",DSCAGYK
+ZBTB32,ENSG00000011590,C2H2 ZF,"Known motif – High-throughput in vitro [1,038]",HGTACAGTRWYACTGTACD
+ZBTB33,ENSG00000177485,C2H2 ZF,"Known motif – In vivo/Misc source [1,039]",SVNTCTCGCGAGANB
+ZBTB34,ENSG00000177125,C2H2 ZF,"Inferred motif from similar protein – High-throughput in vitro [1,040]",DTCGGCYAABDCGGCA
+ZBTB37,ENSG00000185278,C2H2 ZF,"Known motif – High-throughput in vitro [1,041]",DTCGGCYAABDCGGCA
+ZBTB38,ENSG00000177311,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,042]",
+ZBTB39,ENSG00000166860,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,043]",
+ZBTB4,ENSG00000174282,C2H2 ZF,"Known motif – In vivo/Misc source [1,044]",CVCHAHCRCYMTBG
+ZBTB40,ENSG00000184677,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,045]",
+ZBTB41,ENSG00000177888,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,046]",
+ZBTB42,ENSG00000179627,C2H2 ZF,"Known motif – High-throughput in vitro [1,047]",MRCAKCTGS
+ZBTB43,ENSG00000169155,C2H2 ZF,"Known motif – High-throughput in vitro [1,048]",GTGCTRNNNNNDDGGCAC
+ZBTB44,ENSG00000196323,C2H2 ZF,"Known motif – High-throughput in vitro [1,049]",RMTGCAKB
+ZBTB45,ENSG00000119574,C2H2 ZF,"Known motif – High-throughput in vitro [1,050]",BMTATAGGBR
+ZBTB46,ENSG00000130584,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,051]",
+ZBTB47,ENSG00000114853,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,052]",
+ZBTB48,ENSG00000204859,C2H2 ZF,"Known motif – In vivo/Misc source [1,053]",YHAGGGANHDD
+ZBTB49,ENSG00000168826,C2H2 ZF,"Known motif – High-throughput in vitro [1,054]",TGACVBGYCARGCRRAA
+ZBTB5,ENSG00000168795,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,055]",
+ZBTB6,ENSG00000186130,C2H2 ZF,"Known motif – In vivo/Misc source [1,056]",VGRTGMTRGAGCC
+ZBTB7A,ENSG00000178951,C2H2 ZF,"Known motif – High-throughput in vitro [1,057]",RCGACCACCNV
+ZBTB7B,ENSG00000160685,C2H2 ZF,"Known motif – High-throughput in vitro [1,058]",DCGACCMCCVA
+ZBTB7C,ENSG00000184828,C2H2 ZF,"Known motif – High-throughput in vitro [1,059]",DCRACCACCVH
+ZBTB8A,ENSG00000160062,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,060]",
+ZBTB8B,ENSG00000273274,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,061]",
+ZBTB9,ENSG00000213588,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,062]",
+ZC3H8,ENSG00000144161,CCCH ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,063]",
+ZEB1,ENSG00000148516,C2H2 ZF; Homeodomain,"Known motif – In vivo/Misc source [1,064]",CAGGTGNR
+ZEB2,ENSG00000169554,C2H2 ZF; Homeodomain,"Inferred motif from similar protein – In vivo/Misc source [1,065]",CAGGTGNR
+ZFAT,ENSG00000066827,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,066]",
+ZFHX2,ENSG00000136367,Homeodomain,"Known motif – High-throughput in vitro [1,067]",TRATYA
+ZFHX3,ENSG00000140836,C2H2 ZF; Homeodomain,"Known motif – High-throughput in vitro [1,068]",RMTND
+ZFHX4,ENSG00000091656,C2H2 ZF; Homeodomain,"Inferred motif from similar protein – In vivo/Misc source [1,069]",WAATWAWTAAY
+ZFP1,ENSG00000184517,C2H2 ZF,"Known motif – High-throughput in vitro [1,070]",TDYBATACCCANHH
+ZFP14,ENSG00000142065,C2H2 ZF,"Known motif – High-throughput in vitro [1,071]",GGAGSHHHHDGARHK
+ZFP2,ENSG00000198939,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,072]",RGRAAVYGAAACT
+ZFP28,ENSG00000196867,C2H2 ZF,"Known motif – High-throughput in vitro [1,073]",AYMNHWRARGAAAHDGARMKVHHDNDNNDNNH
+ZFP3,ENSG00000180787,C2H2 ZF,"Known motif – High-throughput in vitro [1,074]",GGNTGNRTAGGAGYTYDB
+ZFP30,ENSG00000120784,C2H2 ZF,"Inferred motif from similar protein – High-throughput in vitro [1,075]",RAHRNRGYTRNRDRNRG
+ZFP37,ENSG00000136866,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,076]",
+ZFP41,ENSG00000181638,C2H2 ZF,"Known motif – High-throughput in vitro [1,077]",RYGGAGAGTTAGC
+ZFP42,ENSG00000179059,C2H2 ZF,"Known motif – High-throughput in vitro [1,078]",CAAKATGGCBGHC
+ZFP57,ENSG00000204644,C2H2 ZF,"Known motif – In vivo/Misc source [1,079]",SNNVNNVBTGCCGCV
+ZFP62,ENSG00000196670,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,080]",
+ZFP64,ENSG00000020256,C2H2 ZF,"Known motif – In vivo/Misc source [1,081]",VGGRSCCCGGGVVNS
+ZFP69,ENSG00000187815,C2H2 ZF,"Known motif – High-throughput in vitro [1,082]",GWGRCTRGAWAC
+ZFP69B,ENSG00000187801,C2H2 ZF,"Known motif – High-throughput in vitro [1,083]",GTGGCTGGARVV
+ZFP82,ENSG00000181007,C2H2 ZF,"Known motif – High-throughput in vitro [1,084]",AGAATTAGTRAAYTGGAARAY
+ZFP90,ENSG00000184939,C2H2 ZF,"Known motif – High-throughput in vitro [1,085]",RYACTGCTTTWG
+ZFP91,ENSG00000186660,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,086]",
+ZFP92,ENSG00000189420,C2H2 ZF,"Known motif – In vivo/Misc source [1,087]",MGATAAAAKGM
+ZFPM1,ENSG00000179588,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,088]",
+ZFPM2,ENSG00000169946,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,089]",
+ZFX,ENSG00000005889,C2H2 ZF,"Known motif – In vivo/Misc source [1,090]",VVSVSBNBBAGGCCBVGSH
+ZFY,ENSG00000067646,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,091]",BAGGCCBVGSYBVV
+ZGLP1,ENSG00000220201,GATA,"Likely sequence specific TF according to literature or domain structure – No motif [1,092]",
+ZGPAT,ENSG00000197114,CCCH ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,093]",
+ZHX1,ENSG00000165156,Homeodomain,"Known motif – High-throughput in vitro [1,094]",DYB
+ZHX2,ENSG00000178764,Homeodomain,"Likely sequence specific TF according to literature or domain structure – No motif [1,095]",
+ZHX3,ENSG00000174306,Homeodomain,"Likely sequence specific TF according to literature or domain structure – No motif [1,096]",
+ZIC1,ENSG00000152977,C2H2 ZF,"Known motif – High-throughput in vitro [1,097]",DCRCAGCRGGGGGBV
+ZIC2,ENSG00000043355,C2H2 ZF,"Known motif – from protein with 100% identical DBD – in vitro [1,098]",YNRBRKG
+ZIC3,ENSG00000156925,C2H2 ZF,"Known motif – High-throughput in vitro [1,099]",KCACAGCRGGGGGTCB
+ZIC4,ENSG00000174963,C2H2 ZF,"Known motif – High-throughput in vitro [1,100]",DCNCHRCRGGGGGYM
+ZIC5,ENSG00000139800,C2H2 ZF,"Known motif – High-throughput in vitro [1,101]",DCDCAGCGGGGGGTM
+ZIK1,ENSG00000171649,C2H2 ZF,"Known motif – High-throughput in vitro [1,102]",RDRRCAAWRGCAMNRVRWNNB
+ZIM2,ENSG00000269699,C2H2 ZF,"Known motif – In vivo/Misc source [1,103]",YCNBSYBSCYTYYYCHBCCVGCCYGKGGYY
+ZIM3,ENSG00000141946,C2H2 ZF,"Known motif – High-throughput in vitro [1,104]",RNHAACAGAAANCYM
+ZKSCAN1,ENSG00000106261,C2H2 ZF,"Known motif – High-throughput in vitro [1,105]",CCTACTAHGH
+ZKSCAN2,ENSG00000155592,C2H2 ZF,"Known motif – High-throughput in vitro [1,106]",RRRRRMMAC
+ZKSCAN3,ENSG00000189298,C2H2 ZF,"Known motif – High-throughput in vitro [1,107]",TCGAGGYTAGMCCA
+ZKSCAN4,ENSG00000187626,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,108]",
+ZKSCAN5,ENSG00000196652,C2H2 ZF,"Known motif – High-throughput in vitro [1,109]",DGGAGGTGA
+ZKSCAN7,ENSG00000196345,C2H2 ZF,"Known motif – High-throughput in vitro [1,110]",VYAHACTKTNRAGYGV
+ZKSCAN8,ENSG00000198315,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,111]",
+ZMAT1,ENSG00000166432,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,112]",
+ZMAT4,ENSG00000165061,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,113]",
+ZNF10,ENSG00000256223,C2H2 ZF,"Known motif – High-throughput in vitro [1,114]",TGAGGT
+ZNF100,ENSG00000197020,C2H2 ZF,"Known motif – High-throughput in vitro [1,115]",VBRNGGCGGCGGCNB
+ZNF101,ENSG00000181896,C2H2 ZF,"Known motif – High-throughput in vitro [1,116]",VDGYKGCCCCHGTRTCH
+ZNF107,ENSG00000196247,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,117]",
+ZNF112,ENSG00000062370,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,118]",
+ZNF114,ENSG00000178150,C2H2 ZF,"Known motif – In vivo/Misc source [1,119]",VSSSBSBVVSSBSSSSYHTWTATABVSB
+ZNF117,ENSG00000152926,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,120]",GKGCWGCAGM
+ZNF12,ENSG00000164631,C2H2 ZF,"Known motif – High-throughput in vitro [1,121]",VYGCKRTAACAARYAKSMCC
+ZNF121,ENSG00000197961,C2H2 ZF,"Known motif – High-throughput in vitro [1,122]",VCDGGVCMRVDBWGYVNGRYCCH
+ZNF124,ENSG00000196418,C2H2 ZF,"Known motif – High-throughput in vitro [1,123]",AAGAAGGCTTTAATYRGG
+ZNF131,ENSG00000172262,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,124]",
+ZNF132,ENSG00000131849,C2H2 ZF,"Known motif – High-throughput in vitro [1,125]",VRGGARRGNRGGARG
+ZNF133,ENSG00000125846,C2H2 ZF,"Known motif – High-throughput in vitro [1,126]",DGRNMCAAMWNANGTAHAAKTGGHDNH
+ZNF134,ENSG00000213762,C2H2 ZF,"Known motif – High-throughput in vitro [1,127]",VYTMAKCAGKKGMNG
+ZNF135,ENSG00000176293,C2H2 ZF,"Known motif – High-throughput in vitro [1,128]",HHYTGAGGTYGAGCY
+ZNF136,ENSG00000196646,C2H2 ZF,"Known motif – High-throughput in vitro [1,129]",TTCTTGGTTGRCAGKTTT
+ZNF138,ENSG00000197008,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,130]",
+ZNF14,ENSG00000105708,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,131]",
+ZNF140,ENSG00000196387,C2H2 ZF,"Known motif – High-throughput in vitro [1,132]",GAGCGGAATTGYH
+ZNF141,ENSG00000131127,C2H2 ZF,"Known motif – High-throughput in vitro [1,133]",RVKGRGRGYGKCCCCC
+ZNF142,ENSG00000115568,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,134]",
+ZNF143,ENSG00000166478,C2H2 ZF,"Known motif – High-throughput in vitro [1,135]",YWCCCAYAATGCAYYG
+ZNF146,ENSG00000167635,C2H2 ZF,"Known motif – High-throughput in vitro [1,136]",GGARTAYTABDCAGC
+ZNF148,ENSG00000163848,C2H2 ZF,"Known motif – In vivo/Misc source [1,137]",DGKGGGRGGD
+ZNF154,ENSG00000179909,C2H2 ZF,"Known motif – High-throughput in vitro [1,138]",TGTCTAGTARRTCYD
+ZNF155,ENSG00000204920,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,139]",
+ZNF157,ENSG00000147117,C2H2 ZF,"Known motif – High-throughput in vitro [1,140]",KNNDNGYRYAYTGHWDNCCYYVCCADGHCH
+ZNF16,ENSG00000170631,C2H2 ZF,"Known motif – High-throughput in vitro [1,141]",GAGCCAYDGMRGGYKBTD
+ZNF160,ENSG00000170949,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,142]",
+ZNF165,ENSG00000197279,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,143]",
+ZNF169,ENSG00000175787,C2H2 ZF,"Known motif – High-throughput in vitro [1,144]",CTCCCT
+ZNF17,ENSG00000186272,C2H2 ZF,"Known motif – High-throughput in vitro [1,145]",VNBNNNNNSTKYMTGYTCHKGNNNV
+ZNF174,ENSG00000103343,C2H2 ZF,"Known motif – High-throughput in vitro [1,146]",GSCRAGTGAYYGNC
+ZNF175,ENSG00000105497,C2H2 ZF,"Known motif – In vivo/Misc source [1,147]",CYAYACAHRAYAADGAATACA
+ZNF177,ENSG00000188629,C2H2 ZF,"Known motif – High-throughput in vitro [1,148]",BTYGRTCKMRNKKNNVAGTCATD
+ZNF18,ENSG00000154957,C2H2 ZF,"Known motif – High-throughput in vitro [1,149]",SNRTTCACACY
+ZNF180,ENSG00000167384,C2H2 ZF,"Known motif – High-throughput in vitro [1,150]",VGGGVSNGGNGGSGRSBGSGGCVV
+ZNF181,ENSG00000197841,C2H2 ZF,"Known motif – High-throughput in vitro [1,151]",VYYYSWGSTWSTNGGRMKGMKGHB
+ZNF182,ENSG00000147118,C2H2 ZF,"Known motif – High-throughput in vitro [1,152]",AAAAMMAAAARMAAA
+ZNF184,ENSG00000096654,C2H2 ZF,"Known motif – High-throughput in vitro [1,153]",TGGWGARGA
+ZNF189,ENSG00000136870,C2H2 ZF,"Known motif – High-throughput in vitro [1,154]",VDGGAASRGMVDNDS
+ZNF19,ENSG00000157429,C2H2 ZF,"Known motif – High-throughput in vitro [1,155]",DRGGVBHHDGACRNNDV
+ZNF195,ENSG00000005801,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,156]",
+ZNF197,ENSG00000186448,C2H2 ZF,"Known motif – High-throughput in vitro [1,157]",RRRGWCARRRRVVVR
+ZNF2,ENSG00000275111,C2H2 ZF,"Known motif – High-throughput in vitro [1,158]",SCVCVGVGCYGCGC
+ZNF20,ENSG00000132010,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,159]",
+ZNF200,ENSG00000010539,C2H2 ZF,"Known motif – High-throughput in vitro [1,160]",BVNVSCGGAAGY
+ZNF202,ENSG00000166261,C2H2 ZF,"Known motif – In vivo/Misc source [1,161]",CSCNBCYYCCDCYBCYBSBBCSBSBSCYB
+ZNF205,ENSG00000122386,C2H2 ZF,"Known motif – In vivo/Misc source [1,162]",TGGAAT
+ZNF207,ENSG00000010244,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,163]",
+ZNF208,ENSG00000160321,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,164]",
+ZNF211,ENSG00000121417,C2H2 ZF,"Known motif – High-throughput in vitro [1,165]",HNYATATACCAB
+ZNF212,ENSG00000170260,C2H2 ZF,"Known motif – In vivo/Misc source [1,166]",CACACAHVHMCACRC
+ZNF213,ENSG00000085644,C2H2 ZF,"Known motif – High-throughput in vitro [1,167]",MGAMMBCRGGCGGMG
+ZNF214,ENSG00000149050,C2H2 ZF,"Known motif – High-throughput in vitro [1,168]",VWTMATYAANRTCCTCAAVAABD
+ZNF215,ENSG00000149054,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,169]",
+ZNF217,ENSG00000171940,C2H2 ZF,"Known motif – In vivo/Misc source [1,170]",GKNRGAAT
+ZNF219,ENSG00000165804,C2H2 ZF,"Known motif – In vivo/Misc source [1,171]",DGGGGGGYGGW
+ZNF22,ENSG00000165512,C2H2 ZF,"Known motif – High-throughput in vitro [1,172]",AAAAAAAAA
+ZNF221,ENSG00000159905,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,173]",
+ZNF222,ENSG00000159885,C2H2 ZF,"Known motif – High-throughput in vitro [1,174]",GCTGMSAYB
+ZNF223,ENSG00000178386,C2H2 ZF,"Known motif – In vivo/Misc source [1,175]",MCACACASASM
+ZNF224,ENSG00000267680,C2H2 ZF,"Known motif – High-throughput in vitro [1,176]",WMCYYNKGDGYHMHRKGRMTY
+ZNF225,ENSG00000256294,C2H2 ZF,"Known motif – In vivo/Misc source [1,177]",TTAYCWKYDKNRYTTYTTTYTTTTTYYH
+ZNF226,ENSG00000167380,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,178]",
+ZNF227,ENSG00000131115,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,179]",
+ZNF229,ENSG00000278318,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,180]",
+ZNF23,ENSG00000167377,C2H2 ZF,"Known motif – High-throughput in vitro [1,181]",DCRMCCATGGCCGCGHCM
+ZNF230,ENSG00000159882,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,182]",
+ZNF232,ENSG00000167840,C2H2 ZF,"Known motif – High-throughput in vitro [1,183]",RTGTTAAAYGTRGATTAAS
+ZNF233,ENSG00000159915,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,184]",
+ZNF234,ENSG00000263002,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,185]",
+ZNF235,ENSG00000159917,C2H2 ZF,"Known motif – High-throughput in vitro [1,186]",AARARADRAARRAAAWNRDDWDVDNNAWDR
+ZNF236,ENSG00000130856,C2H2 ZF,"Known motif – In vivo/Misc source [1,187]",MGTAATATTVM
+ZNF239,ENSG00000196793,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,188]",
+ZNF24,ENSG00000172466,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,189]",
+ZNF248,ENSG00000198105,C2H2 ZF,"Known motif – High-throughput in vitro [1,190]",RHDDACHATRTYCAKBRA
+ZNF25,ENSG00000175395,C2H2 ZF,"Known motif – In vivo/Misc source [1,191]",WGAADWANAVARGTYGCWGCATTTAGAAA
+ZNF250,ENSG00000196150,C2H2 ZF,"Known motif – High-throughput in vitro [1,192]",YASGCCYAY
+ZNF251,ENSG00000198169,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,193]",
+ZNF253,ENSG00000256771,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,194]",
+ZNF254,ENSG00000213096,C2H2 ZF,"Known motif – High-throughput in vitro [1,195]",ACTGGCYTAGCCTCCCAGCCTACATCTTTCTCC
+ZNF256,ENSG00000152454,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,196]",
+ZNF257,ENSG00000197134,C2H2 ZF,"Known motif – High-throughput in vitro [1,197]",GAGGMRA
+ZNF26,ENSG00000198393,C2H2 ZF,"Known motif – In vivo/Misc source [1,198]",ATTTTT
+ZNF260,ENSG00000254004,C2H2 ZF,"Known motif – High-throughput in vitro [1,199]",GGARDRVDANRVDRV
+ZNF263,ENSG00000006194,C2H2 ZF,"Known motif – High-throughput in vitro [1,200]",GGGAGSACB
+ZNF264,ENSG00000083844,C2H2 ZF,"Known motif – High-throughput in vitro [1,201]",KKGRGSCCYYHNBRATGGGATTAGTGCCCT
+ZNF266,ENSG00000174652,C2H2 ZF,"Known motif – High-throughput in vitro [1,202]",VNHRCTCACAGSYCC
+ZNF267,ENSG00000185947,C2H2 ZF,"Known motif – High-throughput in vitro [1,203]",VSYNVVGGCNKGBGVRGVDG
+ZNF268,ENSG00000090612,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,204]",
+ZNF273,ENSG00000198039,C2H2 ZF,"Known motif – High-throughput in vitro [1,205]",GARAGGAGCTAC
+ZNF274,ENSG00000171606,C2H2 ZF,"Known motif – High-throughput in vitro [1,206]",VYGAGRACTCAYRY
+ZNF275,ENSG00000063587,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,207]",
+ZNF276,ENSG00000158805,C2H2 ZF,"Known motif – High-throughput in vitro [1,208]",WAAGGWSGWVDMKACNHCCTTWA
+ZNF277,ENSG00000198839,C2H2 ZF; BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,209]",
+ZNF28,ENSG00000198538,C2H2 ZF,"Known motif – High-throughput in vitro [1,210]",GBNKSHGGGGTGCCM
+ZNF280A,ENSG00000169548,C2H2 ZF,"Known motif – In vivo/Misc source [1,211]",TCTCWCCWGTRTGRRTTCTYTSAT
+ZNF280B,ENSG00000275004,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,212]",
+ZNF280C,ENSG00000056277,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,213]",
+ZNF280D,ENSG00000137871,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,214]",
+ZNF281,ENSG00000162702,C2H2 ZF,"Known motif – High-throughput in vitro [1,215]",KGGGGGAGGGGS
+ZNF282,ENSG00000170265,C2H2 ZF,"Known motif – High-throughput in vitro [1,216]",HTCCCMYNACMCK
+ZNF283,ENSG00000167637,C2H2 ZF,"Known motif – High-throughput in vitro [1,217]",BNGGCTGRTSBKGSYBGGSYB
+ZNF284,ENSG00000186026,C2H2 ZF,"Known motif – High-throughput in vitro [1,218]",GCTGGAGTGCAG
+ZNF285,ENSG00000267508,C2H2 ZF,"Known motif – In vivo/Misc source [1,219]",TNTTYTYBYTYDYTYTNHTTT
+ZNF286A,ENSG00000187607,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,220]",
+ZNF286B,ENSG00000249459,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,221]",
+ZNF287,ENSG00000141040,C2H2 ZF,"Known motif – High-throughput in vitro [1,222]",AAAARAAAARRWARMARAVMWRRARRAVADR
+ZNF292,ENSG00000188994,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,223]",
+ZNF296,ENSG00000170684,C2H2 ZF,"Known motif – High-throughput in vitro [1,224]",VVTGWCCASYV
+ZNF3,ENSG00000166526,C2H2 ZF,"Known motif – High-throughput in vitro [1,225]",TGAHTGAMTRANWGA
+ZNF30,ENSG00000168661,C2H2 ZF,"Known motif – High-throughput in vitro [1,226]",CGGACGGGGCGGCTG
+ZNF300,ENSG00000145908,C2H2 ZF,"Known motif – In vivo/Misc source [1,227]",KKDGWRDDDGNRKBNDDGDDKKNRNBKRKR
+ZNF302,ENSG00000089335,C2H2 ZF,"Known motif – High-throughput in vitro [1,228]",AGTTGAGTGACTGYDSTT
+ZNF304,ENSG00000131845,C2H2 ZF,"Known motif – High-throughput in vitro [1,229]",VVGRSYVGRBYGGGGMVGGNV
+ZNF311,ENSG00000197935,C2H2 ZF,"Known motif – In vivo/Misc source [1,230]",YYSCDGCBSBNBCYS
+ZNF316,ENSG00000205903,C2H2 ZF,"Known motif – In vivo/Misc source [1,231]",KCCSCCGGACCH
+ZNF317,ENSG00000130803,C2H2 ZF,"Known motif – High-throughput in vitro [1,232]",RACAGMWGACWD
+ZNF318,ENSG00000171467,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,233]",
+ZNF319,ENSG00000166188,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,234]",
+ZNF32,ENSG00000169740,C2H2 ZF,"Known motif – High-throughput in vitro [1,235]",BGTAAYNYGAYACB
+ZNF320,ENSG00000182986,C2H2 ZF,"Known motif – High-throughput in vitro [1,236]",CMYHKKCCCCYKGVHCCCMC
+ZNF322,ENSG00000181315,C2H2 ZF,"Known motif – High-throughput in vitro [1,237]",VVGGCHSHGKASCAGDCHS
+ZNF324,ENSG00000083812,C2H2 ZF,"Known motif – High-throughput in vitro [1,238]",GRTYRAACCATCCY
+ZNF324B,ENSG00000249471,C2H2 ZF,"Known motif – In vivo/Misc source [1,239]",HHHDGSMRGSHRAGG
+ZNF326,ENSG00000162664,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,240]",
+ZNF329,ENSG00000181894,C2H2 ZF,"Known motif – High-throughput in vitro [1,241]",CYKGAKCMVVCYNNDCCTGMA
+ZNF331,ENSG00000130844,C2H2 ZF,"Known motif – High-throughput in vitro [1,242]",VVAVSSNNMYWGCWGAGCMCWKYCH
+ZNF333,ENSG00000160961,C2H2 ZF,"Known motif – High-throughput in vitro [1,243]",STGGAKSM
+ZNF334,ENSG00000198185,C2H2 ZF,"Known motif – In vivo/Misc source [1,244]",YCCGKSMGGGAGGTGRGG
+ZNF335,ENSG00000198026,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,245]",
+ZNF337,ENSG00000130684,C2H2 ZF,"Known motif – High-throughput in vitro [1,246]",AGTRGTGAYRAATTC
+ZNF33A,ENSG00000189180,C2H2 ZF,"Known motif – High-throughput in vitro [1,247]",TCAGTGCAC
+ZNF33B,ENSG00000196693,C2H2 ZF,"Known motif – High-throughput in vitro [1,248]",ATTMAATHCCHTYYNHTDVMW
+ZNF34,ENSG00000196378,C2H2 ZF,"Known motif – In vivo/Misc source [1,249]",DRARGAVAAGYCTGD
+ZNF341,ENSG00000131061,C2H2 ZF,"Known motif – In vivo/Misc source [1,250]",VVVRRVRRNDVVNGGARSAGC
+ZNF343,ENSG00000088876,C2H2 ZF,"Known motif – High-throughput in vitro [1,251]",KRCCGHGGKGAAGCGB
+ZNF345,ENSG00000251247,C2H2 ZF,"Known motif – High-throughput in vitro [1,252]",TTGCAACVYVNRCAACYGKAC
+ZNF346,ENSG00000113761,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,253]",
+ZNF347,ENSG00000197937,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,254]",
+ZNF35,ENSG00000169981,C2H2 ZF,"Known motif – High-throughput in vitro [1,255]",ATATRTAAAGAGYTYYTABAA
+ZNF350,ENSG00000256683,C2H2 ZF,"Known motif – High-throughput in vitro [1,256]",DNBDVRKHAWAAAARRRCH
+ZNF354A,ENSG00000169131,C2H2 ZF,"Known motif – High-throughput in vitro [1,257]",RTAAATGGHYTAAAY
+ZNF354B,ENSG00000178338,C2H2 ZF,"Known motif – High-throughput in vitro [1,258]",AAKGRRMTAWHY
+ZNF354C,ENSG00000177932,C2H2 ZF,"Known motif – In vivo/Misc source [1,259]",VTCCAC
+ZNF358,ENSG00000198816,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,260]",
+ZNF362,ENSG00000160094,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,261]",
+ZNF365,ENSG00000138311,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,262]",
+ZNF366,ENSG00000178175,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,263]",
+ZNF367,ENSG00000165244,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,264]",
+ZNF37A,ENSG00000075407,C2H2 ZF,"Known motif – High-throughput in vitro [1,265]",GGARRRRRV
+ZNF382,ENSG00000161298,C2H2 ZF,"Known motif – High-throughput in vitro [1,266]",GWGVMANYASTACAGRYMHHRBDS
+ZNF383,ENSG00000188283,C2H2 ZF,"Known motif – High-throughput in vitro [1,267]",GAGSVRVRASRKGGMAGGRRBCNGGGY
+ZNF384,ENSG00000126746,C2H2 ZF,"Known motif – High-throughput in vitro [1,268]",TTTTBNNNNNNNNNNNNVAAAA
+ZNF385A,ENSG00000161642,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,269]",
+ZNF385B,ENSG00000144331,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,270]",
+ZNF385C,ENSG00000187595,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,271]",
+ZNF385D,ENSG00000151789,C2H2 ZF,"Known motif – High-throughput in vitro [1,272]",HHGTCGCGACRD
+ZNF391,ENSG00000124613,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,273]",
+ZNF394,ENSG00000160908,C2H2 ZF,"Known motif – In vivo/Misc source [1,274]",VVRGGAGNAGCWGNRVVDNV
+ZNF395,ENSG00000186918,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,275]",
+ZNF396,ENSG00000186496,C2H2 ZF,"Known motif – High-throughput in vitro [1,276]",VTTTCGKACAB
+ZNF397,ENSG00000186812,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,277]",
+ZNF398,ENSG00000197024,C2H2 ZF,"Known motif – In vivo/Misc source [1,278]",DGGGARRGARRSAG
+ZNF404,ENSG00000176222,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,279]",
+ZNF407,ENSG00000215421,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,280]",
+ZNF408,ENSG00000175213,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,281]",
+ZNF41,ENSG00000147124,C2H2 ZF,"Known motif – High-throughput in vitro [1,282]",RMARGGRARNNNRRSACMATGAGNVAV
+ZNF410,ENSG00000119725,C2H2 ZF,"Known motif – High-throughput in vitro [1,283]",MCATCCCATAATANBM
+ZNF414,ENSG00000133250,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,284]",
+ZNF415,ENSG00000170954,C2H2 ZF,"Known motif – In vivo/Misc source [1,285]",VTRCVCVMTKARBATC
+ZNF416,ENSG00000083817,C2H2 ZF,"Known motif – In vivo/Misc source [1,286]",TRGCCCAGTCAAGTTGAC
+ZNF417,ENSG00000173480,C2H2 ZF,"Known motif – High-throughput in vitro [1,287]",HNGGCGCCAVNTG
+ZNF418,ENSG00000196724,C2H2 ZF,"Known motif – High-throughput in vitro [1,288]",VDGWRGCYAAAAGCA
+ZNF419,ENSG00000105136,C2H2 ZF,"Known motif – High-throughput in vitro [1,289]",DGGARAGKMHAGGRCTGBADW
+ZNF420,ENSG00000197050,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,290]",
+ZNF423,ENSG00000102935,C2H2 ZF,"Known motif – In vivo/Misc source [1,291]",GRCACCCWAGGGTGC
+ZNF425,ENSG00000204947,C2H2 ZF,"Known motif – In vivo/Misc source [1,292]",GGBACA
+ZNF426,ENSG00000130818,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,293]",
+ZNF428,ENSG00000131116,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,294]",
+ZNF429,ENSG00000197013,C2H2 ZF,"Known motif – High-throughput in vitro [1,295]",DGGMRKAGSHVNMAATGGGYH
+ZNF43,ENSG00000198521,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,296]",
+ZNF430,ENSG00000118620,C2H2 ZF,"Known motif – High-throughput in vitro [1,297]",MCADGGHRGMNDGCHR
+ZNF431,ENSG00000196705,C2H2 ZF,"Known motif – In vivo/Misc source [1,298]",VRGGCTRGMWGNYNV
+ZNF432,ENSG00000256087,C2H2 ZF,"Known motif – In vivo/Misc source [1,299]",GTYRAAAACAAT
+ZNF433,ENSG00000197647,C2H2 ZF,"Known motif – High-throughput in vitro [1,300]",RDGACYRHWGTRRTAAYY
+ZNF436,ENSG00000125945,C2H2 ZF,"Known motif – High-throughput in vitro [1,301]",TCCTCCAGGAAGCCY
+ZNF438,ENSG00000183621,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,302]",
+ZNF439,ENSG00000171291,C2H2 ZF,"Known motif – In vivo/Misc source [1,303]",CARTCACCYYCHGGV
+ZNF44,ENSG00000197857,C2H2 ZF,"Known motif – High-throughput in vitro [1,304]",VBGNTVYKGCHGYDVNG
+ZNF440,ENSG00000171295,C2H2 ZF,"Known motif – High-throughput in vitro [1,305]",RRTKGTTCTGCW
+ZNF441,ENSG00000197044,C2H2 ZF,"Known motif – High-throughput in vitro [1,306]",SRGRCGGAGYB
+ZNF442,ENSG00000198342,C2H2 ZF,"Known motif – In vivo/Misc source [1,307]",SHWDWTWTTTNHHTTTTT
+ZNF443,ENSG00000180855,C2H2 ZF,"Known motif – High-throughput in vitro [1,308]",GYCTBCYMAGWHGCKGGBRTT
+ZNF444,ENSG00000167685,C2H2 ZF,"Known motif – High-throughput in vitro [1,309]",DGGGGGAGGGGGAYG
+ZNF445,ENSG00000185219,C2H2 ZF,"Known motif – In vivo/Misc source [1,310]",AAMTYCYYGASNRNMMAGGRKTMYYYCHC
+ZNF446,ENSG00000083838,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,311]",
+ZNF449,ENSG00000173275,C2H2 ZF,"Known motif – High-throughput in vitro [1,312]",RCGCCCAACC
+ZNF45,ENSG00000124459,C2H2 ZF,"Known motif – High-throughput in vitro [1,313]",AGGAANAYA
+ZNF451,ENSG00000112200,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,314]",
+ZNF454,ENSG00000178187,C2H2 ZF,"Known motif – High-throughput in vitro [1,315]",WRGCGCCWGGCGCYW
+ZNF460,ENSG00000197714,C2H2 ZF,"Known motif – High-throughput in vitro [1,316]",CAACGCCCCCCG
+ZNF461,ENSG00000197808,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,317]",
+ZNF462,ENSG00000148143,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,318]",
+ZNF467,ENSG00000181444,C2H2 ZF,"Known motif – High-throughput in vitro [1,319]",GGDGGGGGAGGG
+ZNF468,ENSG00000204604,C2H2 ZF,"Known motif – High-throughput in vitro [1,320]",DGGGAGGGGGYGSNS
+ZNF469,ENSG00000225614,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,321]",
+ZNF470,ENSG00000197016,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,322]",
+ZNF471,ENSG00000196263,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,323]",
+ZNF473,ENSG00000142528,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,324]",
+ZNF474,ENSG00000164185,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,325]",
+ZNF479,ENSG00000185177,C2H2 ZF,"Known motif – High-throughput in vitro [1,326]",GADGACYYKGRGGRY
+ZNF48,ENSG00000180035,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,327]",
+ZNF480,ENSG00000198464,C2H2 ZF,"Known motif – High-throughput in vitro [1,328]",DRDGAAKGDGDD
+ZNF483,ENSG00000173258,C2H2 ZF,"Known motif – High-throughput in vitro [1,329]",DSAGRGAGCTGCA
+ZNF484,ENSG00000127081,C2H2 ZF,"Known motif – High-throughput in vitro [1,330]",VRDGGAVWGVRGMASWDGVNV
+ZNF485,ENSG00000198298,C2H2 ZF,"Known motif – High-throughput in vitro [1,331]",AYTTSSWWTKKSRMYRTRKGS
+ZNF486,ENSG00000256229,C2H2 ZF,"Known motif – In vivo/Misc source [1,332]",VVBBBNSNGCSGAMDCCCGGV
+ZNF487,ENSG00000243660,C2H2 ZF,"Known motif – In vivo/Misc source [1,333]",VVBBBNSNGCSGAMDCCCGGV
+ZNF488,ENSG00000265763,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,334]",
+ZNF490,ENSG00000188033,C2H2 ZF,"Known motif – In vivo/Misc source [1,335]",HDGNMRGCAGCANAY
+ZNF491,ENSG00000177599,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,336]",
+ZNF492,ENSG00000229676,C2H2 ZF,"Known motif – High-throughput in vitro [1,337]",MNAARARMAMBAAAARGG
+ZNF493,ENSG00000196268,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,338]",
+ZNF496,ENSG00000162714,C2H2 ZF,"Known motif – In vivo/Misc source [1,339]",BCNSBCYCYBHMYYHSHBYCY
+ZNF497,ENSG00000174586,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,340]",
+ZNF500,ENSG00000103199,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,341]",
+ZNF501,ENSG00000186446,C2H2 ZF,"Known motif – High-throughput in vitro [1,342]",GCGACGCGAMCV
+ZNF502,ENSG00000196653,C2H2 ZF,"Known motif – High-throughput in vitro [1,343]",GGACYDBTGCAGTAGYHH
+ZNF503,ENSG00000165655,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,344]",
+ZNF506,ENSG00000081665,C2H2 ZF,"Known motif – High-throughput in vitro [1,345]",YTGGGGGCTCVBMC
+ZNF507,ENSG00000168813,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,346]",
+ZNF510,ENSG00000081386,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,347]",
+ZNF511,ENSG00000198546,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,348]",
+ZNF512,ENSG00000243943,C2H2 ZF; BED ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,349]",
+ZNF512B,ENSG00000196700,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,350]",
+ZNF513,ENSG00000163795,C2H2 ZF,"Known motif – High-throughput in vitro [1,351]",GATGRTGATGATGRT
+ZNF514,ENSG00000144026,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,352]",
+ZNF516,ENSG00000101493,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,353]",
+ZNF517,ENSG00000197363,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,354]",
+ZNF518A,ENSG00000177853,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,355]",
+ZNF518B,ENSG00000178163,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,356]",
+ZNF519,ENSG00000175322,C2H2 ZF,"Known motif – High-throughput in vitro [1,357]",GGGCGGCKGCRGCBGCGS
+ZNF521,ENSG00000198795,C2H2 ZF,"Known motif – In vivo/Misc source [1,358]",TGGGGGMCCCCW
+ZNF524,ENSG00000171443,C2H2 ZF; AT hook,"Known motif – High-throughput in vitro [1,359]",YTCGVACCC
+ZNF525,ENSG00000203326,C2H2 ZF,"Known motif – High-throughput in vitro [1,360]",RTTMCTWATDMAGNT
+ZNF526,ENSG00000167625,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,361]",
+ZNF527,ENSG00000189164,C2H2 ZF,"Known motif – In vivo/Misc source [1,362]",DGRKNGBMDGHRACAGMRR
+ZNF528,ENSG00000167555,C2H2 ZF,"Known motif – High-throughput in vitro [1,363]",GGAAGYCATTTC
+ZNF529,ENSG00000186020,C2H2 ZF,"Known motif – In vivo/Misc source [1,364]",CYCYBYCTBCYHDSM
+ZNF530,ENSG00000183647,C2H2 ZF,"Known motif – High-throughput in vitro [1,365]",GMADGGMNAGGGSCNGVV
+ZNF532,ENSG00000074657,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,366]",
+ZNF534,ENSG00000198633,C2H2 ZF,"Known motif – High-throughput in vitro [1,367]",GVGGGGMRAGARBNBVV
+ZNF536,ENSG00000198597,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,368]",
+ZNF540,ENSG00000171817,C2H2 ZF,"Known motif – In vivo/Misc source [1,369]",RGRGGVAGGVA
+ZNF541,ENSG00000118156,C2H2 ZF; Myb/SANT,"Known motif – In vivo/Misc source [1,370]",CCCATGCGCGGG
+ZNF543,ENSG00000178229,C2H2 ZF,"Known motif – High-throughput in vitro [1,371]",SSVCWGGVCMGS
+ZNF544,ENSG00000198131,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,372]",
+ZNF546,ENSG00000187187,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,373]",
+ZNF547,ENSG00000152433,C2H2 ZF,"Known motif – High-throughput in vitro [1,374]",GCWAAYKCWGCARGC
+ZNF548,ENSG00000188785,C2H2 ZF,"Known motif – High-throughput in vitro [1,375]",GBBGCKGCDGSVSSVSVG
+ZNF549,ENSG00000121406,C2H2 ZF,"Known motif – High-throughput in vitro [1,376]",ATGAAYYGGGCAGCM
+ZNF550,ENSG00000251369,C2H2 ZF,"Known motif – High-throughput in vitro [1,377]",DNVRRDGCWRRGGYAGRG
+ZNF551,ENSG00000204519,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,378]",
+ZNF552,ENSG00000178935,C2H2 ZF,"Known motif – High-throughput in vitro [1,379]",CCACGAGGGGH
+ZNF554,ENSG00000172006,C2H2 ZF,"Known motif – High-throughput in vitro [1,380]",CHGRGYCANNYRGDKDRCH
+ZNF555,ENSG00000186300,C2H2 ZF,"Known motif – In vivo/Misc source [1,381]",AAAAAGCCGCGGCGG
+ZNF556,ENSG00000172000,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,382]",
+ZNF557,ENSG00000130544,C2H2 ZF,"Known motif – In vivo/Misc source [1,383]",MAGARTGYT
+ZNF558,ENSG00000167785,C2H2 ZF,"Known motif – High-throughput in vitro [1,384]",HKGRAYHTGTRGRTKBATRYCTTYCAK
+ZNF559,ENSG00000188321,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,385]",
+ZNF560,ENSG00000198028,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,386]",
+ZNF561,ENSG00000171469,C2H2 ZF,"Known motif – In vivo/Misc source [1,387]",DSNGCMGAAARGSBBYBBBCC
+ZNF562,ENSG00000171466,C2H2 ZF,"Known motif – In vivo/Misc source [1,388]",DDYYCAGCAAGGCAMWWT
+ZNF563,ENSG00000188868,C2H2 ZF,"Known motif – High-throughput in vitro [1,389]",BTCMBNNSHRGCMRCHGY
+ZNF564,ENSG00000249709,C2H2 ZF,"Known motif – High-throughput in vitro [1,390]",GGGAAGTCCAAG
+ZNF565,ENSG00000196357,C2H2 ZF,"Known motif – High-throughput in vitro [1,391]",ATGYTGTGAGGAAGCYCA
+ZNF566,ENSG00000186017,C2H2 ZF,"Known motif – High-throughput in vitro [1,392]",VNDGCKGVAARGGARSC
+ZNF567,ENSG00000189042,C2H2 ZF,"Known motif – High-throughput in vitro [1,393]",VHAVAARHAGAMMHHNARRTG
+ZNF568,ENSG00000198453,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,394]",
+ZNF569,ENSG00000196437,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,395]",
+ZNF57,ENSG00000171970,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,396]",
+ZNF570,ENSG00000171827,C2H2 ZF,"Known motif – High-throughput in vitro [1,397]",ARAHAWMWHNMAAGAAAA
+ZNF571,ENSG00000180479,C2H2 ZF,"Known motif – High-throughput in vitro [1,398]",SSGMGGCBGMGGCRG
+ZNF572,ENSG00000180938,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,399]",
+ZNF573,ENSG00000189144,C2H2 ZF,"Known motif – High-throughput in vitro [1,400]",MAGHMMDGGCMCAMNMADB
+ZNF574,ENSG00000105732,C2H2 ZF,"Known motif – High-throughput in vitro [1,401]",CTAGAGMGKCSS
+ZNF575,ENSG00000176472,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,402]",
+ZNF576,ENSG00000124444,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,403]",
+ZNF577,ENSG00000161551,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,404]",
+ZNF578,ENSG00000258405,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,405]",
+ZNF579,ENSG00000218891,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,406]",
+ZNF580,ENSG00000213015,C2H2 ZF,"Known motif – High-throughput in vitro [1,407]",VCTACCNYHNNVCTACCNH
+ZNF581,ENSG00000171425,C2H2 ZF,"Known motif – In vivo/Misc source [1,408]",CTTCTAVAAGV
+ZNF582,ENSG00000018869,C2H2 ZF,"Known motif – High-throughput in vitro [1,409]",KYMSYTGCMGCCNARNGCAYBCYH
+ZNF583,ENSG00000198440,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,410]",
+ZNF584,ENSG00000171574,C2H2 ZF,"Known motif – High-throughput in vitro [1,411]",DNTTTMARAAHTGYTWTGGDH
+ZNF585A,ENSG00000196967,C2H2 ZF,"Known motif – High-throughput in vitro [1,412]",TCYGTWYTY
+ZNF585B,ENSG00000245680,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,413]",
+ZNF586,ENSG00000083828,C2H2 ZF,"Known motif – High-throughput in vitro [1,414]",CAGGCCYRGAGG
+ZNF587,ENSG00000198466,C2H2 ZF,"Known motif – High-throughput in vitro [1,415]",MCMRYGTTGGGCGCHANNHD
+ZNF587B,ENSG00000269343,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,416]",
+ZNF589,ENSG00000164048,C2H2 ZF,"Known motif – In vivo/Misc source [1,417]",VSRBDRWWVCCBYKK
+ZNF592,ENSG00000166716,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,418]",
+ZNF594,ENSG00000180626,C2H2 ZF,"Known motif – High-throughput in vitro [1,419]",RDDSDGAGAGCNSS
+ZNF595,ENSG00000272602,C2H2 ZF,"Known motif – High-throughput in vitro [1,420]",GGGAGGGMWKC
+ZNF596,ENSG00000172748,C2H2 ZF,"Known motif – High-throughput in vitro [1,421]",VGVRRGAGVSMGAGM
+ZNF597,ENSG00000167981,C2H2 ZF,"Known motif – High-throughput in vitro [1,422]",CAARATGGCGKM
+ZNF598,ENSG00000167962,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,423]",
+ZNF599,ENSG00000153896,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,424]",
+ZNF600,ENSG00000189190,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,425]",
+ZNF605,ENSG00000196458,C2H2 ZF,"Known motif – High-throughput in vitro [1,426]",DGGKNNDDAGRVVCCMNRVD
+ZNF606,ENSG00000166704,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,427]",
+ZNF607,ENSG00000198182,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,428]",
+ZNF608,ENSG00000168916,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,429]",
+ZNF609,ENSG00000180357,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,430]",
+ZNF610,ENSG00000167554,C2H2 ZF,"Known motif – High-throughput in vitro [1,431]",GGAGCGGC
+ZNF611,ENSG00000213020,C2H2 ZF,"Known motif – High-throughput in vitro [1,432]",GGAGMGCCBVNGVVBVSCBSB
+ZNF613,ENSG00000176024,C2H2 ZF,"Known motif – High-throughput in vitro [1,433]",WAAAAAAAB
+ZNF614,ENSG00000142556,C2H2 ZF,"Known motif – In vivo/Misc source [1,434]",BDCTTKAKCTMATKD
+ZNF615,ENSG00000197619,C2H2 ZF,"Known motif – High-throughput in vitro [1,435]",AAABDVCTGYBSCCC
+ZNF616,ENSG00000204611,C2H2 ZF,"Known motif – High-throughput in vitro [1,436]",RHRGGTGAGCRY
+ZNF618,ENSG00000157657,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,437]",
+ZNF619,ENSG00000177873,C2H2 ZF,"Known motif – In vivo/Misc source [1,438]",BYNNBCCCCNNCCYCAGGAAT
+ZNF620,ENSG00000177842,C2H2 ZF,"Known motif – In vivo/Misc source [1,439]",WKTSYAKTY
+ZNF621,ENSG00000172888,C2H2 ZF,"Known motif – In vivo/Misc source [1,440]",RRRVKCYCAGGGMAG
+ZNF623,ENSG00000183309,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,441]",
+ZNF624,ENSG00000197566,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,442]",
+ZNF625,ENSG00000257591,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,443]",
+ZNF626,ENSG00000188171,C2H2 ZF,"Known motif – High-throughput in vitro [1,444]",HDVRTNNKGYTVHKVTGBYCCYTSYH
+ZNF627,ENSG00000198551,C2H2 ZF,"Known motif – High-throughput in vitro [1,445]",TTTAAGCCCACTGTTGAG
+ZNF628,ENSG00000197483,C2H2 ZF,"Known motif – In vivo/Misc source [1,446]",GCAACCAACCTTG
+ZNF629,ENSG00000102870,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,447]",
+ZNF630,ENSG00000221994,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,448]",
+ZNF639,ENSG00000121864,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,449]",
+ZNF641,ENSG00000167528,C2H2 ZF,"Known motif – High-throughput in vitro [1,450]",TGGGGGGGT
+ZNF644,ENSG00000122482,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,451]",
+ZNF645,ENSG00000175809,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,452]",
+ZNF646,ENSG00000167395,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,453]",
+ZNF648,ENSG00000179930,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,454]",
+ZNF649,ENSG00000198093,C2H2 ZF,"Known motif – High-throughput in vitro [1,455]",ATATAA
+ZNF652,ENSG00000198740,C2H2 ZF,"Inferred motif from similar protein – High-throughput in vitro [1,456]",
+ZNF653,ENSG00000161914,C2H2 ZF; AT hook,"Known motif – In vivo/Misc source [1,457]",WTTHNYDHCYKCCGACWNHWAWD
+ZNF654,ENSG00000175105,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,458]",
+ZNF655,ENSG00000197343,C2H2 ZF,"Known motif – High-throughput in vitro [1,459]",RVTAH
+ZNF658,ENSG00000274349,C2H2 ZF,"Known motif – In vivo/Misc source [1,460]",GGGGTRGGACGAGGTGGG
+ZNF66,ENSG00000160229,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,461]",
+ZNF660,ENSG00000144792,C2H2 ZF,"Known motif – High-throughput in vitro [1,462]",DYAGGDTGGRBHATCADB
+ZNF662,ENSG00000182983,C2H2 ZF,"Known motif – High-throughput in vitro [1,463]",DRNAGSMVVGKGMYAGMB
+ZNF664,ENSG00000179195,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,464]",GTTBAAWMCGC
+ZNF665,ENSG00000197497,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,465]",
+ZNF667,ENSG00000198046,C2H2 ZF,"Known motif – High-throughput in vitro [1,466]",GCYTTAARAGCTCANCH
+ZNF668,ENSG00000167394,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,467]",
+ZNF669,ENSG00000188295,C2H2 ZF,"Known motif – High-throughput in vitro [1,468]",VNHHRSANYGGTCRTCRNCCH
+ZNF670,ENSG00000277462,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,469]",
+ZNF671,ENSG00000083814,C2H2 ZF,"Known motif – High-throughput in vitro [1,470]",GAKTGGADBRV
+ZNF672,ENSG00000171161,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,471]",
+ZNF674,ENSG00000251192,C2H2 ZF,"Known motif – High-throughput in vitro [1,472]",GGRBCVCCRVV
+ZNF675,ENSG00000197372,C2H2 ZF,"Known motif – High-throughput in vitro [1,473]",RKGVNHNRGRGGMYAAAAYGD
+ZNF676,ENSG00000196109,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,474]",
+ZNF677,ENSG00000197928,C2H2 ZF,"Known motif – High-throughput in vitro [1,475]",GRAMMCHRAHAAGAWCAGHH
+ZNF678,ENSG00000181450,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,476]",
+ZNF679,ENSG00000197123,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,477]",DGGCAGCAGM
+ZNF680,ENSG00000173041,C2H2 ZF,"Known motif – High-throughput in vitro [1,478]",HNNNNDGNCMAAGAAGAHTNW
+ZNF681,ENSG00000196172,C2H2 ZF,"Known motif – High-throughput in vitro [1,479]",VAAGGABGVNGR
+ZNF682,ENSG00000197124,C2H2 ZF,"Known motif – High-throughput in vitro [1,480]",DDHYMAGCCC
+ZNF683,ENSG00000176083,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,481]",
+ZNF684,ENSG00000117010,C2H2 ZF,"Known motif – High-throughput in vitro [1,482]",BACAGTCCACCCCTTDV
+ZNF687,ENSG00000143373,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,483]",
+ZNF688,ENSG00000229809,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,484]",
+ZNF689,ENSG00000156853,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,485]",
+ZNF69,ENSG00000198429,C2H2 ZF,"Known motif – In vivo/Misc source [1,486]",GGRGSHGGGGBDGGV
+ZNF691,ENSG00000164011,C2H2 ZF,"Inferred motif from similar protein – High-throughput in vitro [1,487]",RKGAGYAC
+ZNF692,ENSG00000171163,C2H2 ZF,"Known motif – In vivo/Misc source [1,488]",SBGGGVCCCACH
+ZNF695,ENSG00000197472,C2H2 ZF,"Known motif – In vivo/Misc source [1,489]",ACCAMMHMC
+ZNF696,ENSG00000185730,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,490]",
+ZNF697,ENSG00000143067,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,491]",KKKGCGAGGGM
+ZNF699,ENSG00000196110,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,492]",
+ZNF7,ENSG00000147789,C2H2 ZF,"Known motif – High-throughput in vitro [1,493]",VWRRMADYWNYAARWGBWGRC
+ZNF70,ENSG00000187792,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,494]",
+ZNF700,ENSG00000196757,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,495]",
+ZNF701,ENSG00000167562,C2H2 ZF,"Known motif – High-throughput in vitro [1,496]",GAGMASYHDRGG
+ZNF703,ENSG00000183779,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,497]",
+ZNF704,ENSG00000164684,C2H2 ZF,"Known motif – High-throughput in vitro [1,498]",HRCCGGCCGGYD
+ZNF705A,ENSG00000196946,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,499]",CCAAAARAAYY
+ZNF705B,ENSG00000215356,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,500]",CCAAAARAAYY
+ZNF705D,ENSG00000215343,C2H2 ZF,"Inferred motif from similar protein – In vivo/Misc source [1,501]",CCAAAARAAYY
+ZNF705E,ENSG00000214534,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,502]",
+ZNF705G,ENSG00000215372,C2H2 ZF,"Known motif – In vivo/Misc source [1,503]",RAKAAACCTCY
+ZNF706,ENSG00000120963,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,504]",
+ZNF707,ENSG00000181135,C2H2 ZF,"Known motif – High-throughput in vitro [1,505]",DACMAGGAGTGGGGTK
+ZNF708,ENSG00000182141,C2H2 ZF,"Known motif – High-throughput in vitro [1,506]",RDDAGGYACAGCH
+ZNF709,ENSG00000242852,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,507]",
+ZNF71,ENSG00000197951,C2H2 ZF,"Known motif – High-throughput in vitro [1,508]",BRGNRGSMRRRGVRARRARRGMAA
+ZNF710,ENSG00000140548,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,509]",
+ZNF711,ENSG00000147180,C2H2 ZF,"Known motif – In vivo/Misc source [1,510]",MGGCCTVS
+ZNF713,ENSG00000178665,C2H2 ZF,"Known motif – High-throughput in vitro [1,511]",WAGAMRAAWGCCACGAA
+ZNF714,ENSG00000160352,C2H2 ZF,"Known motif – High-throughput in vitro [1,512]",DKMRKTSCTGCT
+ZNF716,ENSG00000182111,C2H2 ZF,"Known motif – High-throughput in vitro [1,513]",VTATTTCY
+ZNF717,ENSG00000227124,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,514]",
+ZNF718,ENSG00000250312,C2H2 ZF,"Known motif – In vivo/Misc source [1,515]",GGGRATWGCGM
+ZNF721,ENSG00000182903,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,516]",
+ZNF724,ENSG00000196081,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,517]",
+ZNF726,ENSG00000213967,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,518]",
+ZNF727,ENSG00000214652,C2H2 ZF,"Known motif – In vivo/Misc source [1,519]",GGTCCAAWTGM
+ZNF728,ENSG00000269067,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,520]",
+ZNF729,ENSG00000196350,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,521]",
+ZNF730,ENSG00000183850,C2H2 ZF,"Known motif – High-throughput in vitro [1,522]",GGGMRGSBRNGG
+ZNF732,ENSG00000186777,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,523]",
+ZNF735,ENSG00000223614,C2H2 ZF,"Known motif – In vivo/Misc source [1,524]",DGGCAGCAGM
+ZNF736,ENSG00000234444,C2H2 ZF,"Known motif – High-throughput in vitro [1,525]",YCYRGGGYTTTT
+ZNF737,ENSG00000237440,C2H2 ZF,"Known motif – In vivo/Misc source [1,526]",RKRVDGRDGVWGGDG
+ZNF74,ENSG00000185252,C2H2 ZF,"Known motif – In vivo/Misc source [1,527]",RAAGATGTTCHYYDCVKYRTTRTTTAHVW
+ZNF740,ENSG00000139651,C2H2 ZF,"Known motif – High-throughput in vitro [1,528]",YNCCCCCCCCAC
+ZNF746,ENSG00000181220,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,529]",
+ZNF747,ENSG00000169955,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,530]",
+ZNF749,ENSG00000186230,C2H2 ZF,"Known motif – High-throughput in vitro [1,531]",GYTGGGGYT
+ZNF750,ENSG00000141579,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,532]",
+ZNF75A,ENSG00000162086,C2H2 ZF,"Known motif – High-throughput in vitro [1,533]",TGTGGGAAAASM
+ZNF75D,ENSG00000186376,C2H2 ZF,"Known motif – High-throughput in vitro [1,534]",GTGGGAAAKCCTTYH
+ZNF76,ENSG00000065029,C2H2 ZF,"Known motif – High-throughput in vitro [1,535]",HWCCCABAATGCAHYRCR
+ZNF761,ENSG00000160336,C2H2 ZF,"Known motif – In vivo/Misc source [1,536]",KGDWAATCAKA
+ZNF763,ENSG00000197054,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,537]",
+ZNF764,ENSG00000169951,C2H2 ZF,"Known motif – In vivo/Misc source [1,538]",TGCARCCYAGCTCTAYDAGMC
+ZNF765,ENSG00000196417,C2H2 ZF,"Known motif – High-throughput in vitro [1,539]",CTBGGCHVNGCMCWGVS
+ZNF766,ENSG00000196214,C2H2 ZF,"Known motif – In vivo/Misc source [1,540]",RAKAAACCYYH
+ZNF768,ENSG00000169957,C2H2 ZF,"Known motif – High-throughput in vitro [1,541]",CHCAGAGAGGKYRAG
+ZNF77,ENSG00000175691,C2H2 ZF,"Known motif – In vivo/Misc source [1,542]",TYMYCACTYCACYHNNNHMAD
+ZNF770,ENSG00000198146,C2H2 ZF,"Known motif – In vivo/Misc source [1,543]",GGAGGCYGVVV
+ZNF771,ENSG00000179965,C2H2 ZF,"Known motif – High-throughput in vitro [1,544]",RCGCTAACCAYTD
+ZNF772,ENSG00000197128,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,545]",
+ZNF773,ENSG00000152439,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,546]",
+ZNF774,ENSG00000196391,C2H2 ZF,"Known motif – High-throughput in vitro [1,547]",DGRRRVRGAGVHDGRRD
+ZNF775,ENSG00000196456,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,548]",
+ZNF776,ENSG00000152443,C2H2 ZF,"Known motif – High-throughput in vitro [1,549]",GAAGCAHRRYGCYGGCATCTG
+ZNF777,ENSG00000196453,C2H2 ZF,"Known motif – In vivo/Misc source [1,550]",GHCCSYCCCGTCSARCAAW
+ZNF778,ENSG00000170100,C2H2 ZF,"Known motif – High-throughput in vitro [1,551]",CAGACRMCRRCH
+ZNF780A,ENSG00000197782,C2H2 ZF,"Known motif – High-throughput in vitro [1,552]",VNNNNDNNHDGGCAGGYNBNYDDV
+ZNF780B,ENSG00000128000,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,553]",
+ZNF781,ENSG00000196381,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,554]",
+ZNF782,ENSG00000196597,C2H2 ZF,"Known motif – In vivo/Misc source [1,555]",HARRHCCWACAHVDRGRSHNYCTCAVRVVY
+ZNF783,ENSG00000204946,C2H2 ZF,"Known motif – In vivo/Misc source [1,556]",SBTSCWSCDSCDSYDSCWGCT
+ZNF784,ENSG00000179922,C2H2 ZF,"Known motif – High-throughput in vitro [1,557]",ACYTWCCK
+ZNF785,ENSG00000197162,C2H2 ZF,"Known motif – In vivo/Misc source [1,558]",ACWBRBRCAYACASWYVMMCVMACACASA
+ZNF786,ENSG00000197362,C2H2 ZF,"Known motif – In vivo/Misc source [1,559]",CRGRGNCCCRRRGRC
+ZNF787,ENSG00000142409,C2H2 ZF,"Known motif – High-throughput in vitro [1,560]",BGAGGCANNNNNNNTGCATY
+ZNF788,ENSG00000214189,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,561]",
+ZNF789,ENSG00000198556,C2H2 ZF,"Known motif – High-throughput in vitro [1,562]",CYYSTGACACCH
+ZNF79,ENSG00000196152,C2H2 ZF,"Known motif – High-throughput in vitro [1,563]",AAAVRAAWDAATNTCTAA
+ZNF790,ENSG00000197863,C2H2 ZF,"Known motif – High-throughput in vitro [1,564]",GTGCAGCA
+ZNF791,ENSG00000173875,C2H2 ZF,"Known motif – In vivo/Misc source [1,565]",CKCTGACCCCDCCTCCYBTCTAAA
+ZNF792,ENSG00000180884,C2H2 ZF,"Known motif – In vivo/Misc source [1,566]",DRCTGDTKWNHDBAGATAGKR
+ZNF793,ENSG00000188227,C2H2 ZF,"Known motif – High-throughput in vitro [1,567]",GARCCCCAAGVV
+ZNF799,ENSG00000196466,C2H2 ZF,"Known motif – High-throughput in vitro [1,568]",AYMCYBGYTGTCTCAGTGWTTKGS
+ZNF8,ENSG00000278129,C2H2 ZF,"Known motif – High-throughput in vitro [1,569]",DHNDDGRCRTACCRBV
+ZNF80,ENSG00000174255,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,570]",
+ZNF800,ENSG00000048405,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,571]",
+ZNF804A,ENSG00000170396,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,572]",
+ZNF804B,ENSG00000182348,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,573]",
+ZNF805,ENSG00000204524,C2H2 ZF,"Known motif – High-throughput in vitro [1,574]",MYKSCATTCCWTKSCWTKYSR
+ZNF808,ENSG00000198482,C2H2 ZF,"Known motif – High-throughput in vitro [1,575]",GGNWGGWCTVYAAAVNVSHYKBTHNDKND
+ZNF81,ENSG00000197779,C2H2 ZF,"Known motif – High-throughput in vitro [1,576]",TGGTVNHACYABYNNRRA
+ZNF813,ENSG00000198346,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,577]",
+ZNF814,ENSG00000204514,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,578]",
+ZNF816,ENSG00000180257,C2H2 ZF,"Known motif – High-throughput in vitro [1,579]",VVNNRDGGGGACMKGHND
+ZNF821,ENSG00000102984,C2H2 ZF,"Known motif – High-throughput in vitro [1,580]",HRGACAGACVGACR
+ZNF823,ENSG00000197933,C2H2 ZF,"Known motif – High-throughput in vitro [1,581]",HHYTTCTCYNYYBCY
+ZNF827,ENSG00000151612,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,582]",
+ZNF829,ENSG00000185869,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,583]",
+ZNF83,ENSG00000167766,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,584]",
+ZNF830,ENSG00000198783,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,585]",
+ZNF831,ENSG00000124203,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,586]",
+ZNF835,ENSG00000127903,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,587]",
+ZNF836,ENSG00000196267,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,588]",
+ZNF837,ENSG00000152475,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,589]",
+ZNF84,ENSG00000198040,C2H2 ZF,"Known motif – High-throughput in vitro [1,590]",RVRRVNNVNRDGAACAGGMAR
+ZNF841,ENSG00000197608,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,591]",
+ZNF843,ENSG00000176723,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,592]",
+ZNF844,ENSG00000223547,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,593]",
+ZNF845,ENSG00000213799,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,594]",
+ZNF846,ENSG00000196605,C2H2 ZF,"Known motif – In vivo/Misc source [1,595]",GVGSMVGGGMSVSVG
+ZNF85,ENSG00000105750,C2H2 ZF,"Known motif – High-throughput in vitro [1,596]",BRGATTMCWKCA
+ZNF850,ENSG00000267041,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,597]",
+ZNF852,ENSG00000178917,C2H2 ZF,"Inferred motif from similar protein – High-throughput in vitro [1,598]",VYAHACTKTNRAGYGV
+ZNF853,ENSG00000236609,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,599]",
+ZNF860,ENSG00000197385,C2H2 ZF,"Known motif – High-throughput in vitro [1,600]",VRCAGGGAGCVRVVS
+ZNF865,ENSG00000261221,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,601]",
+ZNF878,ENSG00000257446,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,602]",
+ZNF879,ENSG00000234284,C2H2 ZF,"Known motif – High-throughput in vitro [1,603]",AHARHAMWAHWRAAMMWANWWRVH
+ZNF880,ENSG00000221923,C2H2 ZF,"Known motif – High-throughput in vitro [1,604]",DDNDDVDNGGGRRDGGGARAGDGMAR
+ZNF883,ENSG00000228623,C2H2 ZF,"Known motif – In vivo/Misc source [1,605]",GAGGCAGCCACH
+ZNF888,ENSG00000213793,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,606]",
+ZNF891,ENSG00000214029,C2H2 ZF,"Known motif – High-throughput in vitro [1,607]",BNNNNSNGRCWKCYAGCC
+ZNF90,ENSG00000213988,C2H2 ZF,"Known motif – High-throughput in vitro [1,608]",TGGGTGDRTMAKCAG
+ZNF91,ENSG00000167232,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,609]",
+ZNF92,ENSG00000146757,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,610]",
+ZNF93,ENSG00000184635,C2H2 ZF,"Known motif – High-throughput in vitro [1,611]",BNNNBNHNGCWGCHRBSNYWGCTRCYDYC
+ZNF98,ENSG00000197360,C2H2 ZF,"Known motif – High-throughput in vitro [1,612]",VNADRKMCAANAAAAAGGHM
+ZNF99,ENSG00000213973,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,613]",
+ZSCAN1,ENSG00000152467,C2H2 ZF,"Known motif – High-throughput in vitro [1,614]",HRCACACVCTGHMAVH
+ZSCAN10,ENSG00000130182,C2H2 ZF,"Inferred motif from similar protein – High-throughput in vitro [1,615]",GDRAGTGC
+ZSCAN12,ENSG00000158691,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,616]",
+ZSCAN16,ENSG00000196812,C2H2 ZF,"Known motif – High-throughput in vitro [1,617]",GAGGCTCTGTTAACANY
+ZSCAN18,ENSG00000121413,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,618]",
+ZSCAN2,ENSG00000176371,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,619]",
+ZSCAN20,ENSG00000121903,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,620]",
+ZSCAN21,ENSG00000166529,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,621]",
+ZSCAN22,ENSG00000182318,C2H2 ZF,"Known motif – High-throughput in vitro [1,622]",GNCHGABGGMGGAGGCNV
+ZSCAN23,ENSG00000187987,C2H2 ZF,"Known motif – High-throughput in vitro [1,623]",BTGTAATTAGCACATGR
+ZSCAN25,ENSG00000197037,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,624]",
+ZSCAN26,ENSG00000197062,C2H2 ZF,"Known motif – In vivo/Misc source [1,625]",TGGGGGGCATM
+ZSCAN29,ENSG00000140265,C2H2 ZF,"Known motif – High-throughput in vitro [1,626]",MCGYRTARMCGKCTAYRC
+ZSCAN30,ENSG00000186814,C2H2 ZF,"Known motif – High-throughput in vitro [1,627]",BCCWGSRGCCHBSVS
+ZSCAN31,ENSG00000235109,C2H2 ZF,"Known motif – High-throughput in vitro [1,628]",GHHGCAGGGCARTTATGC
+ZSCAN32,ENSG00000140987,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,629]",
+ZSCAN4,ENSG00000180532,C2H2 ZF,"Known motif – High-throughput in vitro [1,630]",HGCACACVCTGNMA
+ZSCAN5A,ENSG00000131848,C2H2 ZF,"Known motif – High-throughput in vitro [1,631]",HKTCCCYVCVCAAADM
+ZSCAN5B,ENSG00000197213,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,632]",
+ZSCAN5C,ENSG00000204532,C2H2 ZF,"Known motif – High-throughput in vitro [1,633]",GTGAGTNHAYRRRNV
+ZSCAN9,ENSG00000137185,C2H2 ZF,"Known motif – High-throughput in vitro [1,634]",DRKGATAAGATAAGAABCM
+ZUFSP,ENSG00000153975,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,635]",
+ZXDA,ENSG00000198205,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,636]",
+ZXDB,ENSG00000198455,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,637]",
+ZXDC,ENSG00000070476,C2H2 ZF,"Likely sequence specific TF according to literature or domain structure – No motif [1,638]",
+ZZZ3,ENSG00000036549,Myb/SANT,"Known motif – High-throughput in vitro [1,639]",SAATCCAW
