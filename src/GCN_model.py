@@ -438,7 +438,7 @@ def train2(model,optimizer,train_loader,epoch,device,
     loss_rec = 0
     loss_l1 = 0
     iters = len(train_loader)
-    for idx,data in enumerate( train_loader):
+    for idx,data in enumerate(train_loader):
         data = data.to(device)
         if verbose:
             print(data.y.shape,data.edge_index.shape)
